@@ -1,0 +1,88 @@
+{
+  "Event": {
+    "Disaster Group": {
+      "Type": "Categorical",
+      "Required": true,
+      "Description": "Top-level hazard class; see disaster_classification.Disaster_Group"
+    },
+    "Disaster Type": {
+      "Type": "Categorical",
+      "Required": true,
+      "Description": "Hazard subtype; see disaster_classification.Disaster_Type"
+    },
+    "Disaster Date (YMD)": {
+      "Type": "Date",
+      "Required": false,
+      "Description": "The date is defined as the day which the incident was happened (e.g. Earthquake) or the first day where damage and / or loss is reported (e.g. Flood). Type the date of the disaster in the three fields available in numbers, in this order: year-month-day. Years must be written in full: 1995, 1845, etc. The letters YMD remind you of the order in which you must type these data and the output format should be YYYY-MM-DD. For disasters developing gradually over a longer time period (e.g., drought) with no precise onset date, month and day can be left blank."
+    },
+    "Cause": {
+      "Type": "Text",
+      "Required": false,
+      "Description": "Additional specifications on the contextual factors that led to the event, e.g., “heavy rains” for floods, or “drought” for a forest fire. "
+    },
+    "Magnitude": {
+    "Type": "Floating Point",
+    "Required": false,
+    "Description": "The intensity of a specific disaster; see Magnitude_information."
+    },
+    "Magnitude Scale": {
+    "Type": "Categorical",
+    "Required": false,
+    "Description": "The associated unit for the Magnitude column; see Magnitude_information."
+    }
+  },  
+  "Geographical Information": {
+    "Country": {
+      "Type": "Text",
+      "Required": true,
+      "Description": "Country where the disaster occurred and had an impact, using names from the UN M49 Standard."
+    },
+    "Geographical Level 0": {
+      "Type": "Text",
+      "Required": false,
+      "Description": "The largest geographical unit in the dataset may be State, Province, etc., depending on the nomenclature of each country. The number gets larger, the unit gets smaller. The title of this field changes according to the names of the levels in each country. Avoid create regions if it is not absolutely necessary. "
+    },
+    "Geographical Level 1": {
+      "Type": "Text",
+      "Required": false,
+      "Description": "The title of this field changes according to the names of the levels in each country. It may be Municipality/block, district, etc. and corresponds to the second classification level or political-administrative subdivision "
+    },
+    "Geographical Level 2": {
+      "Type": "Text",
+      "Required": false,
+      "Description": "The title of this field changes according to the names of the levels in each country. It may be District, Parish, etc., and corresponds to the third classification level or political-administrative division. This field is NOT mandatory, but it MUST be entered when a disaster affects only one subdivision. For example, if this level district is not entered the program will assume that all the districts of the state were affected. Use it in the same way as Level1 list.  "
+    },
+    "Location": {
+      "Type": "Text",
+      "Required": false,
+      "Description": "Enter in this field the site where the event occurred, if the information is available. If the site corresponds exactly with the last geographical level reported, it is NOT necessary to type it again. This space is to specify the exact place in the municipality or geographical unit where the disaster occurred. It can be a rural settlement, a village or post, a farm, a city address, a geographical accident, a river, etc."
+    }
+  },
+  "Effect": {
+    "Number of Deaths": {
+      "Type": "Integer",
+      "Required": false,
+      "Description": "Corresponds to the number of people who died due to direct causes, whether immediately or time after the disaster."
+    },
+    "Number of missing [Missing persons]": {
+      "Type": "Integer",
+      "Required": false,
+      "Description": "Report the number of persons whose whereabouts after a disaster are unknown. It could include people presumed dead without physical evidence according to the national legislation, however, data on dead and missing persons must be mutually exclusive. (E.g. A country presumes that a person will be considered as dead in government records if not retured or found after 5 years of the disaster event.) "
+    },
+    "Number of Injured": {
+      "Type": "Integer",
+      "Required": false,
+      "Description": "Corresponds to the number of persons with bodily injuries. Bodily injuries,  and, if the cause is plague or epidemic, the sick must be included."
+    },
+    "Number of affected": {
+      "Type": "Integer",
+      "Required": false,
+      "Description": "The number of affected people is often mentioned and is widely used by different actors to convey the extent, impact, or severity of a disaster in non-spatial terms. If only the number of families affected or houses damaged are reported, the figure is multiplied by the average family size for the affected area (×5 for developing countries, ×3 for industrialized countries, according to the UNDP country classification)."
+    },
+    "Number of damaged and destroyed dwellings ": {
+      "Type": "Integer",
+      "Required": false,
+      "Description": "Number of houses that suffered minor damage and that have collapsed, or have been swept, submerged or damaged in such a manner that they are not habitable."
+    }
+  }
+}
