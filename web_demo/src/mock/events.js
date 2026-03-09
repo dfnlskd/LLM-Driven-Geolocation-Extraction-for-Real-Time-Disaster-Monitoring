@@ -6,7 +6,7 @@ import * as d3 from 'd3'
  * Returns a flat array of event objects for dashboard consumption.
  */
 export async function mockEvents() {
-  const raw = await d3.csv('/data/events_std_clean.csv')
+  const raw = await d3.csv(import.meta.env.BASE_URL + 'data/events_std_clean.csv')
 
   return raw.map((r, i) => {
     const dateStr = r['Event.Disaster Date (YMD)'] || ''

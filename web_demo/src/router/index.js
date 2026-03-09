@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import ExtractView from '../views/ExtractView.vue'
 import ValidateView from '../views/ValidateView.vue'
 import DashboardView from '../views/DashboardView.vue'
@@ -11,6 +11,6 @@ const routes = [
 ]
 
 export default createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 })
