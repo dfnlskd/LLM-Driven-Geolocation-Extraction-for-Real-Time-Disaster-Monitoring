@@ -1,0 +1,81 @@
+{
+  "Disaster Group":{
+    "Biological": {
+      "Description": "A hazard caused by exposure to living organisms and/or their toxic substances (e.g., venom, or mold) or vector-borne diseases that they may carry. Examples are venomous wildlife and insects, poisonous plants, algae blooms, and mosquitoes carrying agents that causes disease such as parasites, bacteria, or viruses (e.g., malaria).",
+      "Disaster Types": {
+        "Animal incident": "Human encounters with dangerous or exotic animals in both urban and rural environments.",
+        "Epidemic": "Either an unusual, often sudden, increase in the number of cases of an infectious disease that already existed in the region (e.g., flu, or E. coli) or the appearance of an infectious disease previously absent from the region (e.g., plague, or polio).",
+        "Infestation": "The pervasive influx, swarming and/or hatching of insects, worms, or other animals affecting humans, animals, crops, and perishable goods."
+      }
+    },
+    "Climatological": {
+      "Description": "A hazard caused by long-lived, meso- to macro-scale atmospheric processes ranging from intra-seasonal to multi-decadal climate variability.",
+      "Disaster Types": {
+        "Drought": "An extended period of unusually low precipitation that produces a shortage of water for people, animals, and plants. Drought is different from most other hazards in that it develops slowly, sometimes even over the years, and its onset is generally difficult to detect. Drought is not solely a physical phenomenon because its impacts can be exacerbated by human activities and water supply demands. Drought is therefore often defined both conceptually and operationally. Operational definitions of drought, i.e., the degree of precipitation reduction that constitutes a drought, vary by locality, climate, and environmental sector.",
+        "Glacial lake outburst flood": "These floods occur when water held back by a glacier or moraine is suddenly released. Glacial lakes can be at the front of the glacier (marginal lake) or below the ice sheet (sub-glacial lake).",
+        "Wildfire": "Any uncontrolled and non-prescribed combustion or burning of plants in a natural setting such as a forest, grassland, brush land or tundra, which consumes natural fuels and spreads based on environmental conditions (e.g., wind, or topography). Wildfires can be triggered by lightning or human actions."
+      }
+    },
+    "Extra-terrestrial": {
+      "Description": "A hazard caused by asteroids, meteoroids, and comets as they pass near to the Earth, enter the Earth’s atmosphere, and/or strike the Earth, and by changes in interplanetary conditions that effect the Earth’s magnetosphere, ionosphere, and thermosphere.",
+      "Disaster Types": {
+        "Impact": "A type of extra-terrestrial hazard caused by the collision a meteoroid, asteroid, or comet with the Earth.",
+        "Space weather": "A general term for extra-terrestrial weather conditions driven by solar eruptions such as geomagnetic storms, radio disturbances, and solar energetic particles."
+        }
+      },
+    "Geophysical": {
+      "Description": "A hazard originating from solid earth. This term is used interchangeably with the term geological hazard.",
+      "Disaster Types": {
+        "Earthquake": "Sudden movement of a block of the Earth’s crust along a geological fault and associated ground shaking.",
+        "Mass movement (dry)": "Any type of downslope movement of earth materials under hydrological dry conditions.",
+        "Volcanic activity": "A type of volcanic event near an opening/vent in the Earth’s surface including volcanic eruptions of lava, ash, hot vapor, gas, and pyroclastic material."
+      }
+    },
+    "Hydrological": {
+      "Description": "A hazard caused by the occurrence, movement, and distribution of surface and subsurface freshwater and saltwater.",
+      "Disaster Types": {
+        "Flood": "A general term for the overflow of water from a stream channel onto normally dry land in the floodplain (riverine flooding), higher-than-normal levels along the coast (coastal flooding) and in lakes or reservoirs as well as ponding of water at or near the point where the rain fell (flash floods).",
+        "Mass movement (wet)": "Types of mass movement that occur when heavy rain or rapid snow/ice melt send large amounts of vegetation, mud, or rock down a slope driven by gravitational forces.",
+        "Wave action": "Wind-generated surface waves that can occur on the surface of any open body of water such as oceans, rivers, or lakes. The size of the wave depends on the strength of the wind and the distance traveled (fetch)."
+      }
+    },
+    "Meteorological": {
+      "Description": "A hazard caused by short-lived, micro- to meso-scale extreme weather and atmospheric conditions that last from minutes to days.",
+      "Disaster Types": {
+        "Extreme temperature": "A general term for temperature variations above (extreme heat) or below (extreme cold) normal conditions.",
+        "Fog": "Water droplets that are suspended in the air near the Earth’s surface. Fog is, in fact, simply a cloud that is in contact with the ground.",
+        "Storm": "Includes a variety of weather phenomena such as Blizzard/Winter storm, Derecho, Extra-tropical storm, Hail, Lightning/Thunderstorms, Sand/Dust storm, Severe weather, Storm surge, Tornado, Tropical cyclone"
+      }
+    },
+    "Industrial accident": {
+      "Description": "",
+      "Disaster Types": {
+        "Chemical spill": "Accident release occurring during the production, transportation, or handling of hazardous chemical substances.",
+        "Collapse (Industrial)": "Accident involving the collapse of a building or structure. Can either involve industrial structures or domestic/non-industrial structures.",
+        "Explosion (Industrial)": "Explosions involving buildings or structures. Can involve industrial structures.",
+        "Fire (Industrial)": "Urban fire involving buildings or structures. Can involve industrial structures.",
+        "Gas leak": "",
+        "Oil spill": "",
+        "Poisoning": "Poisoning of atmosphere or water courses due to industrial sources of contamination.",
+        "Radiation": ""
+      }
+    },
+    "Miscellaneous accident": {
+      "Description": "",
+      "Disaster Types": {
+        "Collapse (Miscellaneous)": "Accident involving the collapse of a building or structure. Can involve domestic/non-industrial structures.",
+        "Explosion (Miscellaneous)": "Explosions involving buildings or structures.",
+        "Fire (Miscellaneous)": "Urban fire involving buildings or structures."
+      }
+    },
+    "Transport": {
+      "Description": "",
+      "Disaster Types": {
+        "Air": "Transport accidents involving airplanes, helicopters, airships, and balloons.",
+        "Rail": "Transport accidents involving trains.",
+        "Road": "Transport accidents involving motor vehicles on roads and tracks.",
+        "Water": "Transport accidents involving sailing boats, ferries, cruise ships, and other vessels"
+      }
+    }
+  }
+}

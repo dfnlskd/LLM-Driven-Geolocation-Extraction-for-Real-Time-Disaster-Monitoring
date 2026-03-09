@@ -1,0 +1,1369 @@
+Event.Disaster Group,Event.Disaster Type,Event.Disaster Date (YMD),Event.Cause,Event.Magnitude,Event.Magnitude Scale,Geographical Information.Country,Geographical Information.Geographical Level 0,Geographical Information.Geographical Level 1,Geographical Information.Geographical Level 2,Geographical Information.Location,Effect.Number of Deaths,Effect.Number of missing [Missing persons],Effect.Number of Injured,Effect.Number of affected,Effect.Number of damaged and destroyed dwellings ,Country,ISO3
+Hydrological,Flood,2025-05,Heavy monsoon rainfall and upstream water flow from India,,,Bangladesh,,"['Sylhet', 'Sunamganj', 'Moulvibazar', 'Habiganj', 'Netrokona', 'Noakhali', 'Bhola', 'Khagrachari', 'Bandarban', 'Rangamati']",,,,,,,,Bangladesh,BGD
+Hydrological,Flood,2025-05-30,Heavy rainfall,,,Nigeria,,Mokwa,,Kpege village,97.0,20.0,45.0,1500.0,50.0,Nigeria,NGA
+Hydrological,Flood,2025-05-14,Intense rainfall and hailstorms,,,Algeria,,"['Djelfa', 'M’Sila', 'Laghouat', 'Tiaret']",,,5.0,1.0,100.0,250.0,252.0,Algeria,DZA
+Hydrological,Flood,2025-03,MAM long rains and heavy downpours,,,Kenya,,"['Coastal', 'Central', 'Lower Eastern', 'North Rift', 'Upper Eastern', 'Western', 'North Eastern']",,,23.0,,,14793.0,,Kenya,KEN
+Biological,Epidemic,2025-04-30,Virus transmission dynamics and irregular border crossings,,,Ecuador,['Amazonian provinces'],,,,,,3.0,,,Ecuador,ECU
+Hydrological,Flood,2023-05-05,Intense rainfall causing rivers to overflow,,,Haiti,North-East department,,,,,,,3000.0,4000.0,Haiti,HTI
+Geophysical,Earthquake,2025-04-13,,5.0,ML(Local/Richter Magnitude),Tajikistan,"['Rasht', 'Sughd', 'Dushanbe']",,,,,,,,,Tajikistan,TJK
+Biological,Epidemic,2025-04-08,"Limited access to safe water, poor hygiene, and inadequate sanitation",,,Kenya,Nairobi,,,,6.0,,0.0,97.0,,Kenya,KEN
+Hydrological,Flood,2025-04-04,Heavy rainfall causing flooding and landslides,,,Democratic Republic of the Congo,Kinshasa,"['Municipality 1', 'Municipality 2', 'Municipality 3', 'Municipality 4', 'Municipality 5', 'Municipality 6', 'Municipality 7', 'Municipality 8', 'Municipality 9', 'Municipality 10', 'Municipality 11', 'Municipality 12', 'Municipality 13']",,,33.0,,46.0,,,Democratic Republic of the Congo,COD
+Climatological,Drought,2024-11,,,,Papua New Guinea,Autonomous Region of Bougainville (AROB),North Bougainville District,"['Nissan Islands', 'Fead Islands', 'Carteret Islands', 'Mortlock Islands', 'Tasman Islands']",,,,,10948.0,,Papua New Guinea,PNG
+Geophysical,Earthquake,2025-03-28,,7.7,Mw(Moment Magnitude),Myanmar,Sagaing Region,Mandalay city,,,,,,10190000.0,,Myanmar,MMR
+Hydrological,Flood,2025-03-07,Unprecedented heavy rains lasting for three consecutive days,,,Iraq,,"['Al Anbar', 'Erbil', 'Al Qadisiyyah', 'Diyala', 'Thi Qar', 'Babil', 'Karbala']",,,,,,,,Iraq,IRQ
+Biological,Epidemic,2024-12-06,Surge in cholera cases necessitating urgent interventions,,,Zimbabwe,,"['Harare', 'Mazowe District', 'Bindura', 'Kariba', 'Mt Darwin', 'Uzumba Maramba Pfungwe', 'Beitbridge', 'Chiredzi', 'Hwedza']",,,13.0,,,579.0,,Zimbabwe,ZWE
+Industrial accident,Oil spill,2025-03-13,Major oil pipeline rupture,,,Ecuador,Esmeraldas,,,,,,,300000.0,,Ecuador,ECU
+Meteorological,Storm,2023-03-06,,,,Argentina,Buenos Aires,,,,,,,,,Argentina,ARG
+Meteorological,Storm,2023-03-10,,140,km/h(kilometers per hour),Mozambique,Nampula,Mossuril,,,,,,,,Mozambique,MOZ
+Hydrological,Flood,2025-02,Heavy rainfall,,,Botswana,,,,,,,,5000.0,,Botswana,BWA
+Meteorological,Tropical cyclone,2025-03-04,,,,Madagascar,Toliara,"['Belo sur Tsiribihina', 'Ampanihy']",,,3.0,1.0,69.0,21600.0,,Madagascar,MDG
+Meteorological,Storm,2025-02-21,,,,Georgia,"['Guria', 'Adjara', 'Imereti', 'Mtskheta-Mtianeti']",,,,,,,,,Georgia,GEO
+Meteorological,Flood,2025-01-01,,,,Ecuador,All provinces,,,,9.0,,,19969.0,35.0,Ecuador,ECU
+Climatological,Flood,2025-01-20,,,,Peru,"['Lima', 'Callao']","['Amazonas', 'Áncash', 'Arequipa']",,,,,,,,Peru,PER
+Biological,Epidemic,2025-02-19,,,,Tonga,Vava’u,,,,,,10.0,52.0,,Tonga,TON
+Biological,Epidemic,2025-01-30,Ebola outbreak (Sudan virus) following the death of a male nurse,,,Uganda,Central (Kampala) and Eastern (Mbale) regions,Kampala and Mbale,,,,,,45.0,,Uganda,UGA
+Biological,Epidemic,2024-10-04,Cholera outbreak following attendance at a funeral,,,Ghana,Greater Accra,"['Central Region', 'Western Region', 'Eastern Region', 'Asanti Region', 'Ada East District']",,,,,,4850.0,,Ghana,GHA
+Hydrological,Flood,2025-11-25,,,,Gabon,Ngounié Province,Mouila,,,,,,13400.0,,Gabon,GAB
+Meteorological,Tropical cyclone,2025-01-11,,,,Madagascar,Nampula Province,Northern Madagascar,,,3.0,,,15200.0,,Madagascar,MDG
+Biological,Epidemic,2025-01-07,"Rapid escalation of suspected cases of cholera due to heavy rainfall, poor sanitation, and limited access to clean water",,,Angola,Luanda province,,,,5.0,,,30.0,,Angola,AGO
+Geophysical,Earthquake,2025-01-04,Increased seismic activity related to magma movement,5.8,,Ethiopia,Afar,Awash Fentale,,Near the Dofen mountains,,,,80000.0,0.0,Ethiopia,ETH
+Geophysical,Earthquake,2024-12-17,,7.3,,Vanuatu,,,,30 km west of Port Vila,6.0,,0.0,116000.0,,Vanuatu,VUT
+Meteorological,Tropical cyclone,2023-12-15,,,,Mozambique,Pemba,,,,,,,,,Mozambique,MOZ
+Hydrological,Flood,2024-12-11,Recent heavy rainfall,,,Libya,,"['Tarhuna', 'Bani Waleed', 'Ghiryan', 'Qasr Akhyar', 'Ain Zara', 'Garabolli', 'Tajoura']",,,5.0,,,667.0,,Libya,LBY
+Hydrological,Flood,2024-11-26,Heavy rains across the country triggered by the deep depression in the Bay of Bengal,,,Sri Lanka,,,,,,,,,,Sri Lanka,LKA
+Hydrological,Flood,2024-11,Heavy rainfall attributed to the Northeast Monsoon,,,Malaysia,,"['Kelantan', 'Terengganu', 'Kedah', 'Pahang', 'Negeri Sembilan', 'Johor', 'Perak', 'Melaka', 'Perlis']",,,,,,,,Malaysia,MYS
+Hydrological,Flood,,"Heavy rains, saturation of soils, opening of dam floodgates, increased river and stream flows",,,Dominican Republic,,,,,,,,,,Dominican Republic,DOM
+Geophysical,Earthquake,2023-11-10,,6.8,Mw(Moment Magnitude),Cuba,Granma,Pilon municipality,,,,,,,,Cuba,CUB
+Hydrological,Flood,2024-11-15,Heavy rains and flooding,,,Colombia,"['Chocó', 'La Guajira']",,,,,,,383000.0,,Colombia,COL
+Hydrological,Flood,2024-11-08,Heavy rainfall,,,Costa Rica,['Cartago province'],,,,1.0,,,800.0,0.0,Costa Rica,CRI
+Meteorological,Tropical cyclone,2024-11-14,,,,Philippines,Yap State,Colonia Island,,,,,,,,Philippines,PHL
+Hydrological,Flood,2024-11-10,Torrential rains,,,Haiti,Sud,"['Les Cayes', 'Torbeck', 'Port-Salut', 'Saint-Louis du Sud']",,,,,,17790.0,,Haiti,HTI
+Meteorological,Storm,2023-11-14,"Sustained winds of 45 mph and heavy rainfall, with up to 30 inches expected",,,Honduras,,,,,,,,,,Honduras,HND
+Hydrological,Flood,2024-11-04,Intense rains caused by low pressure system,,,Panama,,,,,4.0,3.0,,1100.0,779.0,Panama,PAN
+Biological,Epidemic,2024-07-22,,,,Burundi,,,,,,,,77.0,,Burundi,BDI
+Biological,Epidemic,2024-09-30,"Mass displacement, heavy rains, and low vaccination rates",,,Algeria,['Southern regions'],,,,68.0,,,536.0,,Algeria,DZA
+Meteorological,Tropical cyclone,2023-11-06,,,,Cuba,Cuba,Havana,,,,,,,,Cuba,CUB
+Meteorological,Storm,2024-10-26,,,,Philippines,Luzon,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2024-10-20,,,,Senegal,Regions,"['Tambacounda', 'Bakel', 'Matam', 'Saint-Louis']",,,,,,55600.0,0.0,Senegal,SEN
+Biological,Epidemic,2024-10-23,Cholera outbreak,,,South Sudan,Upper Nile State,Renk,,,,,0.0,49.0,,South Sudan,SSD
+Meteorological,Tropical cyclone,2024-10-20,,,,Philippines,Cagayan Valley,Luzon,,,,,,,,Philippines,PHL
+Meteorological,Tropical cyclone,2023-10-21,,,,Cuba,,,,,,,,,,Cuba,CUB
+Hydrological,Flood,2024-10-14,Heavy rainfall and strong winds causing floods,,,Sri Lanka,Western province,[],,,3.0,,2.0,134484.0,,Sri Lanka,LKA
+Hydrological,Flood,2024-09-23,Heavy rainfall from Guinea,,,Sierra Leone,,"['Bo', 'Bonthe', 'Bombali', 'Falaba', 'Kambia', 'Moyamba', 'Tonkolili', 'Port Loko', 'Pujehun', 'Western Area']",,,,,,23596.0,,Sierra Leone,SLE
+Hydrological,Flood,2024-09-26,,,,Nepal,,"['Central Nepal', 'Western Nepal']",,,104.0,64.0,73.0,1545.0,,Nepal,NPL
+Biological,Epidemic,2024-01-01,Outbreak of circulating vaccine-derived poliovirus type 2 (cVDPV2) with high risk of transmission and low vaccination coverage.,,,Kenya,,,,,,,,,,Kenya,KEN
+Hydrological,Flood,2024-09-08,Severe tropical disturbance,,,Algeria,Algeria,"['Béchar', 'Elbayadh', 'Beni Abbes', 'Tamanrasset', 'Tiaret', 'Tindouf', 'Naama']",,,5.0,,,2220.0,34.0,Algeria,DZA
+Meteorological,Storm,2024-09-07,Typhoon Yagi causing severe flooding and landslides,,,Viet Nam,Quang Ninh Province,Hai Phong Province,,,58.0,40.0,746.0,52000.0,,Viet Nam,VNM
+Biological,Epidemic,2024-04-25,Heavy seasonal rains affecting already fragile water and sanitation systems,,,Yemen,,,,,,,,,,Yemen,YEM
+Hydrological,Flood,2024-09,,,,Cameroon,Far North Region,"['Mayo-Tsanaga', 'Mayo-Danay', 'Logone-and-Chari']",,,,,,158620.0,,Cameroon,CMR
+Hydrological,Flood,2024-08-25,,,,Thailand,Northern Region,"['Chiang Rai', 'Payao', 'Nan', 'Prae', 'Petchabun']",,,,,,80000.0,,Thailand,THA
+Hydrological,Flood,2024-08-20,,,,Nigeria,Adamawa State,"['Shelleng', 'Numan', 'Madagali']",,,,,,12583.0,298.0,Nigeria,NGA
+Biological,Epidemic,2024-07-25,Increase in the number of dengue cases,,,Panama,"['Panama Metro', 'Colon', 'Panama Oeste', 'Panama Este']",,,,22.0,,,9830.0,,Panama,PAN
+Hydrological,Flood,2024-07-30,Heavy rainfall,,,Guinea,,"['Siguiri', 'Kintinian', 'Djomabanan', 'Kinièbakoura', 'Niandankoro']","['Kintian Centre', 'Boukaria', 'Balata', 'Kofilanin', 'Djomanan Centre', 'Karakoro', 'Kinièbakoura Centre', 'Niandankoro Centre', 'Damissakoro']",Neighborhoods of Siguiri,,,,19195.0,,Guinea,GIN
+Hydrological,Flood,2024-07-22,Heavy rainfall,,,Mali,Segou region,,,Bla town,,,,8700.0,,Mali,MLI
+Hydrological,Flood,2024-05,Rainfall and strong winds,,,Chad,Sila,"['Sila', 'Logone Oriental', 'Logone Occidental', 'Chari Baguirmi', ""N'Djamena""]",,,40.0,,,112413.0,,Chad,TCD
+Hydrological,Flood,2024-09,"High probability of wetter-than-usual conditions in South Sudan and the highest ever recorded water level in Lake Victoria, along with incoming water pressure over the Jinja Dam in Uganda",,,South Sudan,,,,,,,,,,South Sudan,SSD
+Hydrological,Flood,2024-07,Heavy rains and flooding,,,Sudan,Kassala State,"['Aroma', 'Shamal Al Delta', 'Reifi Kassala', 'Gharb Kassala']",,,,,,10180.0,,Sudan,SDN
+Meteorological,Storm,2024-07-24,Combined effects of the Southwest Monsoon and Tropical Cyclone Gaemi,,,Philippines,Cagayan,Quezon City,,,,,,13500000.0,,Philippines,PHL
+Hydrological,Mass movement (wet),2024-07-21,,,,Ethiopia,Gofa Zone,Gezei Gofa Woreda,,Koncho Gozji Kebele and Koncho Wiza Kebele,157.0,,,14000.0,,Ethiopia,ETH
+Hydrological,Flood,2023-04,,,,Burkina Faso,Centre-Nord,Namentenga,,,,,,,,Burkina Faso,BFA
+Hydrological,Flood,2024-06-11,,,,Niger,Maradi,,,,18.0,,,4000.0,329.0,Niger,NER
+Biological,Epidemic,2024-07-17,Presence of cholera,,,Myanmar,,"['Yangon', 'Rakhine', 'Chin', 'East Bago']",,,,,240.0,,,Myanmar,MMR
+Hydrological,Flood,2024-05-06,Heavy rains and ruptures of Jarillón,,,Colombia,Bolívar,San Jacinto del Cauca,,,,,,38854.0,,Colombia,COL
+Hydrological,Flood,2024-06-28,Torrential rains,,,Liberia,County,"['Montserrado', 'Margibi', 'Grand Bassa']",,,2.0,,,50000.0,,Liberia,LBR
+Meteorological,Flood,2024-07,Heavy to very heavy rainfall,,,India,Assam,['19 districts'],,,,,,640000.0,,India,IND
+Hydrological,Flood,2024-06-30,Continuous heavy rain and swollen rivers,,,Myanmar,Kachin State,"['Myitkyina', 'Bhamo Township', 'Sumprabum Township']",,,,,,3500.0,,Myanmar,MMR
+Meteorological,Severe weather,2024-06-05,Heavy rain and thunderstorms,,,Pakistan,,['Punjab'],,,6.0,,40.0,,,Pakistan,PAK
+Meteorological,Tropical cyclone,2024-06-29,Forecast to bring life-threatening winds and storm surge,136,km/h,Saint Vincent and the Grenadines,Windward Islands,"['Saint Lucia', 'Saint Vincent and the Grenadines', 'Grenada', 'Martinique']",,,,,,,,Saint Vincent and the Grenadines,VCT
+Hydrological,Flood,,Floods from major river systems and flash floods during the monsoon,,,Nepal,,,,,,,,,,Nepal,NPL
+Biological,Epidemic,2024-02-16,Increase in dengue cases,,,Guatemala,[],,,,3.0,,,6760.0,,Guatemala,GTM
+Hydrological,Flood,2024-06-18,Heavy monsoon rainfall,,,Bangladesh,Cox’s Bazar,Cox’s Bazar District,[],,10.0,,,8000.0,1200.0,Bangladesh,BGD
+Hydrological,Flood,2024-06-15,"Heavy rainfall causing floods, landslides and severe weather-related incidents",,,El Salvador,['Ahuachapán Department'],['Tacuba'],,,14.0,,,744.0,,El Salvador,SLV
+Biological,Epidemic,2024-05-31,,,,Honduras,,,,,27.0,,,20563.0,,Honduras,HND
+Hydrological,Flood,2024-05-26,Heavy rain,,,Armenia,,"['Lori', 'Tavush', 'Alaverdi', 'Akhtala', 'Bagratashen', 'Bendik', 'Deghdsavan', 'Haghtanak', 'Karkop', 'Mets Ayrum', 'Pokr Ayrum', 'Sanahin', 'Shamlug', 'Shnogh']",,,,,,,,Armenia,ARM
+Meteorological,Storm,2024-05-10,"Heavy rainfall, strong winds, thunderstorms and lightning",,,Sri Lanka,Sabaragamuwa,"['Northern', 'Western', 'Southern', 'North Western', 'Central', 'North Central', 'Uva', 'Eastern']",,,4.0,,10.0,34000.0,1000.0,Sri Lanka,LKA
+Climatological,Wildfire,2024-05-19,,,,Belize,Toledo District,San Pedro Columbia,,,,,,100.0,,Belize,BLZ
+Climatological,Drought,2024-05-22,El Niño-induced drought,,,Namibia,,,,,,,,331000.0,,Namibia,NAM
+Climatological,Drought,2023-11,,,,Mozambique,,,,,,,,,,Mozambique,MOZ
+Meteorological,Storm,2024-05-26,Intensified cyclonic storm expected to make landfall with heavy rainfall and surge height,,,Bangladesh,,"['West Bengal', 'Satkhira', 'Khulna', 'Bagerhat', 'Pirojpur', 'Hatia', 'Bhola', 'Patuakhali', 'Barisal', 'Noakhali', 'Lakshmipur', 'Feni', 'Cumilla', 'Chittagong', ""Cox's Bazar""]",,,,,,1900000.0,500000.0,Bangladesh,BGD
+Climatological,Drought,2024-05,"Prolonged drought conditions, insufficient rainfall, and aging water infrastructure",,,Grenada,,,,,,,,,,Grenada,GRD
+Biological,Epidemic,2024-05-03,Detection of circulating vaccine-derived poliovirus type 2,,,Angola,Lunda Norte,Chitato Municipality,,,,,,,,Angola,AGO
+Geophysical,Mass movement (dry),2024-05-23,,,,Papua New Guinea,Enga Province,Porgera-Paiela District,,,100.0,,,,,Papua New Guinea,PNG
+Climatological,Drought,2024-01,,,,Lesotho,Berea District,"['Maseru District', 'Mafeteng District', 'Mohale’s Hoek District', 'Quthing District', 'Thaba Tseka District', 'Leribe District']",,,,,,325000.0,,Lesotho,LSO
+Hydrological,Flood,2024-04,Heavy rainfall,,,Uganda,,More than 15 districts,,,49.0,28.0,296.0,39185.0,,Uganda,UGA
+Hydrological,Flood,2024-03-25,,,,Malawi,,,,,,,,9000000.0,,Malawi,MWI
+Hydrological,Flood,2024-04,Intense rainfall and ensuing floods,,,Yemen,Hadramawt Governorate,"['Sayun', 'Mukalla', 'Al Abr']","['Maryamah', 'Madouda', 'Hosh Al-Adros', 'Northern Gharran']",,,,,1335.0,,Yemen,YEM
+Hydrological,Flood,2024-05-02,Heavy rains and floods,,,Rwanda,,"['Nyanza District', 'Burera District', 'Ruhango District', 'Gakenke District', 'Ngororero District']",,,14.0,,27.0,,,Rwanda,RWA
+Meteorological,Extreme temperature,2024-04-21,Severe to very severe heatwave,,,Bangladesh,Rajshahi,"['Rajshahi', 'Pabna', 'Khulna', 'Bagerhat', 'Jeshore', 'Patuakhali', 'Chuadanga', 'Natore', 'Chapai Nawabganj', 'Kushtia', 'Jhenaidah', 'Meherpur', 'Bogura', 'Satkhira', 'Barguna', 'Barishal', 'Jhalokathi', 'Bhola', 'Pirojpur', 'Sherpur', 'Mymensingh', 'Sirajganj', 'Tangail', 'Jamalpur', 'Thakurgaon', 'Joypurhat', 'Panchagarh', 'Lalmonirhat', 'Faridpur', 'Madaripur', 'Magura', 'Manikganj', 'Rajbari', 'Gazipur', 'Gopalganj', 'Nilphamari', 'Rangpur', 'Naogaon', 'Gaibandha']",,,10.0,,,33000000.0,,Bangladesh,BGD
+Hydrological,Flood,2024-04-20,Heavy rainfall triggering several landslides and floods,,,Kyrgyzstan,"['Osh', 'Jalal-Abad', 'Talas']",,,,1.0,,,300.0,,Kyrgyzstan,KGZ
+Hydrological,Flood,2024-04,,,,Somalia,,,,,4.0,,,804.0,,Somalia,SOM
+Biological,Epidemic,2024-01-01,,,,Bosnia and Herzegovina,"['Bijeljina', 'Banja Luka', 'Tuzla Canton', 'Sarajevo Canton']",,,,,,,1749.0,,Bosnia and Herzegovina,BIH
+Hydrological,Flood,2024-03,Isolated heavy storms that caused heavy rainfall and flash floods,,,Kenya,County,"['Marsabit', 'Turkana', 'Tana River', 'Garissa', 'Kirinyaga', 'Muranga', 'Kiambu', 'Meru', 'Kisumu', 'Nairobi', 'Kitui']",,,13.0,,,3000.0,,Kenya,KEN
+Hydrological,Flood,2024-03-23,"Intense rains and local thunderstorms, overflowing of the Luyano River",,,Cuba,,"['Artemisa', 'Mayabeque', 'Matanzas', 'Havana']",,,,,,270000.0,,Cuba,CUB
+Hydrological,Flood,2024-03-16,,,,Uruguay,"Florida, San José, Canelones",,,,,,,100000.0,,Uruguay,URY
+Hydrological,Flood,2025-03-19,Flash floods caused by heavy rainfall,,,Iraq,Dohuk,,,,,,,16.0,,Iraq,IRQ
+Biological,Epidemic,2024-02-25,Suspected cases of dengue,,,Mali,['Bamako'],,,,,,0.0,1349.0,,Mali,MLI
+Hydrological,Flood,2024-03-29,Heavy rainfall,,,Afghanistan,,"['Faryab Province', 'Nangarhar Province', 'Daikundi Province']",,,7.0,,,384.0,540.0,Afghanistan,AFG
+Meteorological,Storm,2024-03-27,,,,Madagascar,Sava Region,Ampisikinana Commune,,,6.0,1.0,,2560.0,600.0,Madagascar,MDG
+Biological,Epidemic,2024-01-26,Measles outbreaks,,,Burkina Faso,"['Central region', 'North-Central region', 'North region', 'Boucle du Mouhoun region', 'Hauts-Bassins region']",,,,10.0,,,3050.0,,Burkina Faso,BFA
+Hydrological,Flood,2024-02-29,Heavy rainfall,,,Algeria,Jijel,"['AADL residencies', 'Al Ansar Daira']",,,,,,,,Algeria,DZA
+Meteorological,Extreme temperature,2024-03-03,,,,Afghanistan,"['Badakhshan', 'Badghis', 'Balkh', 'Farah', 'Faryab', 'Ghor', 'Herat', 'Jawzjan', 'Kunduz', 'Nuristan', 'Sar-e-Pul', 'Uruzgan', 'Zabul']",,,,35.0,,0.0,350.0,20.0,Afghanistan,AFG
+Hydrological,Flood,2024-03-03,,,,Argentina,Corrientes Province,City of Corrientes,,,,,,5000.0,,Argentina,ARG
+Climatological,Flood,2024-03-15,,,,Mozambique,Gaza Province,Maputo City,,,2.0,,25.0,48116.0,8000.0,Mozambique,MOZ
+Hydrological,Flood,2024-03-06,Heavy rainfall causing flooding,,,Malawi,,Nkhotakota District,,,6.0,,4.0,14000.0,,Malawi,MWI
+Biological,Epidemic,2024-02-28,Accumulation of water from the rains and high temperatures,,,Peru,"['La Libertad', 'Piura', 'Ica', 'Ancash', 'Lima']",,,,6.0,,0.0,34042.0,,Peru,PER
+Hydrological,Flood,2024-02-26,Heavy rains and flooding,,,Peru,20 regions,,,,32.0,,,100551.0,,Peru,PER
+Hydrological,Flood,2024-02-27,Torrential downpours,,,Pakistan,Balochistan,Gwadar District,,,0.0,,,,,Pakistan,PAK
+Hydrological,Flood,2024-01-30,Heavy rainfall,,,Ecuador,"['Esmeraldas', 'Manabí', 'Los Rios']",,,,,,,3100.0,800.0,Ecuador,ECU
+Biological,Epidemic,2023-10-01,Circulating vaccine derived polio virus type 2 detected in environmental samples,,,Zimbabwe,Harare,,,,,,,,,Zimbabwe,ZWE
+Biological,Epidemic,2024-02-05,Cholera cases and steady progression of the spread,,,Comoros,['Samba'],,,,2.0,,,33.0,,Comoros,COM
+Meteorological,Storm,2024-01-26,,,,Lebanon,"['Bekaa', 'Mount Lebanon', 'North', 'South']",,,,,,,,,Lebanon,LBN
+Biological,Epidemic,2023-09-26,Hepatitis E Virus outbreak,,,South Sudan,Jonglei State,Greater Pibor Administrative Area,,,12.0,,,63.0,,South Sudan,SSD
+Hydrological,Flood,2024-01-07,Storm surge,,,South Africa,"['KwaZulu Natal', 'Free State']","['uThukela', 'uMzinyathi', 'Amajuba']",['Ladysmith'],,41.0,4.0,,6418.0,,South Africa,ZAF
+Climatological,Drought,2023-12-30,,,,Mongolia,,,,,,,,258000.0,,Mongolia,MNG
+Hydrological,Flood,2024-01-19,Heavy rainfall triggering landslides and floods,,,Philippines,Davao Region,Davao de Oro Province,,,7.0,10.0,,218400.0,,Philippines,PHL
+Hydrological,Flood,2024-01-15,Heavy rainfall,,,Brazil,Rio de Janeiro,Rio de Janeiro City,,,11.0,1.0,,,,Brazil,BRA
+Biological,Epidemic,2023-12-15,Dramatic increase in transmission of cholera,,,Zambia,Lusaka Province,peri-urban areas,,,333.0,,,8276.0,,Zambia,ZMB
+Hydrological,Flood,2023-12-28,Heavy rainfall,,,Democratic Republic of the Congo,,"['Kasai-Central Province', 'South Kivu Province', 'Mbandaka (Province of Équateur)']","['Bukavu City', 'Burhinyi Village']",,,,,100.0,,Democratic Republic of the Congo,COD
+Meteorological,Storm,2023-12-16,,,,Argentina,Buenos Aires,,,Bahía Blanca,13.0,,20.0,0.0,0.0,Argentina,ARG
+Climatological,Drought,2023-11-30,Prolonged drought whose effect on agriculture were further escalated by socio-economic cumulative challenges,,,Eswatini,,,,,,,,0.0,,Eswatini,SWZ
+Hydrological,Flood,2023-11-30,,,,Angola,Luanda,,,,30.0,,,26460.0,,Angola,AGO
+Biological,Epidemic,2023-11-29,Consumption of meat of a dead cow,,,Uganda,"['Kyotera district', 'Kabira', 'Kasasa', 'Lwankoni sub-counties', 'Kkyamayembe Sub-County']",,,,1.0,,,3.0,,Uganda,UGA
+Geophysical,Earthquake,2023-12-02,Movements in the Philippine trench,7.4,Mw(Moment Magnitude),Philippines,Surigao del Sur,,,,,,,26000.0,,Philippines,PHL
+Hydrological,Flood,2022-11-17,,,,Dominican Republic,,,,,21.0,,,13000.0,,Dominican Republic,DOM
+Climatological,Flood,2023-10-30,Heavy and prolonged rains,,,Colombia,La Guajira,"Bolívar, Magdalena, Atlántico",,,,,,41088.0,,Colombia,COL
+Climatological,Flood,2023-10-27,,,,Burundi,Cibitoke Province,"['Buganda Commune', 'Murwi Commune', 'Rugombo Commune']",[],,7.0,,34.0,4456.0,,Burundi,BDI
+Climatological,Drought,,,,,Timor-Leste,,,,,,,,,,Timor-Leste,TLS
+Climatological,Drought,2023-09-29,,,,Tonga,Tongatapu and ‘Eua Islands,"['Niuafo’ou', 'Niuatoputapu', 'Ha’apai', 'Vava’u']",,,,,,,,Tonga,TON
+Biological,Epidemic,2023-07-17,Diphtheria outbreak,,,Niger,Health districts,"['Agadez', 'Takieta', 'Tchirozerine']",,,75.0,,,1690.0,,Niger,NER
+Hydrological,Flood,2023-10-13,Akosombo Dam overflow in the River Volta,,,Ghana,,Volta Region,,,,,7.0,4000.0,,Ghana,GHA
+Hydrological,Flood,2023-11-02,Heavy rainfall causing floods and rivers overflow,,,Kenya,Mandera County,Mandera South Constituency,,,5.0,,,4900.0,,Kenya,KEN
+Geophysical,Earthquake,2023-11-03,,5.6,Mw(Moment Magnitude),Nepal,Karnali province,Jajarkot,,,140.0,,140.0,,,Nepal,NPL
+Meteorological,Storm,2023-10-24,,,,Yemen,"['Hadramawt', 'Socotra', 'Al Maharah']","['Nawjed', 'Hadibu', 'Qalansiyah wa Abd Al Kuri', 'Al Ghaydah', 'Hasswin', 'Qishn', 'Sayhut', 'Al Masilah', 'Hawf', 'Shehin']",,,,,,192.0,500.0,Yemen,YEM
+Meteorological,Tropical cyclone,2023-10-22,,,,Solomon Islands,Tikopia Island,,,,,,4.0,22319.0,100.0,Solomon Islands,SLB
+Hydrological,Flood,2023-10-06,Heavy rainfall due to the intensification of the southwest monsoon,,,Sri Lanka,"Western, Sabaragamuwa, Southern","['Gampaha', 'Matara', 'Galle']",,,7.0,,,75000.0,,Sri Lanka,LKA
+Hydrological,Flood,2023-09-23,Severe weather and flooding,,,South Africa,Western Cape,"['Mfuleni Township', 'Faure', 'Sandvlei']",,,11.0,,,16000.0,1500.0,South Africa,ZAF
+Hydrological,Flood,2023-08-11,Heavy torrential rains and breaking of the protective dike along Logone River,,,Chad,,['Mayo Danay Department'],['Maga district'],"['Makaroua', 'Mirbidim', 'Mala', 'Pit-Arrey', 'Moula']",,,,2401.0,,Chad,TCD
+Geophysical,Earthquake,2023-10-03,,5.3,ML(Local/Richter Magnitude),Nepal,Sudurpaschim Province,Bajhang District,,,,,,36250.0,2168.0,Nepal,NPL
+Hydrological,Flood,2023-09-15,Heavy rains,,,Sudan,,"['Nyala Janoub', 'Nyala Shimal', 'Beliel']",,"Otash IDP Camp, Kalma IDP Camp, As Serief IDP Camp",7.0,,,,2019.0,Sudan,SDN
+Hydrological,Flood,2023-10-04,Heavy rains and flash floods,,,Somalia,Bay Region,Baidoa District,Baidoa City,,,,,107000.0,,Somalia,SOM
+Geophysical,Earthquake,2023-10-07,,6.3,,Afghanistan,Herat Province,Zindajan Province,,,100.0,,500.0,,,Afghanistan,AFG
+Biological,Epidemic,2023-09-26,Cholera outbreak,,,Sudan,"['Gedaref', 'Khartoum', 'South Kordofan']",,,,,,,,,Sudan,SDN
+Biological,Epidemic,2023-08-26,Increase in dengue cases,,,Guatemala,"['Zacapa', 'Chiquimula', 'Petén Sur Oriental', 'Escuintla', 'Quetzaltenango', 'Baja Verapaz', 'Sacatepéquez', 'Jutiapa', 'Petén Norte', 'El Quiche', 'Santa Rosa', 'Izabal', 'Jalapa']",Departmental Directorates of Integrated Health Services Networks,,,28.0,,0.0,14299.0,,Guatemala,GTM
+Meteorological,Storm,2023-09-05,Record-breaking rainfall,750,mm,Greece,['Thessaly'],,,,,,,,,Greece,GRC
+Geophysical,Earthquake,2023-09-08,,6.8,,Morocco,,,,,,,,,,Morocco,MAR
+Hydrological,Flood,2023-08,Opening of the Lagdo Dam in Cameroon,,,Nigeria,"Kogi, Benue, Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe","['Kogi', 'Benue', 'Adamawa', 'Bauchi', 'Borno', 'Gombe', 'Taraba', 'Yobe']",,,600.0,,,4400000.0,,Nigeria,NGA
+Hydrological,Flood,2023-07-30,,,,Mauritania,Boghé,,,,1.0,,,,,Mauritania,MRT
+Climatological,Mass movement (wet),2023-08-07,Short-term rains,,,Kyrgyzstan,Issyk-Kul Region,"['Tup District', 'Ken-Suu', 'Bayzak', 'Taldy-Suu', 'Korumdu', 'Koochu']",,,,,,13000.0,200.0,Kyrgyzstan,KGZ
+Climatological,Drought,2023-06-07,,,,Indonesia,Central Papua Province,Puncak District,,,,,,7500.0,,Indonesia,IDN
+Hydrological,Flood,2023-08-13,Heavy rainfall,,,Indonesia,,Pesisir Selatan District,,,,,,2852.0,,Indonesia,IDN
+Hydrological,Flood,2023-07-31,,,,Lao People's Democratic Republic,,Savannakhet,Atsaphon,,,,,5200.0,,Lao People's Democratic Republic,LAO
+Biological,Epidemic,2023-07-22,Proliferation of the vector due to seasonal rains and the lack of proper water storage for domestic consumption,,,Honduras,"Comayagua, La Paz, Yoro, Atlantida, Olancho, Copan, Ocotepeque",Central District (Francisco Morazan),,,0.0,,0.0,9278.0,,Honduras,HND
+Hydrological,Flood,2023-07-22,Heavy rainfall,,,Afghanistan,Maidan Wardak Province,"['Jalrez District', 'Saydabad District', 'Chaki Wardak District', 'Maidan Shahr District', 'Kabul Capital City', 'Khost Province']",[],,36.0,41.0,74.0,,600.0,Afghanistan,AFG
+Meteorological,Storm,2023-05,Heavy rainfall and strong winds,,,Guatemala,,,,,16.0,,4.0,916000.0,,Guatemala,GTM
+Biological,Epidemic,2019-01-01,Ongoing outbreak of dengue,,,Bangladesh,,,,,,,,101354.0,,Bangladesh,BGD
+Hydrological,Flood,2023-07-10,Severe weather and heavy rainfall,,,Niger,,"['Maradi', 'Tahoua', 'Tillabéri']",,,7.0,,,5680.0,664.0,Niger,NER
+Biological,Epidemic,2023-06-16,,,,Peru,,,,,31.0,,,45900.0,,Peru,PER
+Meteorological,Storm,2023-06-15,,,,Armenia,"['Tavush', 'Lori', 'Syunik', 'Shirak']","['Ijevan', 'Gyumri']",[],,,,,12744.0,,Armenia,ARM
+Meteorological,Storm,2023-06-15,"Heavy rainfall, flooding, and hailstorms",,,Georgia,"['Kakheti', 'Samegrelo-Zemo Svaneti']","['Gurjaani', 'Lentekhi', 'Chumlaki', 'Tchandari', 'Vejini', 'Dzirkoki', 'Kolagi', 'Bakurtsikhe', 'Kodalo', 'Chikhareshi', 'Jakhunderi', 'Nakisheri', 'Skhedi', 'Upper Shkedi', 'Akhalsheni', 'Panaga', 'Lekosadeni']",,,,,,58723.0,,Georgia,GEO
+Climatological,Rainfall,2023-06-10,Heavy rains and rain-related incidents,,,Pakistan,,"['Khyber Pakhtunkhwa', 'Punjab']",['Khushab'],Chan village,33.0,,,,165.0,Pakistan,PAK
+Biological,Epidemic,2023-02-12,,,,Zimbabwe,Mashonaland West Province,Chegutu,,,11.0,,,1649.0,,Zimbabwe,ZWE
+Biological,Epidemic,2023-09,Increase in dengue cases coinciding with monsoon season,,,Nepal,,,,,,,,4000.0,,Nepal,NPL
+Geophysical,Volcanic activity,2023-06-08,,,,Philippines,Albay,,,,,,,33691.0,,Philippines,PHL
+Hydrological,Flood,2023-06-03,,,,Ecuador,Esmeraldas,"['Atacames', 'Esmeraldas', 'Musine', 'Quinindé', 'Rioverde']",,,,,,,,Ecuador,ECU
+Climatological,Flash flood,2023-05-29,,,,Argentina,Buenos Aires,Quilmes,,,,,,,,Argentina,ARG
+Hydrological,Flood,2023-06-03,Heavy rainfall,,,Haiti,"Ouest, Nippes, Sud-Est, Nord-Ouest, Centre",,,,15.0,8.0,,13400.0,1200.0,Haiti,HTI
+Hydrological,Flood,2023-05-15,,,,Gabon,Haut Ogooué Province,Franceville,,,,,,3000.0,200.0,Gabon,GAB
+Meteorological,Storm,2023-05-19,,,,Mongolia,"['Dornod', 'Sukhbaatar', 'Khentii']",['Gobi areas'],,,2.0,124.0,,5100.0,149.0,Mongolia,MNG
+Biological,Epidemic,,,,,Sri Lanka,,"['Colombo', 'Gampaha', 'Kalutara', 'Batticaloa', 'Trincomalee', 'Kandy', 'Galle']",,,,,,33742.0,,Sri Lanka,LKA
+Hydrological,Flood,2023-05-08,Very heavy rainfall causing rivers to overflow and flash floods,,,Democratic Republic of the Congo,['South Kivu Province'],['Kalehe Territory'],,,400.0,,,,,Democratic Republic of the Congo,COD
+Hydrological,Flood,2023-05-02,Heavy rainfall causing floods and landslides,,,Rwanda,"Northern, Western and Southern Provinces",,,,127.0,,,,,Rwanda,RWA
+Hydrological,Flood,2023-04,Torrential rainfall,,,Yemen,Marib Governorate,,,,5.0,,,,30.0,Yemen,YEM
+Geophysical,Earthquake,2023-03-23,,5.0,,Tajikistan,Sughd Region,Kuhistoni Mastchoh district,Langar rural jamoat,Paldorak village,0.0,,3.0,,318.0,Tajikistan,TJK
+Meteorological,Flood,2023-03,,,,Kenya,Nairobi County,"['Gilgil Town', 'West Pokot County', 'Nairobi', 'Suswa Town', 'Marsabit County']",,,12.0,,,812.0,,Kenya,KEN
+Hydrological,Flood,2023-03,Heavy rainfall causing widespread floods and overflow of rivers,,,Ethiopia,Somali Region,"['Somali', 'Oromia', 'Afar Region']",,,29.0,,,240000.0,,Ethiopia,ETH
+Biological,Epidemic,2022-12-10,,,,South Sudan,"['Eastern Equatoria State', 'Upper Nile State']",,,,,,,55.0,,South Sudan,SSD
+Hydrological,Flood,2023-02-18,Heavy rainfall,,,Ecuador,"['Chimborazo', 'Esmeraldas', 'Los Ríos', 'Loja', 'Manabí', 'El Oro', 'Guayas']",,,,6.0,,,,,Ecuador,ECU
+Climatological,Drought,2023-03,Concerns over a likely deterioration of living conditions,,,Somalia,Gedo and Bay regions,"['Baardheere', 'Wanle Wayne', 'Luuq', 'Doolow']",,,,,,,,Somalia,SOM
+Meteorological,Storm,2023-02-28,,,,Paraguay,Concepción,,,,,,,,,Paraguay,PRY
+Biological,Epidemic,2023-03-02,Alarming increase in diphtheria,,,Nigeria,,,,,89.0,,,733.0,,Nigeria,NGA
+Hydrological,Flood,2023-03-11,Cyclone Yaku and heavy rains,,,Peru,Piura Region,,,,4.0,,,3529.0,2077.0,Peru,PER
+Geophysical,Earthquake,2023-03-01,,,,Vanuatu,,,,,,,,,,Vanuatu,VUT
+Meteorological,Storm,2023-03-01,,,,Vanuatu,,,,,,,,,,Vanuatu,VUT
+Biological,Epidemic,2023-02-13,"Viral hemorrhagic fever, suspected Marburg virus",,,Equatorial Guinea,['Continental region'],"['Nosrk Nsomo', 'Ebebiyim']",,,9.0,0.0,,4235.0,,Equatorial Guinea,GNQ
+Meteorological,Tropical cyclone,2023-02-28,,,,Vanuatu,Shefa Province,Port Vila,,,,,,,,Vanuatu,VUT
+Hydrological,Flood,2023-02-09,Overflow of the Asi/Orontes river following the opening of the al-Rastan Dam and the collapse of a concrete dam,,,Türkiye,Idlib,al-Talul,,,,,,7000.0,1000.0,Türkiye,TUR
+Meteorological,Tropical cyclone,2023-02-21,,,,Madagascar,,,,,33.0,20.0,,90000.0,,Madagascar,MDG
+Hydrological,Flood,2023-02-07,Heavy rains reaching up to 100 mm in 24 hours,,,Mozambique,,"['Maputo city', 'Maputo province']",,Maputo city,4.0,0.0,0.0,30605.0,,Mozambique,MOZ
+Biological,Epidemic,2023-01-26,,,,Zambia,Vubwi district,,,,1.0,,,53080.0,,Zambia,ZMB
+Miscellaneous accident,Fire (Miscellaneous),2023-01-14,,,,Guinea-Bissau,,,,Menegue Village,,,,2065.0,,Guinea-Bissau,GNB
+Hydrological,Flood,2023-01-11,Heavy rainfall and thunderstorms,,,Zambia,Southern Province,"['Southern Province', 'Central Province', 'Eastern Province', 'Lusaka Province']",,,,,,,,Zambia,ZMB
+Biological,Epidemic,2023-01-08,Cholera outbreak exacerbated by rainy season,,,Mozambique,Niassa,"['Lago', 'Lichinga', 'Sanga', 'Chimbonila', 'Mecanhelas']",,,14.0,,,878.0,,Mozambique,MOZ
+Meteorological,Storm,2023-01-24,Heavy and persistent rainfall,,,Madagascar,Menabe Region,,,Morondava City,3.0,14.0,,17129.0,5600.0,Madagascar,MDG
+Hydrological,Flood,2022-09,Heavy rains and strong winds,,,Congo,Departments,"['Likouala', 'Sangha', 'Cuvette', 'Plateaux']",,,,,,164679.0,,Congo,COG
+Biological,Epidemic,2023-01-01,,,,Burundi,"['Budjumbura North', 'Cibitoke', 'Isale', 'Bujumbura Centre']",,,,0.0,,,42.0,,Burundi,BDI
+Hydrological,Flood,2022-12-10,,,,South Africa,Gauteng Province,"['Soweto', 'Ekhuruleni', 'Johannesburg', 'Vereeniging', 'Brakpan', 'Rustenburg', 'Bojanala']",,,,,,40000.0,,South Africa,ZAF
+Hydrological,Flood,2022-12,Heavy rainfall,,,Malaysia,,"['Johor', 'Kelantan', 'Pahang', 'Perak', 'Terengganu']",,,,,,2550.0,,Malaysia,MYS
+Hydrological,Flood,2022-12-13,Heavy rains,,,Democratic Republic of the Congo,,,,Kinshasa,120.0,,,39000.0,282.0,Democratic Republic of the Congo,COD
+Hydrological,Flood,2022-11-26,Weeks of constant rainfall causing ground saturation,,,Trinidad and Tobago,,"['Bamboo #2', 'Valsayn South', 'Real Spring Gardens', 'Kelly Village', 'Madras Road', 'El Carmen', 'St. Helena']",,,,,,100000.0,,Trinidad and Tobago,TTO
+Meteorological,Extreme temperature,2022-11-28,,,,Mongolia,"['Uvs', 'Khovd']",,,,216.0,4.0,,,2.0,Mongolia,MNG
+Hydrological,Flood,2022-11-21,"Overflow of the La Villa, Tonosí, and El Cacao rivers",,,Panama,Los Santos and Herrera,,,,,,,450.0,,Panama,PAN
+Geophysical,Earthquake,2022-11-21,,5.6,Mw(Moment Magnitude),Indonesia,West Java Province,Cianjur Regency,,,2.0,,4.0,978000.0,7.0,Indonesia,IDN
+Geophysical,Earthquake,2022-11-09,,6.6,Mw(Moment Magnitude),Nepal,Doti District,Khaptad Chhanna Rural Municipality,,,,,,,,Nepal,NPL
+Hydrological,Flood,2022-11-06,Heavy rains associated with an upper-level trough,,,Saint Lucia,,"['Gros Islet District', 'Corinth', 'Bois drorange', 'Grande Riviere']",,,,,,5500.0,,Saint Lucia,LCA
+Meteorological,Storm,2022-10-31,Tropical Storm Lisa,40,mph,Belize,Belize,,,,,,,,,Belize,BLZ
+Meteorological,Storm,2022-10-27,,,,Philippines,Northern Samar,Catarman City,,,,,,,,Philippines,PHL
+Hydrological,Flood,2022-09-21,"Heavy rainfall, overflowing of rivers and breaching of dikes",,,Cameroon,Far North,"['Mayo-Danay', 'Logone et Chari', 'Mayo-Tsanaga']",[],,2.0,,,37000.0,,Cameroon,CMR
+Hydrological,Flood,2022-09,,,,Benin,Central Region,,,,,,,73270.0,1400.0,Benin,BEN
+Meteorological,Storm,2022-09-02,,,,El Salvador,San Salvador,Las Palmas,,Las Palmas,,,,65.0,50.0,El Salvador,SLV
+Biological,Epidemic,2022-09-28,Surge in dengue cases coinciding with the rainy season,,,Nepal,Bagmati Province,,,,38.0,,,28109.0,,Nepal,NPL
+Biological,Epidemic,2022-09-16,Cholera outbreak,,,Ethiopia,Oromia Region,"['Harana Buluk', 'Berbere', 'Dolo Mena']",,,0.0,,14.0,16.0,,Ethiopia,ETH
+Biological,Epidemic,2023-10-02,Resurfacing cholera cases due to gang blockades causing severe shortages of fuel and safe drinking water,,,Haiti,Ouest Department,,,,,,,2.0,,Haiti,HTI
+Meteorological,Tropical cyclone,2022-09-22,,,,Philippines,Cagayan Valley Region,,,,,,,,,Philippines,PHL
+Meteorological,Storm,2022-09-16,Tropical Storm Fiona causing heavy rainfall and flooding,,,Guadeloupe,,,,,1.0,,,,,Guadeloupe,GLP
+Hydrological,Flood,2022-08-28,Persistent torrential rains,,,Sierra Leone,Freetown,[],,,,,,,,Sierra Leone,SLE
+Geophysical,Earthquake,2022-09-11,,7.6,Mw(Moment Magnitude),Papua New Guinea,Eastern Highlands,Kainantu,,,,,,2500000.0,,Papua New Guinea,PNG
+Hydrological,Flood,2023-07,,,,Central African Republic,Ombella M'Poko,,,,11.0,,,22450.0,2000.0,Central African Republic,CAF
+Biological,Epidemic,2022-08-15,Ebola virus disease,,,Democratic Republic of the Congo,['North Kivu'],,,,1.0,,,,,Democratic Republic of the Congo,COD
+Hydrological,Flood,2022-09-05,,,,Niger,,Niamey,,,,,,,,Niger,NER
+Hydrological,Flood,2022-07-30,Heavy rainfall triggering landslides and causing rivers to overflow,,,Uganda,,"['Mbale', 'Kapchorwa', 'Sironko', 'Bulambuli', 'Bukedea']",,,24.0,,,3745.0,,Uganda,UGA
+Geophysical,Earthquake,2022-07-27,,7.0,,Philippines,Abra,Ilocos Sur,,Tayum,4.0,,,1624.0,,Philippines,PHL
+Hydrological,Flood,2022-07-10,Torrential rains,,,Sudan,,"['Fatu', 'Al-Aitma', 'Al-Shuhada']",,Ashwaei area,,,,750.0,5.0,Sudan,SDN
+Climatological,Drought,,,,,Mauritania,,,,,,,,,,Mauritania,MRT
+Hydrological,Flood,2022-06-21,Heavy rains and strong wind,,,Georgia,"['Eastern Georgia', 'Western Georgia']","['Kazbegi', 'Tianeti', 'Dusheti', 'Tkibuli', 'Kutaisi', 'Ambrolauri', 'Senaki', 'Khobi', 'Poti', 'Zugdidi']",,,,,,1000.0,,Georgia,GEO
+Biological,Epidemic,2022-06-19,Cholera outbreak,,,Iraq,"['Sulaymaniyah', 'Al Muthanna', 'Kirkuk', 'Erbil', 'Duhok']",N/A,,,,,,13.0,,Iraq,IRQ
+Hydrological,Flood,2022-07,Heavy rainfall causing floods and flash floods,,,Pakistan,,"['Balochistan', 'Khyber Pakhtunkhwa']",['Quetta'],,29.0,,39.0,,8.0,Pakistan,PAK
+Hydrological,Flood,2022-05-23,"Heavy rain, floods and mudslides",,,Guatemala,,"['Retalhuleu', 'Suchitepéquez', 'Quetzaltenango', 'Alta Verapaz']",,,,,,7000.0,,Guatemala,GTM
+Hydrological,Flood,2022-05-13,"Heavy rainfall, landslides, and river overflow",,,India,Arunachal Pradesh,"['Assam', 'Meghalaya']","['Dima Hasao District', 'East Khasi Hills District', 'Ri-Bhoi District']",,7.0,,,25000.0,70.0,India,IND
+Hydrological,Flood,2022-05-10,Sudden heavy rains and windstorms,,,Somalia,,Galkacyo,,,,,,40416.0,,Somalia,SOM
+Climatological,Drought,2022-06,,,,Niger,,,,,,,,3300000.0,,Niger,NER
+Biological,Epidemic,2022-04-30,Continuing transmission due to population movement and poor conditions,,,South Sudan,Bentiu,,,,,,3704.0,300000.0,,South Sudan,SSD
+Biological,Epidemic,2021-04-23,Confirmed case of Ebola,,,Democratic Republic of the Congo,['Equateur Province'],['Mbandaka'],,,,,,,,Democratic Republic of the Congo,COD
+Biological,Epidemic,2022-04-21,Low immunization rates due to disruption of immunization activities for COVID-19 and misconceptions on immunization,,,Liberia,['14 of the 15 counties'],,,,3.0,,,456.0,,Liberia,LBR
+Biological,Epidemic,2022-04-11,,,,Zambia,Lusaka Province,Lusaka District,Mtendere compound,,0.0,0.0,8.0,16.0,,Zambia,ZMB
+Hydrological,Flood,2022-04-11,Heavy rainfall,,,South Africa,KwaZulu-Natal,Eastern Cape,,,443.0,40000.0,,40000.0,4000.0,South Africa,ZAF
+Meteorological,Storm,2022-04-10,Non-stop rain induced flooding,,,Philippines,Leyte,Eastern Visayas,,,1.0,1.0,2.0,136400.0,,Philippines,PHL
+Climatological,Drought,,,,,Sri Lanka,,,,,,,,0.0,,Sri Lanka,LKA
+Geophysical,Earthquake,2022-03-26,,6.0,,Ecuador,Esmeraldas,,,,,,,4097.0,,Ecuador,ECU
+Meteorological,Storm,2023-03-19,Torrential rain due to recent climatic fluctuations,,,Tunisia,"['Siliana', 'Kairouan', 'Gafsa', 'Sidi Bouzid', 'Jendouba', 'Beja', 'El Kef', 'Kasserine']",[],,,1.0,1.0,,,5.0,Tunisia,TUN
+Hydrological,Flood,2022-03-15,Heavy rainfall triggering landslides and causing rivers to overflow,,,Colombia,"['Andean regions', 'Pacific regions']","['Cundinamarca', 'Cauca', 'Antioquia', 'Huila', 'Nariño', 'Caldas', 'Quindío', 'Risaralda', 'Tolima', 'Valle del Cauca']",,,12.0,,14.0,5500.0,,Colombia,COL
+Meteorological,Storm,2022-03-07,,,,Madagascar,Antsiranana Province,Toamasina Province,,,,,,,,Madagascar,MDG
+Climatological,Drought,2022-05,,,,Djibouti,Ali Sabieh,"['Arta', 'Obock', 'Tadjourah', 'Dikhil']",,,,,,132000.0,,Djibouti,DJI
+Climatological,Wildfire,2022-02-24,,,,Central African Republic,Bakala,,,,,,17.0,955.0,,Central African Republic,CAF
+Biological,Epidemic,2022-02-17,Outbreak of wild poliovirus type 1,,,Malawi,Lilongwe,,,,,,,,,Malawi,MWI
+Biological,Epidemic,2022-02-12,Alarming increase of Visceral Leishmaniasis cases,,,Sudan,Gedaref State,,,,8.0,,,495680.0,,Sudan,SDN
+Hydrological,Flood,2022-02-03,,,,Haiti,Nippes Department,"['North-West Department', 'North Department', 'North-East Department']",,,5.0,1.0,,2581.0,,Haiti,HTI
+Climatological,Landslide,2022-02-02,Heavy rain,,,Ecuador,Quito,,,,23.0,15.0,49.0,,,Ecuador,ECU
+Industrial accident,Oil spill,2022-01-15,Environmental emergency following an oil spill at a Repsol-owned refinery,,,Peru,Lima metropolitan region,,,,,,,180.0,,Peru,PER
+Industrial accident,Explosion (Industrial),2022-01-20,,,,Ghana,Western Region,,,"Apeate community, near Bogoso",,,,,,Ghana,GHA
+Hydrological,Flood,2022-01-16,,,,Zambia,Southern Province,"['Kalomo', 'Namwala', 'Choma']",,,,,,3219.0,500.0,Zambia,ZMB
+Biological,Epidemic,2022-01-15,Escalation of dengue fever cases,,,Timor-Leste,['Dili'],Municipalities,,,20.0,,,853.0,,Timor-Leste,TLS
+Geophysical,Volcanic activity,2022-01-15,,,,Tonga,,,,,,,,,,Tonga,TON
+Biological,Epidemic,2022-01-01,Yellow Fever outbreak,15,Number of patients presenting symptoms,Kenya,Isiolo County,Merti Sub County,,,3.0,,15.0,15.0,,Kenya,KEN
+Hydrological,Flood,2022-01-08,,,,Fiji,,,,,,,,,,Fiji,FJI
+Hydrological,Flood,2021-12-17,Heavy rainfalls,,,Iraq,,Kirkuk Governorate,"['Erbil', 'Daratu', 'Qushtapa', 'Shamamk', 'Zhyan', 'Roshinbiri', 'Bahrka']",,14.0,,,7000.0,,Iraq,IRQ
+Miscellaneous accident,Explosion (Miscellaneous),2021-12-14,Tanker truck explosion while residents retrieved fuel,,,Haiti,,,,Cap-Haitien,61.0,,47.0,20.0,,Haiti,HTI
+Meteorological,Storm,2021-12-12,,,,South Africa,Eastern Cape,OR Tambo District,,,6.0,,27.0,8810.0,,South Africa,ZAF
+Geophysical,Volcanic activity,2021-12-04,,,,Indonesia,,,,,13.0,7.0,,,,Indonesia,IDN
+Meteorological,Storm,2021-11-24,,,,Malawi,Salima District,"['Traditional Authority Maganga', 'Traditional Authority Kalonga', 'Traditional Authority Kambwiri', 'Traditional Authority Pemba']",,,0.0,,0.0,1188.0,,Malawi,MWI
+Hydrological,Flood,2021-11-12,Heavy rains and severe weather including strong winds and thunderstorms,,,Egypt,['Aswan Governorate'],[],,,3.0,,450.0,5935.0,220.0,Egypt,EGY
+Miscellaneous accident,Fire (Miscellaneous),2021-11-05,,,,Sierra Leone,,,,"Wellington PMD Junction, Freetown",100.0,,100.0,,,Sierra Leone,SLE
+Geophysical,Volcanic activity,2021-10-22,heavy rainfall caused a landslide which fell into the crater,,,Vanuatu,Tanna,,,,,,,1622.0,,Vanuatu,VUT
+Biological,Epidemic,2021-10-12,,,,Pakistan,,['Islamabad'],,,5.0,,113.0,200.0,,Pakistan,PAK
+Meteorological,Storm,2021-10-07,,,,Philippines,,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,2021-10-07,Earthquake,5.9,Mw(Moment Magnitude),Pakistan,Balochistan,,,,20.0,,300.0,5.0,100.0,Pakistan,PAK
+Miscellaneous accident,Fire (Miscellaneous),2021-10-02,,,,Honduras,Islas de la Bahía,Guanaja,,El Cayo,,,,,,Honduras,HND
+Hydrological,Flood,2021-10-15,Heavy rain triggering landslides and causing floods,,,India,Kerala,"['Kottayam', 'Idukki']",,,27.0,,,4713.0,,India,IND
+Hydrological,Flood,2021-09-22,,,,Georgia,Adjara,Guria,,,,,,1780.0,,Georgia,GEO
+Biological,Epidemic,2021-09-08,Outbreak of meningitis,,,Democratic Republic of the Congo,Tshopo Province,,,,129.0,,,261.0,,Democratic Republic of the Congo,COD
+Hydrological,Flood,,Heavy rains,,,Benin,,,,,9.0,,,0.0,0.0,Benin,BEN
+Meteorological,Storm,2021-08-27,,,,Lesotho,Qacha's Nek and Thaba Tseka,,,,,,,510.0,162.0,Lesotho,LSO
+Hydrological,Flood,2021-08-18,Heavy downpour caused water surges and landslides,,,Malaysia,Kedah,"['Yan', 'Kuala Muda', 'Bandar Baharu', 'Kubang Pasu']",,,,,,4825.0,,Malaysia,MYS
+Biological,Epidemic,2021-08-16,,,,Niger,,,,,35.0,,845.0,,,Niger,NER
+Geophysical,Earthquake,2021-08-14,,7.2,,Haiti,Not specified,Jérémie and Les Cayes,,,227.0,,,,,Haiti,HTI
+Climatological,Wildfire,2021-08-09,,,,Algeria,Kabylia Region,,,,40.0,,,,,Algeria,DZA
+Hydrological,Flood,2021-08-07,,,,Central African Republic,Bangui,"['6th arrondissement', 'Bimbo', 'Birao', 'Baoro']",,,,,,3605.0,,Central African Republic,CAF
+Hydrological,Flood,2021-07,Unseasonal rainstorms,,,Yemen,Southern governorates,,,,14.0,,,1000.0,,Yemen,YEM
+Hydrological,Flood,2021-07-27,Heavy monsoon rains leading to slope failures and severe flooding,,,Bangladesh,,Cox’s Bazar,,,6.0,,,1000.0,,Bangladesh,BGD
+Meteorological,Extreme temperature,2021-06-01,,,,Kazakhstan,"['Kyzylorda', 'Mangystau', 'Turkestan']",,,,,,,,,Kazakhstan,KAZ
+Hydrological,Flood,2023-06,Prolonged heavy rainfall,,,Mongolia,,"['Arkhangai', 'Umnugovi', 'Orkhon', 'Dornogovi', 'Govi-Altai', 'Uvurkhangai', 'Tuv']",,,,,,7745.0,,Mongolia,MNG
+Hydrological,Flood,2021-07-21,Heavy rainfall in the Al Butanah catchment area,,,Sudan,Gedaref State,"['Al Fao locality', 'village 16', 'village 14', 'Al-Abhath', 'Haj AlSayed', 'Tiako']",,,,,,70100.0,150.0,Sudan,SDN
+Meteorological,Storm,2021-07-08,,,,Philippines,Davao Region,,,,,,,22550.0,3.0,Philippines,PHL
+Geophysical,Volcanic activity,2021-07-01,,,,Philippines,Batangas,Agoncillo,,,,,,14495.0,,Philippines,PHL
+Hydrological,Flood,2021-06-18,Heavy rain with thunderstorms,,,Nepal,"Province 1, Province 2, Bagmati Province, Gandaki Province",,,,15.0,5.0,25.0,405.0,19.0,Nepal,NPL
+Hydrological,Flood,2021-06,Heavy rainfall,,,Niger,,"['Maradi', 'Agadez', 'Niamey']",,,35.0,,24.0,26530.0,2500.0,Niger,NER
+Meteorological,Tropical cyclone,2021-05-26,Cyclonic Storm 'Yaas' expected to bring heavy rainfall and strong winds,,,India,Odisha,['West Bengal'],,,,,,3000000.0,,India,IND
+Hydrological,Flood,2021-05-20,,,,Guyana,Region Nine,,,,,,,15000.0,230.0,Guyana,GUY
+Hydrological,Flood,2021-05-20,Heavy rainfalls causing two rivers collision,,,Malaysia,Sabah,"['Beaufort', 'Tenom']",,,,,,5782.0,,Malaysia,MYS
+Hydrological,Flood,2021-05-13,Heavy rain,,,Sri Lanka,,"['Western Province', 'Central Province', 'Southern Province', 'Kandy District']",,,3.0,,3.0,44153.0,618.0,Sri Lanka,LKA
+Hydrological,Flood,2021-05-07,,,,Tajikistan,,"['Kulob', 'Vakhsh', 'Jomi', 'Vose', 'Shamsiddini Shohin', 'Yovon', 'Dusti', 'Muminobod', 'Qushoniyon', 'Dangara', 'Khuroson']",,,,,,14500.0,128.0,Tajikistan,TJK
+Hydrological,Flood,2021-05-07,Heavy Gu season rains,,,Somalia,,"['Banadir', 'Puntland', 'Middle Shabelle', 'Jubaland']",,,25.0,,,25000.0,,Somalia,SOM
+Hydrological,Flood,2021-05-02,Heavy rain,,,Afghanistan,,"['Herat', 'Ghor', 'Maidan Wardak', 'Baghlan', 'Samangan', 'Khost', 'Bamyan', 'Daikundi', 'Badakhshan']",,,25.0,,,,150.0,Afghanistan,AFG
+Hydrological,Flood,2021-04-28,,,,Rwanda,Burera District,Gahunga Sector,"['Rutare', 'Rukomo', 'Byumba', 'Kageyo', 'Miyove', 'Ruvune', 'Nyankenke', 'Mwili Sector']",Burera District,1.0,,,6500.0,1300.0,Rwanda,RWA
+Hydrological,Flood,2021-04-24,,,,Suriname,All districts,,,,,,,,,Suriname,SUR
+Hydrological,Flood,2021-04,Heavy rainfall and rising water levels,,,Burundi,Rumonge Province,"['Bugarama', 'Kanyenkoko', 'Muhuta', 'Nyanza-Lac', 'Gatumba', 'Rukaramu', 'Kibenga', 'Gisyo', 'Kabondo']",,,2.0,,,8000.0,,Burundi,BDI
+Hydrological,Flood,2021-04-18,"Heavy rain causing rivers overflow, floods and landslides",,,Guatemala,Quiché Department,"['Uspantán', 'Chicamán']",,,,,,2245.0,,Guatemala,GTM
+Meteorological,Tropical cyclone,2021-04-20,Typhoon Surigae maintaining strength with heavy rainfall,,,Philippines,Aurora Province,,,"475 km East of Baler, Aurora",,,,,,Philippines,PHL
+Meteorological,Tropical cyclone,2021-04-04,,,,Indonesia,East Nusa Tenggara,Dili,,,155.0,72.0,,85424.0,,Indonesia,IDN
+Climatological,Drought,2021-03,Impact of La Niña caused below normal rainfall,,,Pakistan,Balochistan,Sindh,,,,,,1800000.0,,Pakistan,PAK
+Climatological,Flood,2021-04-04,,,,Timor-Leste,Dili,Municipalities,,,42.0,13.0,,9779.0,,Timor-Leste,TLS
+Miscellaneous accident,Fire (Miscellaneous),2021-03-22,Cramped conditions in the severely congested settlement are believed to have contributed to the quick escalation of the fire,,,Bangladesh,,Cox's Bazar,,camp settlement,11.0,339.0,563.0,55000.0,10000.0,Bangladesh,BGD
+Industrial accident,Explosion (Industrial),2021-03-07,,,,Equatorial Guinea,Bata,,,Nkuantoma Gendarmerie and military barracks,30.0,,700.0,,,Equatorial Guinea,GNQ
+Hydrological,Flood,2021-03-06,Heavy rain causing flash floods,,,Algeria,Chlef Province,Oud Sly Municipality,,,7.0,3.0,,,,Algeria,DZA
+Biological,Epidemic,2021-04,Seasonal rains boosting mosquito populations and new variant of Dengue fever,,,Kenya,Mombasa County,,,,,,0.0,553.0,,Kenya,KEN
+Hydrological,Flood,2021-02-15,Heavy rain,,,Peru,Madre de Dios Department,,,,,,,6600.0,1700.0,Peru,PER
+Biological,Epidemic,2021-01-28,Initial investigations found that a nurse from the local health facility died,,,Guinea,['N’Zerekore prefecture'],,,,2.0,,4.0,,,Guinea,GIN
+Meteorological,Storm,2021-01,Heavy rainfall triggered by the peak of La Nina,,,Indonesia,,,,,,,,,,Indonesia,IDN
+Hydrological,Flood,2021-01-02,Significant heavy rains,,,Malaysia,Peninsular Malaysia,"['Johor', 'Pahang', 'Kelantan', 'Selangor', 'Perak']",,,,,,23776.0,,Malaysia,MYS
+Hydrological,Flood,2020-12-26,Heavy rainfall leading to severe flooding and bursting of Kandesha Dam,,,Zambia,Central Province,Mumbwa District,"['Munengo', 'Kambobe', 'Katala', 'Chiloweni']",,,,,500.0,,Zambia,ZMB
+Meteorological,Tropical cyclone,2020-12-14,,,,Fiji,Viti Levu Island,,,,,,,,,Fiji,FJI
+Hydrological,Flood,2020-12-02,Northeast monsoon and activation of a depression in the south-east Bay of Bengal,279.8,,Sri Lanka,,Northern Province,"['Jaffna District', 'Kilinochchi District']",,2.0,,,111659.0,106.0,Sri Lanka,LKA
+Geophysical,Volcanic activity,2020-11-29,,,,Indonesia,East Nusa Tenggara,,,,,,,,,Indonesia,IDN
+Meteorological,Storm,2020-11-17,Hurricane Iota bearing down with maximum sustained winds,245,km/h,Honduras,Caribbean coasts,"northern Nicaragua, Guatemala and southern Belize",,,,,,,,Honduras,HND
+Hydrological,Flood,2020-11-14,Heavy rainfall,,,Colombia,Antioquia Department,,,,18.0,3.0,,,,Colombia,COL
+Meteorological,Storm,2020-11-03,Heavy rains and high winds,,,Nicaragua,"['Nicaragua', 'Honduras', 'Guatemala', 'Belize', 'El Salvador']",[],,,,,,,,Nicaragua,NIC
+Climatological,Drought,2020-09,,,,Somalia,,,,,,,,,,Somalia,SOM
+Biological,Epidemic,2020-10-20,Increase in reported cases of dengue infection,,,Saint Vincent and the Grenadines,SVG islands,,,,6.0,,,1155.0,,Saint Vincent and the Grenadines,VCT
+Hydrological,Flood,2020-10-02,Heavy rain,,,Democratic Republic of the Congo,North Kivu Province,Sake Town,,Masisi territory,15.0,,,,,Democratic Republic of the Congo,COD
+Hydrological,Flood,2020-10-01,Heavy rainfall,,,Cambodia,,"['Pursat', 'Battambang', 'Banteay Meanchey', 'Pailin', 'Svay Rieng', 'Stung Treng']",,,,,,38386.0,,Cambodia,KHM
+Hydrological,Flood,2020-09-06,,,,Guinea,Kankan,Kankan Urban Commune,,,,,12.0,49536.0,,Guinea,GIN
+Hydrological,Flood,2020-09,Torrential rains exceeding 100 mm,,,Mauritania,,"['Hodh Ech Chargui', 'Bassiknou', 'Adel Bagrou', 'Amourj', 'Néma']",,,3.0,,,9282.0,,Mauritania,MRT
+Hydrological,Flood,2020-08,Floods occurring since early August 2020,,,Chad,N’Djamena,['15 quartiers (7 arrondissements)'],,,10.0,,,31853.0,5250.0,Chad,TCD
+Biological,Epidemic,2020-08-01,Vaccine derived poliovirus type 1 outbreak,,,Yemen,Sa’ada Governorate,,,,,,,15.0,,Yemen,YEM
+Biological,Epidemic,2020-08-09,Outbreak of vaccine-derived poliovirus,,,Sudan,"['South Darfur', 'Gedaref', 'West Darfur', 'East Darfur', 'Gezira', 'White Nile', 'River Nile', 'Khartoum', 'Red Sea']",Not specified,,,,,,5200000.0,,Sudan,SDN
+Geophysical,Earthquake,2020-08-07,,4.9,,Algeria,Mila,,,,,,,2500.0,,Algeria,DZA
+Hydrological,Flood,2020-07,Short periods of high-intensity rain resulting in seasonal overflow of the Nile River,,,South Sudan,Jonglei,"['Bor', 'Duk', 'Twic East']",,,,,,1800.0,,South Sudan,SSD
+Hydrological,Flood,2020-07,Heavy rainfall,,,Cameroon,,Far North,Mayo-Danay,Mayo-Danay division,,,,5553.0,,Cameroon,CMR
+Hydrological,Flood,2020-07-29,Heavy rains causing flooding,,,Sudan,Khartoum,"['Blue Nile', 'River Nile', 'El Gezira', 'West Kordofan', 'South Darfur']",,,,,,3900.0,,Sudan,SDN
+Hydrological,Flood,2020-08-02,Heavy rains,,,Nigeria,Borno,Bama LGA,,,,,,2481.0,475.0,Nigeria,NGA
+Hydrological,Flood,2020-06-17,,,,Myanmar,Rakhine State,"['Myebon Township', 'Kyaukpyu Township', 'Mrauk U Township']",,,,,,4400.0,,Myanmar,MMR
+Hydrological,Flood,2020-07-21,,,,Niger,Maradi,Tahoua,,,9.0,,,20174.0,2244.0,Niger,NER
+Hydrological,Flood,2020-06,Monsoon rainfall and onrush of water from hilly areas upstream,,,Bangladesh,Rangpur Division,Jamalpur District,,,,,,164000.0,,Bangladesh,BGD
+Climatological,Flood,2020-07-03,Continuous monsoon rainfall,,,India,"Assam, Kerala, West Bengal, Karnataka","['Assam', 'Kerala', 'West Bengal', 'Karnataka']",,,183.0,3.0,10.0,1400000.0,9000.0,India,IND
+Hydrological,Flood,2020-06-22,Heavy rainfalls,,,Serbia,[],"['Kolubarski', 'Moravicki', 'Raski', 'Zlatiborski', 'Rasinski', 'Toplicki', 'Jablanicki', 'Pomoravski']",,,,,,16456.0,,Serbia,SRB
+Hydrological,Flood,2020-06-22,Heavy rainfalls,,,Bosnia and Herzegovina,Tuzla Canton,['Tuzla'],,,,,,,,Bosnia and Herzegovina,BIH
+Hydrological,Flood,2023-06-22,Heavy rain,,,Ukraine,"['Ivano-Frankivsk', 'Chernivtsi', 'Zakarpattya', 'Lviv']",[],,,,,,,,Ukraine,UKR
+Hydrological,Flood,2020-06-17,Prolonged heavy rainfall,,,Mongolia,Tuv and Bulgan provinces,,,,,,,,,Mongolia,MNG
+Meteorological,Storm,2020-06-03,Tropical Storm Cristobal made landfall,,,Mexico,"['Campeche', 'Quintana Roo', 'Yucatan', 'Tabasco', 'Chiapas']",,,,1.0,,,619.0,200.0,Mexico,MEX
+Biological,Epidemic,2020-06-01,Ebola virus disease outbreak,,,Democratic Republic of the Congo,,Équateur province,,Wangata health zone,4.0,,,6.0,,Democratic Republic of the Congo,COD
+Meteorological,Storm,2020-05-30,Flooding and landslides,,,El Salvador,,"['El Salvador', 'Guatemala']",,,15.0,,,44086.0,,El Salvador,SLV
+Meteorological,Tropical cyclone,2020-05-16,Intensified from a deep depression,,,India,West Bengal,"['Gangetic West Bengal', 'Odisha']",,,,,,,,India,IND
+Meteorological,Tropical cyclone,2020-05-11,,,,Philippines,Bicol Region,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2023-04-24,Flash floods,,,Ethiopia,Dire Dawa,"Jinka town, SNNP","Erer, Sitti, Nogob, Korahe zones",,4.0,,,34507.0,53.0,Ethiopia,ETH
+Hydrological,Flood,2020-04-20,Heavy rains and rising water levels in rivers,,,Somalia,Jubaland,"['South West State', 'Puntland', 'Somaliland']",,,,,,500000.0,,Somalia,SOM
+Hydrological,Flood,2020-05-02,"Heavy rains have intensified, causing flooding and landslides",,,Kenya,National,,,,,,,233000.0,,Kenya,KEN
+Hydrological,Flood,2020-04-16,,,,Democratic Republic of the Congo,South Kivu,Uvira,,,38.0,,185.0,70000.0,,Democratic Republic of the Congo,COD
+Meteorological,Tropical cyclone,2020-04-03,,,,Vanuatu,Santo,,,,,,,,,Vanuatu,VUT
+Hydrological,Flood,2020-03-24,Heavy rains,,,Yemen,Governorate,"['Lahj', 'Aden', 'Abyan', 'Taizz', 'Al Dale’e', 'Al Mahrah', 'Hadramaut']",,,,,,4625.0,,Yemen,YEM
+Climatological,Drought,2020-03-04,,,,Sri Lanka,,"['Four Districts', 'Six Districts']",,,,,,88500.0,,Sri Lanka,LKA
+Biological,Epidemic,2020-01-24,,,,Central African Republic,,"Paoua, Vakaga, Nana-Gribizi, Batangafo, Bocaranga, Ngaoundaye, Bambari",,,53.0,,,3600.0,,Central African Republic,CAF
+Meteorological,Snow,2020-01-13,,,,Afghanistan,"['Herat Province', 'Kandahar Province']",,,,17.0,,,,,Afghanistan,AFG
+Meteorological,Storm,2020-01-13,Heavy snow and rain leading to fatalities and damage,,,Pakistan,"['Balochistan', 'Punjab']",['Rajanpur'],"['Kech', 'Mastung', 'Qila Abdullah', 'Ziarat', 'Harnai', 'Pishin']",,19.0,,,,,Pakistan,PAK
+Hydrological,Flood,2020-01-05,,,,Mozambique,Tete and Zambezia provinces,,,,,,,,,Mozambique,MOZ
+Meteorological,Storm,2019-12-24,Typhoon Phanfone made landfall with strong winds,,,Philippines,Eastern Samar,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2019-12-16,Heavy rain,,,Indonesia,,"['Central Sulawesi', 'West Sumatra']",,,2.0,,,707.0,57.0,Indonesia,IDN
+Meteorological,Storm,2019-12-07,,,,Somalia,Puntland,"['Nugaal', 'Bari', 'Mudug', 'Sanaag']",,,,,,,,Somalia,SOM
+Hydrological,Flood,2019-12-06,Heavy rainfall along Nyabarongo river and its affluents,1016,ha(hectare),Rwanda,Ngororero District,"['Matyazo', 'Muhanda', 'Shyira', 'Kabaya', 'Gisagara District', 'Mamba', 'Gishubi', 'Kansi', 'Muganza', 'Rusizi District', 'Bugarama Butare', 'Gitambi', 'Gikundamvura', 'Mkungu', 'Nyakabuye']",[],,16.0,,33.0,5360.0,,Rwanda,RWA
+Hydrological,Flood,2019-12-05,,,,Burundi,Cibitoke,,,,26.0,,,500.0,,Burundi,BDI
+Hydrological,Flood,2019-12-02,,,,Sri Lanka,Central Province,Nuwara Eliya District,,,3.0,,,5700.0,,Sri Lanka,LKA
+Meteorological,Tropical cyclone,2019-12-01,,,,Philippines,Southern Luzon,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,2019-11-26,,6.4,,Albania,"['Thumane', 'Durres']",,,,16.0,,600.0,,,Albania,ALB
+Climatological,Drought,2019-11,,,,Mongolia,,,,,,,,4000.0,,Mongolia,MNG
+Hydrological,Flood,2019-10-12,Heavy precipitation due to the influence and combination of a low-pressure system,,,El Salvador,,San Salvador,,,4.0,,,,,El Salvador,SLV
+Hydrological,Flood,2019-10-24,Heavy rain causing flash flooding and landslides,,,Kenya,"['Elgeyo-Marakwet', 'Wajir', 'Turkana']",,,,9.0,,,,,Kenya,KEN
+Hydrological,Flood,2019-10,Moderate to heavy rains continued in many parts of Somalia and within the Ethiopian highlands,,,Somalia,Ethiopian Highlands,,,,,,,,,Somalia,SOM
+Geophysical,Earthquake,2019-10-16,,6.4,,Philippines,North Cotabato,Davao del Sur,,,4.0,,60.0,121000.0,29.0,Philippines,PHL
+Hydrological,Flood,2019-10,Ongoing heavy rains,,,Uganda,Eastern Region,"['Butaleja District', 'Bulambuli District']",,,,,,1000.0,,Uganda,UGA
+Hydrological,Flood,2019-10,Intense rain,,,Democratic Republic of the Congo,Sud-Ubangi Province,"['Zongo', 'Libenge']",,,1.0,,,36800.0,,Democratic Republic of the Congo,COD
+Biological,Epidemic,2019-09-19,Rift Valley Fever outbreak following heavy rains and floods,,,Sudan,"['Red Sea State', 'River Nile State', 'Kassala', 'White Nile', 'Khartoum', 'Al Qadarif']","['Arb’aat Area, Towashan Village', 'Barbar', 'Abu Hamed localities', 'Abyei area']",,,11.0,,,293.0,,Sudan,SDN
+Hydrological,Flood,2019-10,Heavy rains combined with water releases from the Bagre Dam in Burkina Faso,,,Ghana,Upper East Region,"['Kassena Nankana Municipal', 'Bongo District']",,,29.0,,,,,Ghana,GHA
+Biological,Infestation,2019-06,,,,Ethiopia,Afar Region,"Amhara Region, Somali Region, Tigray Region",,,,,,,,Ethiopia,ETH
+Hydrological,Flood,2019-10-01,,,,Cameroon,Far North Region,Logone-et-Chari Department,,,,,,480000.0,,Cameroon,CMR
+Geophysical,Earthquake,2019-09-24,Powerful earthquake,5.8,Mw(Moment Magnitude),Pakistan,,"['Azad Jammu and Kashmir', 'Punjab', 'Khyber Pakhtunkhwa']",Mirpur,,19.0,,300.0,,,Pakistan,PAK
+Transport,Road,,,,,Malaysia,,,,,,,,,,Malaysia,MYS
+Hydrological,Flood,2019-09-10,Heavy rainfall,,,Senegal,,"['Dakar Region', 'Kaolack']",,,,,,408.0,,Senegal,SEN
+Biological,Epidemic,2019-09-02,Positive samples for Vibrio cholera from patients with acute diarrhoea,,,Sudan,,"['Blue Nile State', 'El Roseires', 'Damazine', 'Wad Almahi', 'Geissan']",,,2.0,,,41.0,,Sudan,SDN
+Biological,Epidemic,2019-10-02,,,,Pakistan,"['Rawalpindi', 'Islamabad']",,,,30.0,,,19296.0,,Pakistan,PAK
+Meteorological,Storm,2019-08-29,,,,Thailand,Northeast and Northern Thailand,"['Amnat Charoen', 'Chaiyaphoom', 'Chiang Mai', 'Chumporn', 'Kalasin', 'Khon Kaen', 'Krabi', 'Loei', 'Lumpang', 'Mae Hong Son', 'Maha Sarakham', 'Mukdaharn', 'Nakorn Phanom', 'Nan', 'Nong Bua Lam Phu', 'Petchaboon', 'Phitsanulok', 'Pichit', 'Pracheenburi', 'Prae', 'Ranong', 'RoiEt', 'Sakon Nakorn', 'Srakeo', 'Sri Saket', 'Sukhothai', 'Surin', 'Trad', 'Ubon Ratchathani', 'Udon Thani', 'Utaradit', 'Yasothorn']",,,,,,3142.0,,Thailand,THA
+Meteorological,Tropical cyclone,2019-08-28,,,,Puerto Rico,,,,,,,,,,Puerto Rico,PRI
+Hydrological,Flood,2019-08-24,Heavy rainfall,,,Mali,Mali,"['Koulikoro', 'Timbuktu', 'Kidal', 'Mopti', 'Ménaka']",,,,,,6474.0,,Mali,MLI
+Meteorological,Flood,,Heavy rainfall with thunderstorms,,,Guatemala,Escuintla y Suchitepéquez,,,,,,,,,Guatemala,GTM
+Hydrological,Flood,2019-08-19,,,,Central African Republic,,,,Paoua and Poumadji village,1.0,,5.0,,295.0,Central African Republic,CAF
+Hydrological,Flood,2019-08-11,Above normal rains and overflow of the rivers that are tributaries of the Lake Tana and Blue Nile,,,Ethiopia,Amhara,"['Fogera', 'Libo Kemekem']",,,2.0,,,25000.0,,Ethiopia,ETH
+Biological,Epidemic,2019-10-10,99 suspected cases of dengue fever,,,Sudan,Kassala State,Kassala,,,5.0,,,1197.0,,Sudan,SDN
+Geophysical,Volcanic activity,2019-06-28,,,,Papua New Guinea,Madang Province,,,,,,,,,Papua New Guinea,PNG
+Geophysical,Earthquake,2019-07-27,,5.9,Mw(Moment Magnitude),Philippines,Batanes,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2019-07-16,Heavy rainfall triggering flash floods and landslides,,,Pakistan,Azad Jammu and Kashmir,Neelum District,,,28.0,,5.0,,100.0,Pakistan,PAK
+Hydrological,Flood,2019-07-13,Torrential monsoon rains and rising river levels,,,Myanmar,Kachin State,"['Myitkyina', 'Bhamo', 'Shwegu']",,,,,,6200.0,,Myanmar,MMR
+Biological,Epidemic,2019-07-05,Sustained increase in dengue cases,,,Dominican Republic,,,,,,,,,,Dominican Republic,DOM
+Biological,Epidemic,2019-01-01,Dengue outbreaks coinciding with the south-western monsoon,,,Sri Lanka,,"['Colombo', 'Gampaha', 'Jaffna']",,,28.0,,,18760.0,,Sri Lanka,LKA
+Meteorological,Storm,2019-06-27,,,,Hungary,"['Pusztadobos', 'Nyírkarász', 'Nyírmada']",,,,,,,7200.0,2400.0,Hungary,HUN
+Meteorological,Tropical cyclone,2019-06-10,,,,India,Maharashtra,,,,,,,270000.0,,India,IND
+Geophysical,Volcanic activity,2019-06-26,,,,Papua New Guinea,East New Britain,,,,,,,16000.0,,Papua New Guinea,PNG
+Meteorological,Storm,2019-06-17,,,,Bangladesh,,,,,,,,290.0,,Bangladesh,BGD
+Biological,Epidemic,2019-06-14,Dengue fever outbreak,11436,,Honduras,['Departments of Honduras'],"['Cortés', 'Yoro', 'Olancho', 'Santa Bárbara', 'San Pedro Sula Metropolitan Region']",,,63.0,,,11436.0,,Honduras,HND
+Hydrological,Flood,2019-06,,,,Yemen,Hajjah Governorate,"['Aden', 'Lahj', 'Taizz', 'Hadramaut']",,,,,,70000.0,,Yemen,YEM
+Hydrological,Flood,2019-06-05,,,,South Sudan,Three counties,,,,,,,10892.0,,South Sudan,SSD
+Hydrological,Flood,2019-06-06,Heavy rainfall,,,Philippines,Maguindanao,,,,,,,45000.0,,Philippines,PHL
+Hydrological,Flood,2019-06-07,Torrential rains,,,Sudan,,"['East Jebel Marra', 'South Darfur', 'Tawilla', 'North Darfur']",,,,,11.0,2470.0,,Sudan,SDN
+Hydrological,Flood,2019-06-03,Heavy rain and hailstorms,,,Serbia,"['Moravicki', 'Raski', 'Sumadijski', 'Pomoravski']",,,,,,,11650.0,,Serbia,SRB
+Hydrological,Wave action,2019-05-28,Heavy rainfall and thunderstorm,,,Libya,,"['Ghat', 'Silila', 'Ta’ala', 'Albakat', 'Saya', 'Alfiywat', 'Al-Sharika', 'Al-Siniyah']",,,,,,,,Libya,LBY
+Biological,Epidemic,2019-05-29,Presence of VDPV2 cases and public health emergency,,,Central African Republic,RS4 Region,Bambari District,,,,,2.0,,,Central African Republic,CAF
+Biological,Epidemic,2019-05-29,,,,Pakistan,,,,,,,,15.0,,Pakistan,PAK
+Biological,Epidemic,2019-05,"High malaria burden due to low use of preventive measures, low population immunity, climatic changes, and vector ecological and behavioural changes",,,Burundi,,,,,,,,,,Burundi,BDI
+Climatological,Drought,2019-01,Unusually little precipitation during the winter and spring,,,Democratic People's Republic of Korea,,,,,,,,,,Democratic People's Republic of Korea,PRK
+Meteorological,Storm,2019-04-28,,,,Bangladesh,Cox’s Bazar,,,,,,,,,Bangladesh,BGD
+Hydrological,Flood,2019-02-26,Heavy rains and flooding,,,Colombia,Chocó,,,,,,,15000.0,,Colombia,COL
+Hydrological,Flood,2018-03-16,Heavy rains,,,Indonesia,,Jayapura Regency,,,,,,,,Indonesia,IDN
+Hydrological,Flood,2023-03-11,,,,Malawi,,,,,60.0,,577.0,843000.0,,Malawi,MWI
+Hydrological,Flood,2019-03-01,Heavy rains,97,mm,Afghanistan,Kandahar Province,"['Kandahar City', 'Zheri', 'Dand', 'Damand', 'Arghandab', 'Spinboldak', 'Takhtapu']",,,20.0,10.0,,,2000.0,Afghanistan,AFG
+Hydrological,Flood,2019-02-13,Heavy rainfall causing rivers to overflow,,,Peru,"Arequipa, Moquegua, Tacna and Ica Regions",,,,10.0,,1800.0,8000.0,,Peru,PER
+Biological,Epidemic,2019-02-06,Measles outbreak,,,Philippines,National Capital Region,Region 3,"CALABARZON, Region 6, Region 7",,72.0,,248.0,2000.0,,Philippines,PHL
+Meteorological,Storm,2019-01-27,,300,km/h(kilometers per hour),Cuba,,,,,4.0,,195.0,220000.0,123.0,Cuba,CUB
+Meteorological,Storm,2019-01-22,,,,Malawi,Chikwawa District,Chikwawa,"['Makhuwira', 'Paramount Chief Lundu']",,,,,15974.0,3154.0,Malawi,MWI
+Meteorological,Storm,2019-01-22,,,,Malawi,Chikwawa District,Traditional Authorities of Makhuwira and Paramount Chief Lundu,,,,,,15974.0,3154.0,Malawi,MWI
+Biological,Epidemic,2019-01-21,,,,Nigeria,"['Edo', 'Ondo', 'Ebonyi', 'Bauchi', 'Plateau', 'Taraba', 'Gombe', 'Anambra', 'Kaduna', 'Kwara', 'FCT', 'Benue', 'Rivers', 'Nassarawa', 'Kogi']",,,,41.0,,,213.0,,Nigeria,NGA
+Meteorological,Extreme temperature,2019-01-11,,,,Algeria,['All 48 governorates'],,,,8.0,,25.0,300.0,,Algeria,DZA
+Meteorological,Tropical cyclone,2018-12-29,,,,Philippines,,,,,,,,4300.0,,Philippines,PHL
+Hydrological,Flood,2018-12-22,Heavy rains,,,Sri Lanka,Northern Province,"['Mullaithivu', 'Kilinochchi', 'Mannar', 'Vavuniya', 'Jaffna']",,,,,,45000.0,,Sri Lanka,LKA
+Climatological,Drought,2018-10,,,,Malawi,,Southern Africa,,,,,,9600000.0,,Malawi,MWI
+Hydrological,Flood,2018-10-06,Heavy rains triggered floods,,,India,,Kerala,,,504.0,,,23000000.0,110000.0,India,IND
+Hydrological,Flood,2018-10-29,,,,Paraguay,Asuncion,,,Asuncion city,,,,10500.0,,Paraguay,PRY
+Hydrological,Flood,2018-10-18,Torrential rainfall,,,Trinidad and Tobago,,,,,,,,80.0,,Trinidad and Tobago,TTO
+Hydrological,Flood,2018-10-15,Heavy rain causing flash floods and triggering landslides,,,Indonesia,,"['North Sumatra', 'West Sumatra']",,,21.0,10.0,,,500.0,Indonesia,IDN
+Meteorological,Storm,2018-10-10,,,,Oman,[],,,,,,,,,Oman,OMN
+Geophysical,Earthquake,2018-10-06,,5.9,Mw(Moment Magnitude),Haiti,North-West Department,Port-de-Paix,,,17.0,,421.0,31132.0,42.0,Haiti,HTI
+Hydrological,Flood,2018-10-02,,,,Costa Rica,,,,,,,,125190.0,,Costa Rica,CRI
+Geophysical,Earthquake,2018-09-28,,7.4,,Indonesia,Central Sulawesi,Donggala Region,,,384.0,29.0,540.0,,,Indonesia,IDN
+Biological,Epidemic,2018-08-19,Bubonic and pneumonic plague cases reported,,,Madagascar,Analamanga,Ankazobe,,,5.0,,,15.0,,Madagascar,MDG
+Biological,Epidemic,2018-09-06,Cholera outbreak confirmed by rapid diagnostic test kits and clinical presentation,,,Zimbabwe,,['Harare'],,,,,,11.0,,Zimbabwe,ZWE
+Climatological,Drought,2017-11,,,,Madagascar,Androy,Ambovombe,,,,,,0.0,,Madagascar,MDG
+Biological,Epidemic,2018-08-01,Increase in patients with acute diarrhoeal diseases suspected to be cholera,,,Dominican Republic,La Descubierta,Municipality,,,,,0.0,95.0,,Dominican Republic,DOM
+Meteorological,Hail,2018-08-17,,,,Armenia,Shirak,,,,,,,9900.0,2202.0,Armenia,ARM
+Biological,Epidemic,2018-08-01,,,,Democratic Republic of the Congo,North Kivu Province,,,,,,,,,Democratic Republic of the Congo,COD
+Biological,Epidemic,2018-08-02,,,,Somalia,,,,,,,,4.0,,Somalia,SOM
+Geophysical,Earthquake,2018-07-29,,6.4,Mw(Moment Magnitude),Indonesia,West Nusa Tenggara,Lombok,,,,,,,,Indonesia,IDN
+Biological,Infestation,2018-07,Fall Armyworm invading crops,,,Sri Lanka,,[],,,,,,,,Sri Lanka,LKA
+Biological,Epidemic,2018-07-15,Insecurity and unsanitary conditions among refugees,,,Cameroon,Central Region,North Region,,,,,,42.0,,Cameroon,CMR
+Hydrological,Flood,2018-07,Torrential rains,,,Nigeria,Ogun,Katsina,,,,,,,,Nigeria,NGA
+Biological,Epidemic,2018-07-13,Cholera outbreak,,,Niger,Madarounfa,Maradi,,,4.0,,,247.0,,Niger,NER
+Hydrological,Flood,2018-07-07,Heavy and continuous rainfall compounded by Typhoon Prapiroon and Typhoon Maria,,,China,Sichuan Province,"['Deyang', 'Mianyang', 'Guangyuan']",,,3.0,,,1381000.0,,China,CHN
+Hydrological,Flood,2018-07-03,Heavy rainfall of unprecedented intensity,,,Mongolia,Provinces,"['Khovd', 'Bayan-Ulgii', 'Zavkhan', 'Uvurkhangai', 'Khan-Uul District']",,,,,,792.0,210.0,Mongolia,MNG
+Biological,Epidemic,2018-04,Vaccine-derived poliovirus type 1 (VDPV1) was isolated as the cause of paralysis,,,Papua New Guinea,Urban settlement,Second largest city,,,,,,,,Papua New Guinea,PNG
+Meteorological,Storm,2018-05-29,Strong winds and heavy rains,,,Myanmar,Rakhine State,"['Rakhine State', 'Yangon Region']",,,3.0,,2.0,,200.0,Myanmar,MMR
+Hydrological,Flood,2018-06-02,,,,Philippines,Maguindanao,,,,,,,71000.0,81.0,Philippines,PHL
+Climatological,Landslide,2018-06-05,Heavy rain,,,India,Mizoram,,,,10.0,,1.0,,1.0,India,IND
+Meteorological,Tropical cyclone,2018-05-26,Major fluctuation in tropical weather and heavy rains forecasted,,,Oman,,Salalah,"['Socotra Island', 'Sayhut', 'Ash Shuwaymiyyah']",,,,,,,Oman,OMN
+Hydrological,Flood,2018-05-19,"Heavy rains, strong winds, lightning and landslides",,,Sri Lanka,,"['Puttalam', 'Gampaha', 'Ratnapura', 'Colombo', 'Kurunegala', 'Kalutara', 'Kegalle']",,,20.0,,,153712.0,,Sri Lanka,LKA
+Climatological,Food insecurity,2018-06-01,,,,Mauritania,,,,,,,,350600.0,,Mauritania,MRT
+Hydrological,Flood,2018-05-16,Heavy and prolonged rains,,,Tajikistan,Khatlon Province,"['Farkhor', 'Panj']",,,6.0,,,5725.0,,Tajikistan,TJK
+Hydrological,Flood,2018-04,Pre-monsoon rains and continuous heavy rainfall,,,Bangladesh,,Cox's Bazar,,,,,,86000.0,,Bangladesh,BGD
+Hydrological,Flood,2018-04,,,,Somalia,,"['Baidoa', 'Galgadud region', 'Jubaland', 'Middle Shabelle', 'Hiraan region']","['Abudwaq', 'Cadaado', 'Saakow', 'Bu’ale', 'Luuq', 'Afmadow', 'Ceel Waaq', 'Jilib', 'Jamaame', 'Horseed', 'Hantiwadaag', 'Belet Weyne']",,,,,100500.0,,Somalia,SOM
+Hydrological,Flood,2018-04-02,,,,Colombia,N/A,Magüí,,,,,,4570.0,,Colombia,COL
+Climatological,Drought,2018-01,,,,Uruguay,"Tacuarembó, Salto, Durazno, Artigas, Paysandú, Rivera, Río Negro",,,,,,,0.0,,Uruguay,URY
+Biological,Epidemic,2018-02-21,Increase in meningococcal disease cases,,,Fiji,,,,,,,18.0,,,Fiji,FJI
+Hydrological,Flood,2018-03-03,Heavy rains resulting in flooding along Sebeya River and landslides,,,Rwanda,Western Province,Rubavu District,"['Nyundo', 'Nyakiliba', 'Rugerero', 'Kanama']",,,,,25000.0,950.0,Rwanda,RWA
+Hydrological,Flood,2018-03,Heavy rain,,,Kenya,Nairobi,"['Central Province', 'Nyanza Province', 'Eastern Province', 'Makueni County', 'Kilifi County', 'Tana County']",,,15.0,,,1000.0,,Kenya,KEN
+Geophysical,Earthquake,2018-02-26,,7.5,Mw(Moment Magnitude),Papua New Guinea,Southern Highlands Province,,,,,,,,,Papua New Guinea,PNG
+Meteorological,Flood,2018-02,Above normal rainfall causing torrential rains,,,Botswana,Mashonaland Central,Tutume,,,,,,0.0,,Botswana,BWA
+Biological,Epidemic,2018-02-15,Outbreak of cholera,,,Uganda,Hoima district,Kyangwali refugee settlement,,,27.0,,,700.0,,Uganda,UGA
+Meteorological,Tropical cyclone,2018-02-10,,,,Samoa,,,,,,,,,,Samoa,WSM
+Hydrological,Flood,2018-01-04,Heavy rains,,,Democratic Republic of the Congo,,['Kinshasa'],,,,,,,,Democratic Republic of the Congo,COD
+Climatological,Flood,2018-01-20,Intense rain resulted in an accumulated rainfall of 290 mm,,,Argentina,Chaco Province,Presidencia Roque Sáenz Peña,,Presidencia Roque Sáenz Peña,,,,1134.0,,Argentina,ARG
+Meteorological,Tropical cyclone,2018-01-14,,,,Mauritius,Rodrigues,,,,,,,,,Mauritius,MUS
+Meteorological,Extreme temperature,2018-01-05,,,,Morocco,[],,,,,,,,,Morocco,MAR
+Meteorological,Tropical cyclone,2017-12-13,,,,Philippines,Eastern Visayas,Eastern Samar,,,,,,,,Philippines,PHL
+Biological,Epidemic,2017-12-06,Rapidly spreading among Rohingya refugees,,,Bangladesh,,['Cox’s Bazar'],,,6.0,,110.0,,,Bangladesh,BGD
+Hydrological,Flood,2017-11-30,Heavy rainfall,,,Albania,"['Fushë-Krujë', 'Ura e Gjoles', 'Murqine', 'Vore', 'Kamez', 'Laprake', 'Darzeze', 'Jaru', 'Bishtan', 'Ferras', 'Kashisht', 'Martin', 'Novosele', 'Bishan', 'Mifol', 'Fitore', 'Ure Vajgurore', 'Korce', 'Gjirokaster']",[],,,,,,,3340.0,Albania,ALB
+Biological,Epidemic,2017-10,Dengue serotype-2 outbreak,3255,,Samoa,,,,,4.0,,1522.0,3255.0,,Samoa,WSM
+Meteorological,Storm,2017-10-04,,,,Nicaragua,Nicaragua,['Sirpi'],,,,,,,,Nicaragua,NIC
+Biological,Epidemic,2017-09-28,Outbreak of dengue fever,,,Burkina Faso,Ouagadougou,"['Bogodogo', 'Nogr-massom']",,,2.0,,,525.0,,Burkina Faso,BFA
+Hydrological,Flood,2017-09-28,,,,Togo,,Mono River,"['Agbanakin', 'Atchamé', 'Togbavi', 'Togbagan', 'Azimé-Dossou', 'Adamé', 'Gbandi', 'Gbandidi', 'Agbetiko', 'Handivi']",,,,,3612.0,213.0,Togo,TGO
+Geophysical,Volcanic activity,2017-09-23,,,,Vanuatu,Penama Province,Ambae Island,,,,,,,,Vanuatu,VUT
+Hydrological,Flood,2017-09,Heavy rainfall,,,South Sudan,Former Northern Bahr el Ghazal State,"['Aweil North', 'Aweil West', 'Maban County']",,,,,,11000.0,,South Sudan,SSD
+Meteorological,Tropical cyclone,2017-09-20,Hurricane MARIA,,,Guadeloupe,,,,Guadeloupe island,2.0,,,0.0,,Guadeloupe,GLP
+Meteorological,Storm,2017-09-17,,,,Rwanda,Western Province,"['Rusizi', 'Nyamasheke']",,,3.0,,24.0,5850.0,,Rwanda,RWA
+Biological,Epidemic,2017-09-15,Confirmed yellow fever case,,,Nigeria,Kwara State,Ifelodun Local Government Area,,,,,,,,Nigeria,NGA
+Biological,Epidemic,2017-09-11,Outbreak of pulmonary plague,,,Madagascar,Vakinankaratra Region,"['Tamatave', 'Faratsiho']",,,5.0,,,28.0,,Madagascar,MDG
+Biological,Epidemic,2017-07,High number of dengue fever cases,,,Pakistan,['Khyber Pakhtunkhwa'],[],,,,,0.0,1279.0,,Pakistan,PAK
+Hydrological,Flood,2017-08,,,,Ethiopia,"['Gambella', 'Oromia']",,,,,,,53000.0,,Ethiopia,ETH
+Biological,Epidemic,2017-08-23,,,,Papua New Guinea,West Sepik Province,Vanimo Green District,,,2.0,,,57.0,,Papua New Guinea,PNG
+Miscellaneous accident,Collapse (Miscellaneous),2017-08-15,,,,Democratic Republic of the Congo,Ituri Province,,,,150.0,,,,70.0,Democratic Republic of the Congo,COD
+Hydrological,Mass movement (wet),2017-08-14,Three days of heavy rains,,,Sierra Leone,,"['Regent', 'Lumley']",,,,,,,,Sierra Leone,SLE
+Hydrological,Flood,2017-08-04,,,,Cameroon,West Region,Menoua Division,,,,,,,,Cameroon,CMR
+Climatological,Fire (Miscellaneous),2023-07-31,,,,Tunisia,Jendouba Governorate,,,,,,,,,Tunisia,TUN
+Biological,Epidemic,2017-07-07,Increased dengue cases coinciding with South-West monsoon rains,82543,,Sri Lanka,[],"['Colombo', 'Gampaha', 'Kurunegala', 'Kalutara', 'Kandy']",,,250.0,,,600000.0,,Sri Lanka,LKA
+Geophysical,Earthquake,2017-07-06,,6.5,,Philippines,Leyte,,,,,,,371680.0,,Philippines,PHL
+Climatological,Flood,2017-07-04,Heavy rainfall,,,Guinea,,Nzerekore,Urban district area of Nzerekore,"Quartier commercial, Kwitiapolou, Wessoua, Dorota 1, Horaya, Gbanghana, Belle-Vue and Nyeh",,,13.0,3274.0,,Guinea,GIN
+Meteorological,Storm,2017-06-26,Heavy rains and strong winds,,,Tajikistan,Sughd Province,Panjakent district,,,,,,700.0,,Tajikistan,TJK
+Meteorological,Storm,2017-06-21,,,,Hungary,"['Borsod-Abaúj-Zemplén County', 'Bács-Kiskun County']",,,,,,,321.0,233.0,Hungary,HUN
+Hydrological,Flood,2017-06-20,Torrential rains and flash flooding,,,Sudan,South Darfur State,,,,,,,9000.0,,Sudan,SDN
+Hydrological,Flood,2017-07,,,,Mali,,['Timbuktu'],,,,,,7000.0,,Mali,MLI
+Hydrological,Mass movement (wet),,Torrential monsoon rains,,,Bangladesh,,"['Bandarban', 'Chittagong', 'Rangamati']",[],,135.0,,,,,Bangladesh,BGD
+Biological,Epidemic,2017-03-05,circulating vaccine-derived poliovirus type 2 (cVDPV2) outbreak,,,Syrian Arab Republic,Deir-Ez-Zor Governorate,,,,,,,3.0,,Syrian Arab Republic,SYR
+Hydrological,Flood,2017-05,,,,Sri Lanka,,"['Rathnapura', 'Galle', 'Neluwa', 'Tawalama', 'Niyagama', 'Baddegama']",,,,,,500000.0,,Sri Lanka,LKA
+Hydrological,Flood,2017-06-07,Floods,,,India,Nagaland State,"['Phek district', 'Giridih district', 'Assam']",,,6.0,,,100000.0,,India,IND
+Meteorological,Tropical cyclone,2017-05-03,,,,Vanuatu,Torba Province,,,,,,,,,Vanuatu,VUT
+Geophysical,Earthquake,2017-05-03,,5.9,Mw(Moment Magnitude),Tajikistan,Osh,"Chong Alay, Kadamjai",,,,,,,,Tajikistan,TJK
+Hydrological,Flood,2017-04-20,Heavy rainfall,,,Haiti,Department of South,"South East, Grand'Anse, Nippes","['Chantal', 'Les Anglais', 'Chardonnieres', 'Les Coteaux', 'Port-à-Piment', 'Tiburon']",,4.0,,,350000.0,15.0,Haiti,HTI
+Hydrological,Flood,2017-04-01,,,,Rwanda,Eastern Province,Gatsibo District,Kiramuruzi Sector,Nyabisindu Cell,,,,,,Rwanda,RWA
+Hydrological,Flood,2017-03-31,Increased rainfall causing river overflow and mudslide,,,Colombia,Putumayo,Mocoa,,,273.0,,,300.0,25.0,Colombia,COL
+Biological,Epidemic,2023-03-29,,,,Niger,,,,,,,,,,Niger,NER
+Biological,Epidemic,2017-03-19,,,,Nigeria,"['Zamfara', 'Katsina', 'Sokoto']",,,,211.0,,,1407.0,,Nigeria,NGA
+Biological,Epidemic,2016-05-23,"High environmental temperatures, presence of rainfall, disorderly growth of the urban population, inadequate provision of basic services, migration and population displacement",,,Peru,,,,,,,,,,Peru,PER
+Meteorological,Storm,2017-03-16,,,,Central African Republic,Mbaïki,,,,,,,,,Central African Republic,CAF
+Biological,Epidemic,2017-03-13,,,,Burundi,"['North Health District', 'North']",,,,869.0,,,1960620.0,,Burundi,BDI
+Hydrological,Flood,2017-03-08,,,,Madagascar,Sava Region,Analalava,,Farahalana Commune,,,,10000.0,,Madagascar,MDG
+Geophysical,Earthquake,2017-02-10,,6.7,,Philippines,Surigao del Norte,Surigao City,,,0.0,,,,0.0,Philippines,PHL
+Climatological,Storm,2024-01-15,Heavy rains and landslides,,,Peru,Loreto,,,,,,,,,Peru,PER
+Hydrological,Flood,2017-01-16,,,,Philippines,,,,,,,,63000.0,,Philippines,PHL
+Hydrological,Flood,2017-01-17,Continuous heavy rains and record-breaking snow fall,,,Pakistan,Balochistan,,,,13.0,,650.0,60000.0,,Pakistan,PAK
+Meteorological,Storm,2016-01-05,,,,North Macedonia,"['Gostivar', 'Kicevo', 'Kriva Palanka']",,,,,,,,,North Macedonia,MKD
+Hydrological,Flood,2016-12-26,Seasonal heavy continuous rains,,,Malaysia,Kelantan and Terengganu,"['Kelantan', 'Terengganu']",,,,,,25000.0,,Malaysia,MYS
+Climatological,Drought,2016-12-17,,,,Mongolia,N/A,13 aimags,110 soums,,,,,,,Mongolia,MNG
+Biological,Epidemic,2016-12-16,,,,Nigeria,['Ogun State'],,,,,,,,,Nigeria,NGA
+Meteorological,Storm,2023-12-15,,,,Fiji,Viti Levu,Nausori,,,,,,,,Fiji,FJI
+Geophysical,Earthquake,2016-12-09,,8.0,Mw(Moment Magnitude),Solomon Islands,Makira Ulawa Province,Kirakira,,,,,,,,Solomon Islands,SLB
+Geophysical,Earthquake,2016-12-07,,6.4,,Indonesia,Aceh,Pidie Jaya,,,90.0,,,,200.0,Indonesia,IDN
+Hydrological,Flood,2016-12-01,Strong rains caused flooding and landslides,,,Colombia,Nariño,,,,6.0,,,11125.0,65.0,Colombia,COL
+Hydrological,Flood,2016-11-09,Rains and violent winds,,,Democratic Republic of the Congo,Sud-Ubangi,Gemena,,"Gemena neighbourhoods located on the banks of rivers Mombonga, Sukia and Labo",,,,,,Democratic Republic of the Congo,COD
+Hydrological,Flood,2016-11-07,Heavy rainfall and illegal constructions next to river basins,,,Albania,,,,,,,,,,Albania,ALB
+Climatological,Wildfire,2016-11-01,,,,Chile,"['O’Higgins', 'Maule', 'Biobío', 'Valparaíso', 'Metropolitana']",,,,,,,,,Chile,CHL
+Biological,Epidemic,2016-10-30,High transmission potential of infections in the communities,,,Ghana,Cape Coast Metropolitan,Cape Coast District,,,,,0.0,117.0,,Ghana,GHA
+Meteorological,Storm,2016-10-19,,,,Philippines,,,,,,,,,,Philippines,PHL
+Biological,Epidemic,2016-10-06,Cholera outbreak,,,Yemen,Sana’a,,,,,,0.0,11.0,,Yemen,YEM
+Meteorological,Storm,2016-10-03,,,,Jamaica,,,,Caribbean Sea,,,,,,Jamaica,JAM
+Climatological,Drought,2016-10-13,,,,Sri Lanka,Provinces,,,,,,,520000.0,,Sri Lanka,LKA
+Biological,Epidemic,2016-08-16,Cholera outbreak,,,Benin,"['Cotonou', 'Savalou', 'So-Ava']",,,,9.0,,,281.0,,Benin,BEN
+Biological,Epidemic,2016-09-01,Acute jaundice syndrome outbreaks,,,Chad,Am Timan,,,,11.0,,,693.0,,Chad,TCD
+Biological,Epidemic,2016-08-29,,,,Nigeria,,,,,,,,,,Nigeria,NGA
+Geophysical,Earthquake,2016-08-14,Earthquake,5.4,Richter,Peru,Arequipa,Caylloma,,,4.0,,,1564.0,,Peru,PER
+Biological,Epidemic,2023-08-10,,,,Central African Republic,Djoukou,,,,16.0,,,66.0,,Central African Republic,CAF
+Hydrological,Flood,2016-08-14,Heavy rains and flooding caused by the southwest monsoon combined with a low-pressure weather front,,,Philippines,Luzon,,,,,,,260000.0,,Philippines,PHL
+Meteorological,Storm,2016-08-03,,,,Belize,,,,,,,,,,Belize,BLZ
+Biological,Epidemic,2016-07-27,,,,Burundi,"['Kabezi', 'Muha']",,,,,,100.0,,,Burundi,BDI
+Hydrological,Flood,2016-07-24,High amounts of rainfall (between 100-200mm),,,Senegal,,"['Kaffrine', 'Kolda', 'Kaolack', 'Matam']",,,,,,7500.0,,Senegal,SEN
+Hydrological,Flood,2016-07-11,Heavy rainfall,,,Mali,,"['Gao', 'Mopti', 'Ségou', 'Sikasso']",,,,,,3098.0,,Mali,MLI
+Hydrological,Flood,2016-07,,,,Bangladesh,,"['Kurigram', 'Bogra', 'Sirajganj', 'Jamalpur', 'Nilphamari', 'Lalmonirhat', 'Sunamganj']",,,,,,820000.0,,Bangladesh,BGD
+Hydrological,Flood,2016-06-29,,,,Liberia,Margibi County,,,,,,,15431.0,,Liberia,LBR
+Biological,Epidemic,2016-05-27,,,,Ethiopia,Oromia and Somali regions,,,,19.0,,,1884.0,,Ethiopia,ETH
+Hydrological,Flood,2016-06,Rains since the beginning of June,,,Myanmar,Chin State,"['Ayeyarwady Region', 'Bago Region', 'Sagaing Region', 'Rakhine State']",,,14.0,,,26000.0,,Myanmar,MMR
+Meteorological,Storm,2016-06-08,Heavy rains,,,India,,,,,1.0,,,,,India,IND
+Meteorological,Storm,2016-06,"Severe weather, including heavy rain, thunderstorms and hail",,,China,,"['Shanxi', 'Henan', 'Hubei', 'Sichuan', 'Shaanxi', 'Gansu', 'Guangdong', 'Guangxi', 'Hainan']",,,5.0,1.0,11.0,3600.0,23600.0,China,CHN
+Hydrological,Flood,2016-06-04,,,,Russian Federation,"['Republic of Dagestan', 'Republic of North Ossetia', 'Chechen Republic']",,,,,,,7810.0,,Russian Federation,RUS
+Meteorological,Storm,2016-06-01,Heavy rainfall and deadly windstorms,,,Pakistan,,"['Rawalpindi', 'Islamabad', 'Peshawar', 'Lahore']",,,15.0,,173.0,,,Pakistan,PAK
+Hydrological,Flood,2016-05-15,Severe tropical storm causing widespread flooding and landslides,,,Sri Lanka,,"['Aranayake', 'Kegalle District']",,,104.0,99.0,,301602.0,,Sri Lanka,LKA
+Hydrological,Flood,2016-05-15,Severe tropical storm causing widespread flooding and landslides,,,Sri Lanka,,['Kegalle'],,,104.0,99.0,,301602.0,5037.0,Sri Lanka,LKA
+Hydrological,Flood,2016-05-10,Unusual rainfall and intensity during the past week,,,Indonesia,,"['South Kalimantan', 'West Kalimantan', 'Central Kalimantan', 'Bengkulu', 'Gorontalo']",['Kotabaru District'],,3.0,1.0,,3550.0,,Indonesia,IDN
+Meteorological,Storm,2016-05,Abnormal rainfall for the season,,,Haiti,,,,,,,,,,Haiti,HTI
+Hydrological,Flood,,Heavy rains in parts of Somalia and Ethiopian highlands,,,Somalia,Belet Weyne,,,,,,,70000.0,,Somalia,SOM
+Meteorological,Storm,2016-04-25,Heavy rains and storm surges,,,Kenya,,,,,,,,,,Kenya,KEN
+Geophysical,Earthquake,2016-04-16,,7.8,Mw(Moment Magnitude),Ecuador,,,,,,,,,,Ecuador,ECU
+Hydrological,Flood,2016-03,Torrential rains and corresponding flash floods,,,Ethiopia,,,,,,,,236890.0,,Ethiopia,ETH
+Climatological,Flood,2016-03-18,Heavy rain,,,Pakistan,"['Punjab', 'Balochistan', 'Khyber-Pakhtunkhwa', 'FATA', 'Azad Jammu and Kashmir']",,,,62.0,,97.0,,171.0,Pakistan,PAK
+Hydrological,Flood,2016-03-07,,,,Serbia,['14 cities and municipalities in central and western parts of Serbia'],,,,,,,500.0,710.0,Serbia,SRB
+Biological,Epidemic,2016-01-01,Group C meningitis bacteria,,,Niger,"['Niamey', 'Tahoua', 'Tillabery', 'Dosso']",,,,33.0,,,414.0,,Niger,NER
+Meteorological,Extreme temperature,2016-02-27,,,,Morocco,,,,,,,,,,Morocco,MAR
+Hydrological,Flood,2016-02-15,Heavy rains caused landslides and flooding,,,Papua New Guinea,Oro and West New Britain provinces,,,,6.0,,,,,Papua New Guinea,PNG
+Biological,Epidemic,2016-02-15,Causal agent was Neisseria meningitides W135,,,Ghana,Kara region,Dankpen district,,,12.0,,,282.0,,Ghana,GHA
+Hydrological,Flood,2015-12,Heavy rains,,,Haiti,North West,Port-de-Paix,,,8.0,,,1000.0,,Haiti,HTI
+Biological,Epidemic,2016-01-23,Lassa fever,,,Nigeria,['10 states'],,,,82.0,,,34.0,,Nigeria,NGA
+Biological,Epidemic,2015-12-04,,,,Central African Republic,['Mbomou Province'],Bakouma,,Lengo village,,,,,,Central African Republic,CAF
+Meteorological,Storm,2023-12-16,Typhoon made landfall and brought heavy to intense rainfall,150,km/h(kilometers per hour),Philippines,Northern Samar,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,2015-12-07,,7.2,,Tajikistan,,,,,2.0,,14.0,,,Tajikistan,TJK
+Geophysical,Earthquake,2015-11-17,,6.7,,Kyrgyzstan,Osh Province,"['Kara-Suu', 'Alay', 'Ozgon', 'Kara-Kulja', 'Aravan', 'Chong-Alay']",,,,,,39.0,,Kyrgyzstan,KGZ
+Biological,Epidemic,2023-11-15,Increasing and spreading cases of measles,,,Cameroon,['Far North region'],Mayo-Tsanaga department,,,,,,858.0,,Cameroon,CMR
+Meteorological,Storm,,,,,Kenya,"['Busia', 'Homabay', 'Nandi', 'Kisumu', 'Nakuru', 'Bomet', 'Nyandarua', 'Turkana', 'Kericho', 'Nairobi', 'Narok']",,,,,,,,,Kenya,KEN
+Meteorological,Tropical cyclone,2015-11-06,,83,km/h(kilometers per hour),Yemen,,,,,,,,,,Yemen,YEM
+Climatological,Tropical cyclone,2023-11-03,,,,Yemen,Shabwah,Mukalla,,,,,,1100000.0,,Yemen,YEM
+Hydrological,Flood,2023-10,Heavy rains causing flooding and overflowing sewer systems,,,Iraq,Baghdad,,,,,,,,,Iraq,IRQ
+Hydrological,Flood,2015-11-20,Overflow of the Wabe Shebelle River and flash flood,,,Ethiopia,,,"['East Imey', 'Mustahil', 'Kelafo']",,,,,,,Ethiopia,ETH
+Geophysical,Earthquake,2015-10-26,,7.5,,Afghanistan,Badakhshan Province,,,,,,,,,Afghanistan,AFG
+Hydrological,Flood,2015-10-07,Heavy rains following the start of the Deyr rains,,,Somalia,,"['Bakool', 'Bay', 'Lower Juba', 'Middle Juba', 'Middle Shabelle']",,,,,,90000.0,,Somalia,SOM
+Meteorological,Storm,2015-10-14,,,,Philippines,Isabela,,,,,,,219.0,,Philippines,PHL
+Hydrological,Flood,2015-06-06,Heavy rains,,,Guatemala,Guatemala,,,,,,,8000.0,,Guatemala,GTM
+Climatological,Drought,2015-09,,,,South Sudan,Unity State,,,,,,,30000.0,,South Sudan,SSD
+Hydrological,Flood,2015-09-05,,,,Sierra Leone,Bo District,Pujehun District,,,,,,2630.0,,Sierra Leone,SLE
+Biological,Epidemic,2015-09-15,Cholera outbreak,,,Iraq,"['Najaf', 'Baghdad']",,,,,,,15.0,,Iraq,IRQ
+Climatological,Drought,2015-09-14,El Niño-induced drought,,,Fiji,,,,,,,,30000.0,,Fiji,FJI
+Meteorological,Storm,2015-08-24,Significant rainfall resulting in flooding and landslides,,,Dominica,"['Anguilla', 'British Virgin Islands', 'Montserrat', 'St. Kitts and Nevis', 'Southeastern Bahamas', 'Turks and Caicos Islands']",[],,,,30.0,,,,Dominica,DMA
+Hydrological,Flood,2015-07,Heavy rains,,,Niger,,"['Agadez', 'Dosso', 'Maradi', 'Niamey', 'Tillabéry', 'Tahoua', 'Zinder']",,,,,,20000.0,,Niger,NER
+Climatological,Drought,2015-08,Severe El Nino event with reduced rainfall,,,Papua New Guinea,,,,,24.0,,,2000000.0,,Papua New Guinea,PNG
+Hydrological,Flood,2015-08-04,Intense rainfall and storms,,,Argentina,Buenos Aires,"['Lujan', 'San Antonio de Areco', 'Campana', 'Salto', 'Chacabuco', 'Chivilcoy', 'Pilar', 'Mar del Plata', 'Quilmes', 'La Plata', 'Berisso', 'Zarate', 'Mercedes', 'San Andres', 'Santos Lugares', 'Pergamino', 'Junin', 'Pila', 'Arrecifes', 'Venado Tuerto']",,,,,,50000.0,,Argentina,ARG
+Climatological,Drought,,El Niño weather event,,,Viet Nam,,,,,,,,,,Viet Nam,VNM
+Meteorological,Storm,2015-07-29,"Monsoon depression intensified into a cyclonic storm, threatening further downpours in regions already affected by flash floods and landslides",,,Bangladesh,,,,,,,,,,Bangladesh,BGD
+Hydrological,Flood,2015-07-14,Intense rainfall causing the overflowing of rivers,,,Brazil,Rio Grande Do Sul,,,,,,,,,Brazil,BRA
+Hydrological,Flood,2015-07-15,Heavy rainfall along coastal regions,,,Guyana,"Region 3, Essequibo Islands, West Demerara","Region 4, Demerara-Mahaica",,,,,,,,Guyana,GUY
+Hydrological,Flood,2015-06,Heavy rains caused floods and landslides,,,Myanmar,"Ayeyarwady, Bago, Chin, Kachin, Kayin, Magway, Mandalay, Mon, Rakhine, Sagaing, Shan, Yangon",,,,,,,,,Myanmar,MMR
+Hydrological,Flood,2015-06-25,Heavy rains,,,Philippines,Sultan Kudarat,,,,,,,800.0,,Philippines,PHL
+Hydrological,Flood,2015-06-27,Heavy and constant rains,,,Costa Rica,"['Limón', 'Heredia', 'Cartago']",,,,,,,5000.0,,Costa Rica,CRI
+Biological,Epidemic,2015-06-23,Outbreak of cholera,,,South Sudan,Juba County,,,,26.0,,,347.0,,South Sudan,SSD
+Hydrological,Flood,2015-06-07,Heavy rains and hails,,,Georgia,,"['Tbilisi', 'Surrounding villages']",,,16.0,24.0,,8800.0,,Georgia,GEO
+Biological,Epidemic,2015-06-04,Repeated outbreaks of severe dengue,,,Yemen,,,,,3.0,,,3000.0,,Yemen,YEM
+Climatological,Drought,2015-05-29,,,,Angola,,,,,,,,,,Angola,AGO
+Climatological,Drought,2016-10,Below average autumn rains,,,Ethiopia,,,,,,,,5600000.0,,Ethiopia,ETH
+Hydrological,Flood,2015-08,Heavy rainfall,,,India,"Assam, Gujarat, Madhya Pradesh, Manipur, Odisha, Rajasthan, West Bengal",,,,293.0,,,13700000.0,,India,IND
+Meteorological,Storm,2015-04-26,Unseasonably early rainfall followed by severe storm termed as 'mini-cyclone',,,Pakistan,Northwest Pakistan,,,,45.0,,,,,Pakistan,PAK
+Hydrological,Flood,2015-06-03,Torrential rains,,,Ghana,Greater Accra,,,,200.0,,,46370.0,,Ghana,GHA
+Hydrological,Wave action,2015-05-02,Unusual phenomenon producing high waves,,,El Salvador,"Ahuachapán, Sonsonate, La Libertad, La Paz, San Vicente, Usulután, La Union",,,,,,,1300.0,,El Salvador,SLV
+Hydrological,Flood,2015-05-11,,,,Tajikistan,Khatlon,Hoit,,,,,,1776.0,,Tajikistan,TJK
+Hydrological,Flood,2015-04-24,,,,Central African Republic,,Berbérati,,,,,,1109.0,,Central African Republic,CAF
+Geophysical,Earthquake,2015-04-25,,7.8,,Nepal,Lamjung District,,,,1000.0,,,,,Nepal,NPL
+Hydrological,Flood,2015-04-03,Heavy rainfall,,,Rwanda,,"['Nyamasheke', 'Rubavu']",,,,,,3425.0,,Rwanda,RWA
+Hydrological,Flood,2015-04-05,Heavy rainfall,,,Haiti,West Department,"['Cité Soleil', 'Tabarre', 'Grande Anse']",,,6.0,,,9000.0,,Haiti,HTI
+Biological,Epidemic,2015-04-01,,,,Niger,"['Niamey', 'Zinder']",,,,,,,3985.0,,Niger,NER
+Hydrological,Flood,2015-03-29,,,,Burundi,Bujumbura Rural Province,Muhuta,,"Muhuta, near Lake Tanganyika",,,,,349.0,Burundi,BDI
+Hydrological,Flood,2015-03-09,,,,Argentina,Cordoba,,,,,,,4400.0,,Argentina,ARG
+Biological,Epidemic,2014-12-26,,,,Kenya,Nairobi County,Mandera County,,,18.0,,,1629.0,,Kenya,KEN
+Hydrological,Flood,2015-02,Heavy rainfall,,,Albania,,,,,,,,42000.0,,Albania,ALB
+Hydrological,Flood,2015-02-01,"Heavy rains, hail and landslides",,,Peru,Loreto,"Amazonas, Arequipa, Cusco, San Martin",,,,,,30000.0,,Peru,PER
+Hydrological,Flood,2015-01-05,Continuous rainfall due to pressure from the Inter Tropical Convergence Zone,,,Madagascar,,['Antananarivo'],,Antananarivo,68.0,,,80000.0,,Madagascar,MDG
+Meteorological,Storm,2015-01-06,,,,Lebanon,,,,,,,,1000000.0,,Lebanon,LBN
+Meteorological,Storm,2014-12-28,,,,North Macedonia,"['Ohrid', 'Struga', 'Debar', 'Kichevo', 'Skopje', 'Makedonski Brod']",,,,,,,,,North Macedonia,MKD
+Hydrological,Flood,2014-12,Heavy seasonal rains and strong winds,,,Malaysia,Pahang,"['Terengganu', 'Kelantan', 'Perak', 'Johor', 'Selangor', 'Perlis', 'Sabah']",,,,,,,,Malaysia,MYS
+Industrial accident,Fire,2014-12-04,Fire at the MWSC Generator Unit,,,Maldives,Malé,,,,,,,,,Maldives,MDV
+Meteorological,Storm,2014-12-06,,,,Philippines,,,,,,,,,,Philippines,PHL
+Geophysical,Volcanic activity,2014-11-23,,,,Cabo Verde,Fogo Island,,,Chã das Caldeiras,,,,1000.0,90.0,Cabo Verde,CPV
+Hydrological,Flood,2014-11,,,,Indonesia,Nanggroe Aceh Darussalam,"['Sumatra', 'Java']",,,171.0,,,120000.0,,Indonesia,IDN
+Hydrological,Flood,2014-10,Heavy rains,,,Somalia,Hiraan,"['Beledweyne', 'Middle Shabelle', 'Gedo', 'Lower Juba', 'Bakool']",,,,,,2500.0,,Somalia,SOM
+Hydrological,Flood,2014-09,Heavy rains,,,Ethiopia,"Afar, SNNP and Somali regions",,,,,,,72680.0,,Ethiopia,ETH
+Meteorological,Storm,2014-10-12,,,,India,Andhra Pradesh,Visakhapatnam,,Visakhapatnam,,,,,,India,IND
+Biological,Epidemic,2014-09-01,"Displacement, insecurity, low immunity and limited access to treatment",,,South Sudan,"['Upper Nile', 'Unity', 'Jonglei', 'Eastern Equatoria']",,,,102.0,,,4000.0,,South Sudan,SSD
+Hydrological,Flood,2014-09,Heavy monsoon rains and floods in the catchment areas,,,India,Punjab,"['Gilgit Baltistan', 'Azad Jammu and Kashmir (AJ&K)']",,,367.0,,,2500000.0,,India,IND
+Hydrological,Flood,2014-06,Seasonal monsoon rains triggering river overflows,,,India,Assam,Jajpur,,,3.0,,,25000.0,,India,IND
+Biological,Epidemic,2014-07-23,Suspected measles outbreak,,,Solomon Islands,,,,,2.0,,,600.0,,Solomon Islands,SLB
+Climatological,Drought,2014-01,,,,Kenya,North Eastern,,,,,,,1600000.0,,Kenya,KEN
+Hydrological,Flood,2014-08-13,Continuous rainfall and onrush of water from upstream,,,Bangladesh,,"['Nilphamari', 'Lalmonirhat', 'Kurigram', 'Rangpur', 'Gaibandha', 'Jamalpur', 'Sirajganj', 'Sunamjong', 'Sylhet']",,,9.0,,,800000.0,,Bangladesh,BGD
+Geophysical,Earthquake,2014-08-03,Earthquake hit Longtoushan township,6.1,Richter,China,Yunnan,Ludian,,,615.0,114.0,3143.0,230000.0,,China,CHN
+Hydrological,Mass movement (wet),2014-08-02,Heavy rain caused massive landslides,,,Nepal,Central Region,Sindhupalchowk District,Mankhaa Village Development Committee,Jure,,,,,,Nepal,NPL
+Hydrological,Flood,2014-07,Seasonal rainfall,,,South Sudan,Unity State,"['Bentiu', 'Juba', 'Malakal']",,,,,,1300000.0,,South Sudan,SSD
+Hydrological,Flood,2014-07,"Heavy seasonal rains, landslides and strong winds",,,Myanmar,Lower Myanmar,"['Ayeyarwady', 'Bago', 'Kayin', 'Kachin', 'Magway', 'Rakhine', 'Shan', 'Tanintharyi', 'Yangon']",,,,,,,,Myanmar,MMR
+Biological,Epidemic,2014-07-24,Cholera outbreak related to cross-border movement,,,Cameroon,['Far North region'],,,,100.0,,,1233.0,,Cameroon,CMR
+Geophysical,Earthquake,2014-07-07,,6.9,Mw(Moment Magnitude),Mexico,['Chiapas'],,,,5.0,,,9000.0,9000.0,Mexico,MEX
+Biological,Epidemic,2014-06-18,Chikungunya outbreak and increased dengue cases,,,El Salvador,San Salvador,Axutuxtepeque,,,,,93.0,15325.0,,El Salvador,SLV
+Hydrological,Flood,2014-06-13,,,,Philippines,Maguindanao,,,,,,,85315.0,,Philippines,PHL
+Hydrological,Mass movement (wet),2014-06-04,Heavy rainfall with high winds,,,Sri Lanka,Southern Province,Kalutara District,,,27.0,,,104476.0,,Sri Lanka,LKA
+Biological,Epidemic,2014-02-01,Measles outbreaks,,,Somalia,"['Banadir', 'Lower Juba', 'Puntland']",,,,,,,9000.0,,Somalia,SOM
+Hydrological,Flood,2014-06-12,Heavy rainfall causing rivers to overflow,,,Paraguay,Ñeembucú,Asunción,,,,,,160000.0,,Paraguay,PRY
+Biological,Epidemic,2014-05-15,Cholera outbreak,,,South Sudan,Central Equatoria State,,,,123.0,,,5697.0,,South Sudan,SSD
+Hydrological,Flood,2014-04-25,Heavy rainfall resulting in flash floods,,,Afghanistan,Northern Afghanistan,,,,,,,,,Afghanistan,AFG
+Hydrological,Flood,2014-04,,,,Tajikistan,,,,,,,,,,Tajikistan,TJK
+Climatological,Wildfire,2014-04-12,,,,Chile,Valparaiso,,,Valparaiso city,12.0,,,12000.0,,Chile,CHL
+Hydrological,Flood,2014-03-31,Dam burst,,,Kazakhstan,Karaganda Region,Kokpekty Village,,,5.0,,9.0,400.0,354.0,Kazakhstan,KAZ
+Geophysical,Earthquake,2014-04-10,,6.2,,Nicaragua,León,,,,2.0,,,,2300.0,Nicaragua,NIC
+Meteorological,Tropical cyclone,2014-04,,,,Papua New Guinea,,,,,,,,,,Papua New Guinea,PNG
+Hydrological,Flood,2014-04-03,Heavy rain from a tropical depression,,,Solomon Islands,Honiara,Guadalcanal,,,22.0,,,50000.0,,Solomon Islands,SLB
+Climatological,Drought,2016-06-29,,,,Guatemala,,Honduras,El Salvador,,,,,3500000.0,,Guatemala,GTM
+Biological,Epidemic,2014-03-01,,,,Guinea,,,,,,,,,,Guinea,GIN
+Hydrological,Flood,2014-05-31,,,,Colombia,"Caquetá, Magdalena, Chocó, Cauca",,,,,,,41151.0,,Colombia,COL
+Biological,Epidemic,2014-01-01,"Combination of chronic malnutrition, lack of access to health facilities, lower than average rainfall, and outbreak of sheep pox",,,Pakistan,Sindh,Tharparkar District,,,99.0,,,,,Pakistan,PAK
+Meteorological,Tropical cyclone,2014-03-11,,,,Vanuatu,Penama,Malampa,,,,,,,,Vanuatu,VUT
+Hydrological,Flood,2014-03-05,Heavy rains,97,mm (millimeters),South Africa,Mpumalanga,Nelspruit,,,6.0,2.0,,,,South Africa,ZAF
+Hydrological,Wave action,2014-03-03,,,,Marshall Islands,,,,,0.0,,0.0,,,Marshall Islands,MHL
+Biological,Epidemic,2013-11,Cholera outbreak,,,Namibia,Northern Regions,"['Kunene', 'Omusati', 'Oshana', 'Ohangwena', 'Windhoek']",,,17.0,,,504.0,,Namibia,NAM
+Geophysical,Volcanic activity,2014-02-13,,,,Indonesia,East Java,"Blitar, Kediri, Malang",,,7.0,,,201228.0,11000.0,Indonesia,IDN
+Hydrological,Flood,2014-01-24,Heavy rains and strong winds,,,Seychelles,"Praslin, La Digue",,,,,,,4000.0,,Seychelles,SYC
+Hydrological,Flood,2014-02-11,Heavy rains,,,Zimbabwe,,"['Masvingo', 'Matabeleland North']","['Chivi', 'Masvingo', 'Tsholotsho']",,,,,20000.0,,Zimbabwe,ZWE
+Biological,Epidemic,,Dengue fever outbreak,,,Timor-Leste,['Dili'],,,,,,,,,Timor-Leste,TLS
+Geophysical,Volcanic activity,2013-11-24,,,,Indonesia,Sumatra,,,,,,,17030.0,,Indonesia,IDN
+Hydrological,Flood,2014-01-10,Heavy rainfall due to low pressure area,,,Philippines,"Regions X, XI, XII, CARAGA and ARMM",,,,64.0,,,1148000.0,,Philippines,PHL
+Geophysical,Earthquake,2014-01-04,"Earthquake struck Sipí, triggering flooding",,,Colombia,Chocó,,,,,,,9000.0,,Colombia,COL
+Meteorological,Tropical cyclone,2014-01-11,,,,Tonga,Ha'apai,Vava'u,,,1.0,,14.0,1130.0,1130.0,Tonga,TON
+Geophysical,Volcanic activity,2013-12-29,,,,El Salvador,,,,,,,,,,El Salvador,SLV
+Hydrological,Flood,2013-12-07,,,,Brazil,,,,,,,,,,Brazil,BRA
+Hydrological,Flood,2013-11,Prolonged wet season transitioning into wet season,,,Indonesia,,,,,35.0,,,20000.0,,Indonesia,IDN
+Biological,Epidemic,2023-10-03,,,,Sudan,"['West Kordofan', 'South Kordofan']",,,,,,,,,Sudan,SDN
+Biological,Epidemic,2015-04-30,Recurrent outbreaks of cholera,2108,Vaccinated people,Nigeria,['Cholera affected states'],"['Anambra', 'Kano', 'Rivers', 'Ebonyi']",,,97.0,,,2108.0,,Nigeria,NGA
+Meteorological,Storm,2013-11-14,Heavy rainfall and strong winds,,,Viet Nam,South-Central Provinces,"['Quang Tri', 'Ninh Thuan', 'Quang Nam', 'Quang Ngai', 'Da Nang', 'Phu Yen', 'Binh Dinh']",,,,,,,,Viet Nam,VNM
+Meteorological,Storm,2013-11-08,,,,Philippines,,Eastern Samar,,,,,,4300000.0,,Philippines,PHL
+Biological,Epidemic,2013-08-30,"Torrential rains, precarious sanitary conditions, displacement of populations from Nigeria, start of the school year",,,Togo,,Maritime Region,Lomé,,7.0,,,168.0,,Togo,TGO
+Hydrological,Flood,2013-10,Seasonal rainfall exacerbated by tropical storms,,,Thailand,North and North-eastern Provinces,,,,61.0,,,3500000.0,,Thailand,THA
+Geophysical,Earthquake,2013-10-15,,7.2,,Philippines,Bohol,,,,,,,1300000.0,79217.0,Philippines,PHL
+Meteorological,Storm,2013-10,Very severe cyclone with high speed winds and heavy rainfall,,,India,Odisha,"['Seventeen districts in Odisha', 'Sixteen districts in Andhra Pradesh']",,,47.0,,,13230000.0,,India,IND
+Biological,Epidemic,2014-01-27,Cholera outbreak,,,Benin,Atlantic,"['Sô-Ava', 'Cotonou', 'Acomey-Calawi']",,,6.0,,,438.0,,Benin,BEN
+Hydrological,Flood,2013-08,,,,Burkina Faso,"['Est', 'Boucle de Mouhoun', 'Sahel', 'Hauts-Bassins']",,,,,,,6712.0,751.0,Burkina Faso,BFA
+Meteorological,Storm,2013-09-15,Increased rainfall and wind storms,,,Colombia,"['Pacific coast', 'Caribbean coast']",,,,,,,37834.0,,Colombia,COL
+Hydrological,Flood,2013-09,Heavy rains,,,Cambodia,North-west and central Cambodia,"['Banteay Meanchey', 'Battambang', 'Kampong Cham', 'Prey Veng']",,,188.0,,,1700000.0,,Cambodia,KHM
+Geophysical,Earthquake,2013-09-24,,7.8,Mw(Moment Magnitude),Pakistan,Balochistan,"['Awaran', 'Kech']",,,348.0,,,300000.0,21000.0,Pakistan,PAK
+Hydrological,Flood,2013-08,Heavy rains causing floods,,,Mauritania,,"['Tagant', 'Trarza', 'Inchiri', 'Nouakchott']",,,8.0,,,4225.0,,Mauritania,MRT
+Hydrological,Flood,2013-09-12,,,,Romania,,"['Galati', 'Tulcea', 'Vaslui']",,,9.0,,,6900.0,,Romania,ROU
+Hydrological,Flood,2013-11,Heavy rains,,,Benin,,"['Malanville', 'Karimama']",,,,,,30000.0,,Benin,BEN
+Hydrological,Flood,2013-07,Heavy rains and floods,,,Nigeria,,"['Zamfara', 'Kogi', 'Bauchi']",,,19.0,,,81500.0,6500.0,Nigeria,NGA
+Hydrological,Flood,2013-08,Heavy rains,,,Mali,,"['Kidal', 'Segou', 'Bamako']",,,37.0,,,20300.0,,Mali,MLI
+Biological,Epidemic,2013-08-22,Measles outbreak,,,Uganda,,Hoima district,,,2.0,,,57.0,,Uganda,UGA
+Hydrological,Flood,2013-08-13,Torrential rainfall,,,Niger,,"['Maradi', 'Tillabery', 'Dosso', 'Tahoua', 'Niamey', 'Zinder']",,,26.0,,,75000.0,6600.0,Niger,NER
+Hydrological,Flood,,"Flooding caused by the Southwest Monsoon, exacerbated by tropical depressions and storms",,,Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2013-08,Heavy rains,,,Sudan,,"['Jonglei', 'Lakes', 'Northern Bahr el Ghazal', 'Unity', 'Upper Nile', 'Warrap', 'Western Bahr el Ghazal', 'Western Equatoria']",,,,,,150000.0,,Sudan,SDN
+Hydrological,Flood,2013-08-14,Torrential rains,,,Yemen,,,,,40.0,,,23500.0,,Yemen,YEM
+Hydrological,Flood,2013-08,Unusually heavy rains,,,Sudan,,,,,,,,50000.0,,Sudan,SDN
+Hydrological,Flood,2013-08,Heavy monsoon rains,,,Pakistan,,,,,234.0,,,1500000.0,,Pakistan,PAK
+Hydrological,Flood,2013-08-03,Heavy rains resulting in flash floods and high water levels,,,Afghanistan,Kabul Province,Surobi District,,,42.0,,,0.0,,Afghanistan,AFG
+Hydrological,Flood,2013-06,,,,Paraguay,"['Ñeembucú', 'Amambay', 'Alto Paraná', 'Misiones']",,,,,,,12200.0,,Paraguay,PRY
+Hydrological,Flood,2013-06,Heavy rains,,,Haiti,Artibonite,"['Nord-ouest', 'Centre']",,,6.0,,,33000.0,,Haiti,HTI
+Hydrological,Flood,2013-05,Tropical storms and heavy rains,,,Nicaragua,Región Autónoma Atlántico Norte (RAAN),Prinzapolka,Región Autónoma Atlántico Sur (RAAS),,30.0,,,12000.0,,Nicaragua,NIC
+Climatological,Drought,2013-06-01,"Four months without rain, leading to agricultural losses",,,Ecuador,Loja,,,,,,,1025.0,,Ecuador,ECU
+Hydrological,Flood,,,,,India,Uttarakhand,,,,,,,,,India,IND
+Biological,Epidemic,2013-05-07,Confirmed cases of Yellow Fever,,,Ethiopia,['SNNPR'],,,,,,,480000.0,,Ethiopia,ETH
+Biological,Epidemic,2013-04-30,Meningitis outbreak,,,South Sudan,Upper Nile State,Malakal County,,,5.0,,,141.0,,South Sudan,SSD
+Biological,Epidemic,2013-05-09,,,,Somalia,Banadir Region,Bay Region,,,,,,,,Somalia,SOM
+Climatological,Drought,2013-01,,,,Namibia,,,,,,,,,,Namibia,NAM
+Climatological,Tropical cyclone,2013-05-14,Heavy rains and landslides,,,Sri Lanka,,,,,7.0,,,3881.0,,Sri Lanka,LKA
+Hydrological,Flood,2013-05,Heavy rains causing the banks of the Nyamwamba river to burst,,,Uganda,,Kasese,,,8.0,,,25000.0,,Uganda,UGA
+Geophysical,Earthquake,2013-05-01,,5.8,Mw(Moment Magnitude),India,,,,,,,,,12000.0,India,IND
+Hydrological,Flood,2013-04,Heavy rain triggering floods and landslides,,,China,Henan,,,,,,,2800000.0,,China,CHN
+Hydrological,Flood,2013-04-26,,,,Ecuador,Santo Domingo de los Tsáchilas,,,,,,,25567.0,4033.0,Ecuador,ECU
+Hydrological,Flood,2013-05,Heavy localized rains,,,Ethiopia,,"['Fafan', 'Jarar', 'Korahe', 'Shabelle', 'Sidama', 'Wolayita', 'East Hararge', 'West Hararge', 'Borena']",,,,,,10710.0,,Ethiopia,ETH
+Geophysical,Earthquake,2013-04-20,,7.0,,China,Sichuan Province,,,,196.0,,14785.0,2100000.0,193000.0,China,CHN
+Hydrological,Flood,2013-03,Severe rainstorms,,,Ghana,"['Northern Region', 'Volta Region']",['Agona East'],,,,,,26000.0,,Ghana,GHA
+Meteorological,Storm,2013-04-02,,,,Argentina,Buenos Aires,La Plata,,,52.0,,,350000.0,,Argentina,ARG
+Hydrological,Flood,2013-03,"Isolated, torrential rainfall as part of the Long Rains season",,,Kenya,"['Marsabit', 'Isiolo', 'Narok', 'Kajiado', 'Tana River']",[],,,,,,,,Kenya,KEN
+Biological,Infestation,2012-04,Food insecurity and malnutrition rates,,,Madagascar,,,,,,,,13000000.0,,Madagascar,MDG
+Meteorological,Storm,2013-03-24,,,,Georgia,,,,,,,,,350.0,Georgia,GEO
+Meteorological,Tornado,2013-03-22,,,,Bangladesh,,Brahmanbaria,,,26.0,,388.0,1633.0,,Bangladesh,BGD
+Hydrological,Flood,2013-02-25,Heavy rainfalls accompanied with hail and thunder,,,Serbia,,Pčinja District,,,,,,100.0,,Serbia,SRB
+Miscellaneous accident,Collapse (Miscellaneous),2013-03-04,,,,Central African Republic,Bangui,,,,,,,8710.0,,Central African Republic,CAF
+Meteorological,Tropical cyclone,2013-02-22,,,,Madagascar,,,,,26.0,,,40000.0,,Madagascar,MDG
+Meteorological,Storm,2013-02-01,,,,Afghanistan,"['Central Region', 'Western Region']",,,,10.0,,,1200.0,,Afghanistan,AFG
+Hydrological,Flood,2013-03-31,Heavy rains causing floods and landslides,,,Peru,"Loreto, Arequipa, Cusco, Ancash, Huancavelica, Huanuco",,,,,,,180000.0,3561.0,Peru,PER
+Geophysical,Earthquake,2013-02-06,,8.0,Mw(Moment Magnitude),Solomon Islands,Temotu Province,Santa Cruz Islands,,,10.0,,,3329.0,600.0,Solomon Islands,SLB
+Hydrological,Flood,2013-01,Heavy rains,,,Botswana,Central Province,,,,,,,4210.0,,Botswana,BWA
+Meteorological,Storm,2013-01-27,,,,Seychelles,Mahe,,,,,,,,,Seychelles,SYC
+Meteorological,Extreme temperature,2013-01-25,,,,Belarus,,,,,4.0,,,,,Belarus,BLR
+Hydrological,Flood,2013-01-16,Heavy rains triggered extensive flooding,,,Indonesia,,Jakarta,,,29.0,,,37000.0,,Indonesia,IDN
+Hydrological,Flood,2012-12,Heavy rains,,,Kenya,Rift Valley,,,,,,,,,Kenya,KEN
+Meteorological,Extreme temperature,2013-01,,,,India,"['Uttar Pradesh', 'Punjab', 'Haryana']",,,,,,,78000000.0,,India,IND
+Hydrological,Flood,2013-01,Heavy rains,,,Malawi,,,,,,,,,,Malawi,MWI
+Miscellaneous accident,Fire (Miscellaneous),2013-01-02,,,,Sierra Leone,Northern Province,Southern Province,,,,,,2257.0,279.0,Sierra Leone,SLE
+Meteorological,Storm,2012-12-26,,,,Philippines,Leyte,,,,20.0,,,240000.0,,Philippines,PHL
+Meteorological,Extreme temperature,2012-12-18,,,,Kyrgyzstan,Bishkek,,,,16.0,,50.0,,,Kyrgyzstan,KGZ
+Meteorological,Tropical cyclone,2012-12-13,,,,Samoa,,,,,,,,810.0,1697.0,Samoa,WSM
+Meteorological,Storm,2012-12-03,,,,Palau,,,,,,,,,,Palau,PLW
+Geophysical,Earthquake,2012-11-11,,6.8,ML(Local/Richter Magnitude),Myanmar,Sagaing Region,,,,7.0,,,,122.0,Myanmar,MMR
+Hydrological,Flood,2012-11-08,Heavy rains,,,Haiti,Nord,"['Nord-est', 'Nord-ouest', 'Nippes']",,,,,,1500.0,0.0,Haiti,HTI
+Climatological,Drought,2012-10,Scanty rainfall,,,Sri Lanka,,,,,,,,1800000.0,,Sri Lanka,LKA
+Biological,Epidemic,2012-10-29,Possible yellow fever outbreak,,,Sudan,['Central and South Darfur'],,,,42.0,,,98.0,,Sudan,SDN
+Meteorological,Storm,2012-10-25,,,,Philippines,,,,,27.0,,,15000.0,200.0,Philippines,PHL
+Meteorological,Hurricane,2012-10-24,,,,Jamaica,,,,,,,,,,Jamaica,JAM
+Biological,Epidemic,2012-10-23,,,,Benin,['Department of Mono'],Comé,,,,,,65.0,,Benin,BEN
+Hydrological,Flood,2012-10-01,"Floods, landslides, avalanches",,,Colombia,"Bolivar, Cordoba, North of Santander, Huila, Atlantico",,,,10.0,,,10000.0,,Colombia,COL
+Hydrological,Flood,2012-09-30,,,,Democratic Republic of the Congo,Équateur,,,Gbadolite,3.0,,,327.0,300.0,Democratic Republic of the Congo,COD
+Hydrological,Flood,2012-09,,,,Niger,,,,,,,,,,Niger,NER
+Hydrological,Flood,2012-09-28,Extremely heavy rains causing the Shabelle River to overflow,,,Somalia,,Belet Weyne,,,25.0,,,20000.0,,Somalia,SOM
+Climatological,Wildfire,2012-09-13,,,,Ecuador,,,,,3.0,,,0.0,,Ecuador,ECU
+Hydrological,Flood,2012-09,,,,Gambia,,,,,13.0,,,34000.0,,Gambia,GMB
+Geophysical,Earthquake,2012-09-07,,5.7,ML(Local/Richter Magnitude),China,Southwest,,,,50.0,,160.0,100000.0,,China,CHN
+Hydrological,Flood,2012-08-28,Extensive flooding caused by successive torrential rains and tropical storms,52299,,Democratic People's Republic of Korea,,,,,59.0,,,52299.0,5766.0,Democratic People's Republic of Korea,PRK
+Hydrological,Flood,2012-08-26,,,,Senegal,,"['St. Louis (North)', 'Bambey', 'Dakar']",,,,,,25000.0,6500.0,Senegal,SEN
+Meteorological,Tropical Storm,2012-08-25,,,,Haiti,Port-au-Prince,,,,5.0,,,13800.0,,Haiti,HTI
+Climatological,Drought,2012-07,,,,Guatemala,,Chiquimula,,,,,,40000.0,,Guatemala,GTM
+Geophysical,Earthquake,2012-08-20,Earthquake shook the eastern Indonesian island of Sulawesi,6.2,Mw(Moment Magnitude),Indonesia,,,,,6.0,,,,1097.0,Indonesia,IDN
+Biological,Epidemic,2012-08-17,,,,Democratic Republic of the Congo,"['Isiro Health Zone', 'Dungu Health Zone', 'Province Orientale']",,,,,,,,,Democratic Republic of the Congo,COD
+Hydrological,Flood,2012-08,Heavy rains and flooding,,,Cameroon,North,"['North', 'Far North', 'Logone and Chari Department']",,,,,,88640.0,,Cameroon,CMR
+Hydrological,Flood,2012-08-15,Heavy rains causing flash floods and flooding,,,Philippines,Isabela,,,,7.0,,,86700.0,,Philippines,PHL
+Climatological,Drought,2012-10,,,,Malawi,,,,,,,,1970000.0,,Malawi,MWI
+Climatological,Drought,2012-10,Above normal rainfall resulting in residual moisture impacting on crop yield,,,Lesotho,,,,,,,,725215.0,,Lesotho,LSO
+Meteorological,Tropical cyclone,2012-08-13,,,,Mexico,Veracruz,,,,12.0,,,10000.0,,Mexico,MEX
+Hydrological,Flood,2012-08,Heavy rain as part of the monsoon season,,,Myanmar,,,,,1.0,,,18000.0,,Myanmar,MMR
+Hydrological,Flood,2012-08,Heavy rains,,,Chad,,"['Rig Rig', 'Sila', 'Guera', 'N’djamena']",,,,,,13000.0,,Chad,TCD
+Hydrological,Flood,2012-08-02,,,,China,,,,,,,,4600000.0,10400.0,China,CHN
+Biological,Epidemic,2012-08-31,Ebola haemorrhagic fever,,,Uganda,['Kibaale district'],,,,17.0,0.0,0.0,,,Uganda,UGA
+Meteorological,Storm,2012-07-24,,,,China,Quangdong,,,,12.0,,,400000.0,300.0,China,CHN
+Meteorological,Storm,2012-07-19,,,,Georgia,['Kakheti'],,,,,,,20000.0,,Georgia,GEO
+Hydrological,Flood,2012-06,Heavy rains,,,Burkina Faso,,,,,18.0,,33.0,47671.0,,Burkina Faso,BFA
+Hydrological,Flood,2012-06-23,Torrential rain,,,Bangladesh,,"['Northern parts', 'South-eastern parts']",,,139.0,,,5000000.0,360000.0,Bangladesh,BGD
+Meteorological,Extreme temperature,2012-06-22,Extreme cold weather,,,Peru,"['Puno', 'Cusco', 'Arequipa', 'Ayacucho', 'Apurimac', 'Huancavelica', 'Junin']",,,,152.0,,,30113.0,,Peru,PER
+Hydrological,Flood,2012-06,Highest recorded rainfall,,,Sudan,,,,,,,,,,Sudan,SDN
+Biological,Epidemic,2012-06-24,Cholera outbreak,,,Niger,"['Tillabéri', 'Niamey', 'Dosso', 'Maradi']",,,,52.0,,,2023.0,,Niger,NER
+Hydrological,Flood,2012-06-26,,,,India,Assam,"['District 1', 'District 2', 'District 3', 'District 4', 'District 5', 'District 6', 'District 7', 'District 8', 'District 9', 'District 10', 'District 11', 'District 12', 'District 13', 'District 14', 'District 15', 'District 16', 'District 17', 'District 18', 'District 19', 'District 20', 'District 21', 'District 22', 'District 23', 'District 24', 'District 25', 'District 26', 'District 27']",,,,,,2200000.0,,India,IND
+Hydrological,Flood,2012-06-01,,,,Philippines,Luzon,,,,78.0,11.0,36.0,4400000.0,,Philippines,PHL
+Hydrological,Flood,2012-06,,,,Guatemala,,"['Petén', 'Zacapa', 'Guatemala', 'Quiché', 'Suchitepéquez']",,,,,,136820.0,1010.0,Guatemala,GTM
+Hydrological,Flood,2012-06-01,,,,Solomon Islands,Makira Ulawa Province,,,,,,,7000.0,,Solomon Islands,SLB
+Hydrological,Flood,2012-05-28,,,,Cuba,,,,,,,,8000.0,1000.0,Cuba,CUB
+Hydrological,Flood,2012-05-02,,,,Ethiopia,Somali region,,,,,,,702.0,,Ethiopia,ETH
+Climatological,Drought,2016-05-14,Lack of rain,,,Brazil,North East,,,,,,,4000000.0,,Brazil,BRA
+Geophysical,Earthquake,2012-05-13,,5.7,ML(Local/Richter Magnitude),Tajikistan,Nurobod,Rasht,,,2.0,,,2531.0,360.0,Tajikistan,TJK
+Hydrological,Mass movement (wet),2012-05-12,Heavy rains,,,Georgia,[],,,,5.0,,,3200.0,1400.0,Georgia,GEO
+Hydrological,Flood,2012-05,Torrential rains causing rivers to break their banks and landslides,,,China,,"['Gansu', 'Hunan', 'Guizhou', 'Guangxi', 'Jiangxi', 'Zhejiang', 'Fujian', 'Guangdong']",,,67.0,,,5890000.0,,China,CHN
+Hydrological,Flood,2012-05-05,Landslide near Machhapuchhre mountain triggered a catastrophic flash flood,,,Nepal,,Kaski District,,,26.0,51.0,,,20.0,Nepal,NPL
+Meteorological,Storm,2012-02-01,,,,Central African Republic,,,,,,,,,,Central African Republic,CAF
+Meteorological,Extreme temperature,2011-01-01,,,,Kyrgyzstan,,,,,,,,,0.0,Kyrgyzstan,KGZ
+Hydrological,Flood,2012-04-20,Heavy rains,,,Comoros,Comoros Islands,"['Grande Comore', 'Anjouan', 'Mohéli']",,,4.0,,83.0,64987.0,,Comoros,COM
+Hydrological,Flood,2012-04-23,,,,Democratic Republic of the Congo,South Kivu,Territoire d'Uvira,,,1.0,,,,3000.0,Democratic Republic of the Congo,COD
+Hydrological,Flood,2012-04-12,Heavy rains,,,Rwanda,Northern Province,"['Musanze', 'Nyabihu', 'Rubavu']",,,,,,11000.0,,Rwanda,RWA
+Biological,Epidemic,2012-04-11,Cholera outbreak,,,Ghana,Greater Accra Region,,,,28.0,,,3216.0,,Ghana,GHA
+Hydrological,Flood,2012-04,Severe rainfall,,,Paraguay,Paraguayan Chaco,Locations by the banks of the Pilcomayo River,,,,,,78945.0,,Paraguay,PRY
+Meteorological,Storm,2012-03-31,"Heavy winds, rain and hail",,,Sri Lanka,Northern Province,Menik Farm,,"zone 1 of Menik Farm, IDP camp",,,20.0,1200.0,942.0,Sri Lanka,LKA
+Hydrological,Flood,2012-03-30,Torrential rains caused by Tropical Depression TD17F,,,Fiji,Western Division,,,,4.0,,,150000.0,,Fiji,FJI
+Hydrological,Flood,2012-03-28,Torrential rains,,,Haiti,Port-au-Prince,Morne Calvaire,,,6.0,,,65000.0,,Haiti,HTI
+Biological,Epidemic,2012-03-04,Dengue virus type 4,,,Brazil,['Rio de Janeiro'],,,Méier,1.0,,,,,Brazil,BRA
+Biological,Epidemic,2012-03-01,Decline in immunization coverage and disruption in access to basic social services,,,Yemen,,,,,155.0,,,4300.0,,Yemen,YEM
+Biological,Epidemic,2012-02-21,Low immunization and poor public health service coverage,,,Afghanistan,"['Ghor', 'Baghdis']",,,,20.0,,,0.0,,Afghanistan,AFG
+Hydrological,Flood,2012-03-13,,,,Chile,Arica y Parinacota,,,,,,,1000.0,,Chile,CHL
+Meteorological,Tropical cyclone,2022-02-14,,,,Madagascar,,,,,,,,,,Madagascar,MDG
+Meteorological,Tropical cyclone,2012-02-10,,,,Vanuatu,,,,,,,,700.0,,Vanuatu,VUT
+Meteorological,Extreme temperature,2012-02,,,,Tajikistan,,,,,,,,5500.0,,Tajikistan,TJK
+Hydrological,Flood,2012-05,Melting of snow and continuous precipitation in May,,,Afghanistan,"['Kabul', 'Sar-e-Pol', 'Takhar']",['Sar-e-Pol'],,,,,,,,Afghanistan,AFG
+Biological,Epidemic,,,,,Sierra Leone,,,,,,,,,,Sierra Leone,SLE
+Meteorological,Tropical cyclone,2012-01-25,,,,Indonesia,Java and Bali,,,,15.0,,60.0,,2364.0,Indonesia,IDN
+Geophysical,Mass movement (dry),2012-01-24,,,,Papua New Guinea,Hela Province,,,,,,,,,Papua New Guinea,PNG
+Hydrological,Flood,2012-01-25,,,,Fiji,Viti Levu,,,,,,,3463.0,,Fiji,FJI
+Biological,Epidemic,2012-01-23,,,,Cameroon,"['North region', 'Adamawa region']",,,,,,,,,Cameroon,CMR
+Meteorological,Extreme temperature,2012-01,,,,Afghanistan,,,,,,,,,,Afghanistan,AFG
+Climatological,Drought,2012-01-17,Government state of emergency,,,Paraguay,,,,,,,,0.0,,Paraguay,PRY
+Hydrological,Flood,2012-01-06,,,,Ecuador,"['Guayas', 'El Oro', 'Esmeraldas']",,,,,,,100.0,,Ecuador,ECU
+Climatological,Flood,2012-01,,,,Brazil,Sapucaia,,,Sapucaia,19.0,,,,9.0,Brazil,BRA
+Climatological,Wildfire,2011-12-29,High temperatures and favourable wind conditions,,,Chile,Biobío region,"['Quillón', 'Florida', 'Maule region', 'Magallanes region', 'La Araucanía region']",,,,,,500.0,230.0,Chile,CHL
+Meteorological,Storm,2011-12-30,Heavy rainfall associated with Cyclone Thane,,,India,Tamil Nadu,,,,18.0,,,,,India,IND
+Meteorological,Extreme temperature,2011-12,,,,Nepal,"['Taplejung', 'Ilam', 'Panchthar', 'Bhojpur', 'Sankhuwasava', 'Khotang', 'Solukhumbu', 'Tehrathum', 'Dhankuta']",,,,,,,5000.0,,Nepal,NPL
+Biological,Epidemic,2011-12-15,Cholera outbreak,,,Angola,Lunda Norte,Lucapa,,,,,,100.0,,Angola,AGO
+Geophysical,Earthquake,2012-12-10,,,,Mexico,Guerrero,,,,,,,3371.0,1106.0,Mexico,MEX
+Hydrological,Flood,2011-12,,,,Angola,Kuando Kubango Province,,,,,,,5000.0,,Angola,AGO
+Geophysical,Volcanic activity,2011-12-04,,,,Indonesia,,,,,3.0,,5.0,2368.0,,Indonesia,IDN
+Meteorological,Extreme temperature,,,,,Mexico,"['Durango', 'Zacatecas', 'Veracruz']",,,,,,,71.0,,Mexico,MEX
+Hydrological,Flood,2011-11,,,,Indonesia,West Sumatra,,,,4.0,,,,,Indonesia,IDN
+Meteorological,Storm,2011-11-27,,,,Sri Lanka,,,,,20.0,20.0,,66286.0,,Sri Lanka,LKA
+Hydrological,Flood,2011-11-10,Heavy rains,,,Panama,Colón Province,,,,,,,2000.0,,Panama,PAN
+Hydrological,Flood,2012-03-29,La Niña phenomenon caused an increase in precipitation,,,Peru,Loreto,"['Belén', 'Iquitos', 'Punchana', 'San Juan']",,,,,,222633.0,,Peru,PER
+Hydrological,Flood,2011-12-07,,,,Democratic Republic of the Congo,Sud-Kivu,,,,,,,400.0,1200.0,Democratic Republic of the Congo,COD
+Hydrological,Flood,2011-10,Heavy rains and flooding,,,Somalia,,,,,,,,5000.0,,Somalia,SOM
+Meteorological,Storm,2023-10-21,,,,Mexico,"Colima, Jalisco, Tabasco, Oaxaca, Campeche",,,,,,,92000.0,,Mexico,MEX
+Hydrological,Flood,2011-10-11,,,,Central African Republic,Bangui,Ouango Sub Prefecture,,,,,,2935.0,,Central African Republic,CAF
+Hydrological,Flood,2011-10-06,Heavy rains,,,Haiti,"Sud, Nippes and Grande Anse",,,,2.0,,,416.0,,Haiti,HTI
+Biological,Epidemic,2011-09-30,,,,Guinea,"['Sékia Moté, Bokélo, Mondoli, Monza, Bokassi, Nzinga, Sedale']",,,,16.0,,,172.0,,Guinea,GIN
+Climatological,Drought,,,,,Tuvalu,,,,,,,,,,Tuvalu,TUV
+Hydrological,Flood,2011-08,Heavy rains and overflow of the Mekong river,,,Cambodia,Cambodia,,,,247.0,,,1200000.0,,Cambodia,KHM
+Meteorological,Storm,2011-10-11,,,,Dominica,,,,,,,,,,Dominica,DMA
+Geophysical,Earthquake,2011-09-18,,6.8,Mw(Moment Magnitude),India,['Sikkim'],,,,,,,,,India,IND
+Hydrological,Flood,2011-09,"Worst flooding in 11 years, slow onset, large areas covered with water",,,Viet Nam,,"['An Giang', 'Dong Thap', 'Long An', 'Can Tho', 'Vinh Long', 'Hau Giang', 'Kien Giang']",,,85.0,,,600000.0,13000.0,Viet Nam,VNM
+Hydrological,Wave action,,,,,Honduras,,,,,,,,775.0,,Honduras,HND
+Hydrological,Flood,2011-09,,,,South Sudan,Jonglei State,Fangak County,,,,,,30000.0,,South Sudan,SSD
+Hydrological,Flood,2011-09-06,,,,Mexico,"['Chiapas', 'Estado de México', 'Guerrero', 'Oaxaca', 'Sinaloa', 'Tabasco', 'Veracruz']",,,,74.0,,,40000.0,,Mexico,MEX
+Hydrological,Flood,,,,,Philippines,"Regions II, V, VI",,,,,,,11720.0,,Philippines,PHL
+Hydrological,Flood,2011-08-22,"Heavy downpours, violent winds, floods and landslides",,,Haiti,"North, Centre and Artibonite",,,,,,,,,Haiti,HTI
+Hydrological,Flood,2011-08,,,,Niger,"Tillabéry, Zinder, Tahoua, Agadez",,,,5.0,,,13000.0,1000.0,Niger,NER
+Hydrological,Flood,2011-08,Heavy rains in northwestern Kenya,,,Kenya,,"['Kisumu East', 'Nyando', 'Turkana']",,,25.0,,,91692.0,,Kenya,KEN
+Hydrological,Mass movement (wet),2011-08-12,,,,Uganda,,,,,3.0,,5.0,6400.0,,Uganda,UGA
+Hydrological,Flood,2011-08,,,,Ethiopia,Amhara,"['Tigray', 'Somali', 'Afar']",,,,,,,,Ethiopia,ETH
+Meteorological,Hail,2011-08-08,,,,Paraguay,Itapúa Department,"['Mayor Otaño', 'Carlos Antonio López']",,,,,,8570.0,,Paraguay,PRY
+Hydrological,Flood,2011-08,Flooding in multiple regions,,,Sudan,Darfur,"['North Darfur', 'South Darfur', 'West Darfur', 'Blue Nile', 'Khartoum State', 'Northern Kordofan']",,,2000.0,,,16000.0,,Sudan,SDN
+Hydrological,Flood,2011-08-01,,,,Senegal,,Thies,,,,,,5214.0,,Senegal,SEN
+Meteorological,Tropical cyclone,2022-07-31,,,,Philippines,,,,,4.0,,,3000.0,,Philippines,PHL
+Meteorological,Storm,2011-08,Heavy rainfall,,,Mali,,,,,,,,,,Mali,MLI
+Biological,Epidemic,2011-08-13,Increase in cholera cases due to early start of the rainy season,,,Burundi,['six provinces'],,,,2.0,,0.0,423.0,,Burundi,BDI
+Hydrological,Flood,2011-01-01,,,,Guinea,Labé,Siguiri,,,,,,16143.0,,Guinea,GIN
+Hydrological,Flood,2011-08-01,,,,Ecuador,Sucumbíos province,,,,7.0,,,150.0,,Ecuador,ECU
+Hydrological,Flood,2011-07,,,,Benin,Littoral,"['Lokossa', 'Athiémé', 'Bopa', 'Cotonou']",,,,,,500.0,500.0,Benin,BEN
+Meteorological,Extreme temperature,,,,,Chile,"['Bio-bío', 'Araucanía']",,,,,,,,,Chile,CHL
+Biological,Epidemic,2011-07-17,,,,Zimbabwe,Manicaland Province,Chipinge,,,45.0,,,1140.0,,Zimbabwe,ZWE
+Hydrological,Flood,2011-07,,,,India,Kerala,"['West Bengal', 'Bihar', 'Kerala']",,,130.0,,,2500000.0,,India,IND
+Hydrological,Flood,2011-06,Floods and landslides triggered by monsoon rains,,,Nepal,Terai,,,,25.0,2.0,4.0,,,Nepal,NPL
+Hydrological,Flood,2011-07,Torrential monsoon rains coupled with a depression in the Bay of Bengal,,,Bangladesh,,Cox’s Bazar,,,,,,,,Bangladesh,BGD
+Biological,Epidemic,2011-06,,,,Bangladesh,,,,,,,,1289.0,,Bangladesh,BGD
+Meteorological,Storm,2011-07-04,,,,Mexico,Veracruz,,,,20.0,,,300000.0,,Mexico,MEX
+Biological,Epidemic,2011-07-12,Outbreak of cholera,,,Nigeria,Plateau State,,,,24.0,,,410.0,,Nigeria,NGA
+Meteorological,Flood,2011-06-21,Heavy rains from Tropical Storm Meari,,,Philippines,Luzon,,,,,,,171000.0,,Philippines,PHL
+Hydrological,Flood,,Heavy rains and flooding,,,Brazil,,,,,,,,,,Brazil,BRA
+Hydrological,Flood,2011-06-11,Heavy rains,,,Tajikistan,Sughd Province,,,,,,,,,Tajikistan,TJK
+Biological,Epidemic,2010-09,,,,Chad,,,,,,,,,,Chad,TCD
+Hydrological,Flood,2012-06-06,Severe heavy rains,,,Haiti,West and Nippes departments,,,,20.0,6.0,6.0,,,Haiti,HTI
+Hydrological,Flood,2011-06,Heavy rains,,,Dominican Republic,"Dajabón, Monte Plata, Puerto Plata, Sánchez Ramírez, San Cristóbal, San Pedro de Macorís, Santiago",,,,,,,4000.0,,Dominican Republic,DOM
+Hydrological,Flood,,,,,Philippines,Mindanao,,,,,,,600190.0,,Philippines,PHL
+Hydrological,Flood,2011-04-22,Heavy rains causing massive flooding,,,Iraq,,,,,,,,,,Iraq,IRQ
+Meteorological,Extreme temperature,2011-05-01,,,,Peru,['Andes'],,,,,,,13400.0,,Peru,PER
+Hydrological,Flood,2011-04-25,,,,Rwanda,Southern Province,,,,,,,3588.0,,Rwanda,RWA
+Biological,Epidemic,2011-05-13,,,,Uganda,['Luwero District'],,,,1.0,,,,,Uganda,UGA
+Geophysical,Earthquake,2011-05-11,,5.1,,Spain,,,,,8.0,,120.0,,,Spain,ESP
+Hydrological,Flood,,Flooding,,,Guatemala,Izabal,Puerto Barrios,,Puerto Barrios,,,,2000.0,,Guatemala,GTM
+Biological,Epidemic,2011-04-08,,,,Paraguay,,,,,,,,7071.0,,Paraguay,PRY
+Geophysical,Earthquake,2011-03-24,,6.8,ML(Local/Richter Magnitude),Myanmar,Eastern Shan State,"['Tarlay', 'Mong Lin']",,,74.0,,125.0,18000.0,,Myanmar,MMR
+Hydrological,Flood,2011-03-20,,,,Burundi,Bujumbura Capital,,,,,,,30.0,,Burundi,BDI
+Geophysical,Earthquake,2011-03-10,,5.8,,China,Yunnan,,,,,,,,,China,CHN
+Hydrological,Flood,2011-02,Flash floods and heavy snowfall,,,Afghanistan,"['Parwan', 'Herat', 'Wardak', 'Daykundi', 'Badakhshan']",['Shindand'],,,25.0,,,13000.0,,Afghanistan,AFG
+Climatological,Wildfire,2011-02-05,,,,Australia,Western Australia,Perth,,,,,,,,Australia,AUS
+Hydrological,Flood,2011-01,Heavy rainfall causing rivers to burst their banks,,,Malaysia,,"['Segamat', 'Batu Pahat', 'Kluang', 'Muar']",,,5.0,,,24000.0,,Malaysia,MYS
+Hydrological,Flood,2011-07-11,Tropical wave brought rains leading to flooding,,,Honduras,,,,,6.0,,,2500.0,,Honduras,HND
+Meteorological,Tropical cyclone,2011-01-12,,,,Vanuatu,Tafea Province,,,,,,,,,Vanuatu,VUT
+Meteorological,Extreme temperature,2011-01-07,,,,Bangladesh,,,,,50.0,,,,,Bangladesh,BGD
+Meteorological,Extreme temperature,2011-01-01,,,,China,"['Jiangxi', 'Hunan', 'Chongqing', 'Sichuan', 'Guizhou']",,,,2.0,,,3000000.0,7800.0,China,CHN
+Biological,Epidemic,2011-01-01,Cholera outbreak,,,Cameroon,"['Centre', 'Littoral', 'South-West', 'West', 'North', 'Far North']",,,,843.0,,,23152.0,,Cameroon,CMR
+Hydrological,Flood,2011-03,Heavy rains over the last 4 days,,,Brazil,"['Mato Grosso', 'Mato Grosso do Sul', 'Parana', 'Rio Grande do Sul']",,,,11.0,,,20000.0,,Brazil,BRA
+Meteorological,Extreme temperature,2010-11-05,,,,Guatemala,,,,,,,,22222.0,,Guatemala,GTM
+Biological,Epidemic,2011-04-14,Measles outbreak,1046,Vaccinated people,Kenya,Rift Valley Province,Nairobi and North Eastern Provinces,,,11.0,,,1046.0,,Kenya,KEN
+Hydrological,Flood,2010-09,Extraordinarily heavy rainfall,,,Australia,Victoria,,,,,,,,,Australia,AUS
+Hydrological,Flood,2011-04-18,Continuous rain,,,Ecuador,Loja,,,,,,,,,Ecuador,ECU
+Hydrological,Flood,2010-11,Heavy rains due to low pressure in the Bay of Bengal,,,India,Tamil Nadu,Pondicherry,,,,,,,,India,IND
+Climatological,Wildfire,2010-12-06,,,,China,Sichuan Province,Tibetan Autonomous Prefecture of Garze,,Dao fu County,22.0,,4.0,,,China,CHN
+Hydrological,Flood,2010-11-29,,,,Morocco,Essaouira,,,,32.0,,,75000.0,,Morocco,MAR
+Climatological,Flood,2010-10,,,,Angola,Uige Province,"['Songo', 'Bembe', 'Damba', 'Maquela do Zombo Puri', 'Sanza-Pombo']",,,,,,24000.0,,Angola,AGO
+Hydrological,Flood,2010-11,,,,Panama,Darién,,,,,,,29781.0,,Panama,PAN
+Hydrological,Flood,2010-12-01,,,,Philippines,Regions,,,,,,,672131.0,,Philippines,PHL
+Geophysical,Volcanic activity,2010-10-25,,,,Indonesia,,,,,34.0,,,70000.0,,Indonesia,IDN
+Biological,Epidemic,2014-11-30,Lack of access to clean water and appropriate sanitation facilities,,,Haiti,,,,,8767.0,,,719377.0,,Haiti,HTI
+Meteorological,Tropical cyclone,2010-10-22,,,,Myanmar,Rakhine State,"['Kyaukpyu', 'Myebon', 'Minbya', 'Pauktaw']",,,,,,,,Myanmar,MMR
+Hydrological,Flood,2011-02-14,,,,Peru,"['Arequipa', 'Ayacucho', 'Puno', 'Ucayali', 'Huancavelica']",,,,,,,6000.0,,Peru,PER
+Hydrological,Flood,2010-10,Heavy rainfall,,,Saint Lucia,,,,,,,,,,Saint Lucia,LCA
+Hydrological,Flood,2010-10-07,,,,United States Virgin Islands,,,,,,,,,,United States Virgin Islands,VIR
+Industrial accident,Chemical spill,2010-10,Wall of toxic chemical sludge inundated villages,,,Hungary,Kolontár,,,,8.0,,,,,Hungary,HUN
+Hydrological,Flood,2010-10,,,,Viet Nam,,"['Nghe An', 'Ha Tinh', 'Quang Binh']",,,355.0,355.0,600.0,,,Viet Nam,VNM
+Meteorological,Storm,2010-09-24,,,,Haiti,,,,,6.0,,67.0,0.0,,Haiti,HTI
+Hydrological,Flood,2010-08-11,A series of torrential rains,,,Mali,,['Timbuktu'],,,,,,16000.0,,Mali,MLI
+Climatological,Windstorm,2010-09-21,,,,Ecuador,,,,,,,,,,Ecuador,ECU
+Meteorological,Hurricane,2010-09-17,Category 3 Hurricane Karl,,,Mexico,Veracruz,,,,,,,40000.0,,Mexico,MEX
+Hydrological,Flood,2010-08-19,,,,Mauritania,Aleg,Magta Lahjar,,,,,,8750.0,,Mauritania,MRT
+Hydrological,Flood,2010-08,,,,Kenya,North Rift Region,South Rift Region,,,,,,700.0,,Kenya,KEN
+Meteorological,Storm,2010-08-29,,,,Antigua and Barbuda,British Virgin Islands,,,,,,,0.0,,Antigua and Barbuda,ATG
+Meteorological,Storm,2010-08-24,Tropical Storm Mindulle made landfall,,,Viet Nam,South-Northern and North-Central provinces,"['Thanh Hoa', 'Nghe An', 'Ha Tinh']",,,4.0,10.0,20.0,30287.0,,Viet Nam,VNM
+Hydrological,Flood,2010-12-17,Torrential rains,,,Chad,,"[""N'Djamena"", 'Ten regions']",,,92.0,,,22266.0,,Chad,TCD
+Hydrological,Flood,2010-08,Continuous rain,,,Malaysia,,"['Bendang Man', 'Perlis', 'Terengganu', 'Kelantan']",,,4.0,,,20000.0,,Malaysia,MYS
+Hydrological,Flood,2010-08,Unusually heavy monsoon rain,,,Thailand,Nakhon Ratchasima,,,,3.0,,,,,Thailand,THA
+Climatological,Flood,2010-07-01,Floods,,,Democratic Republic of the Congo,Equateur Province,,,,,,,1500.0,,Democratic Republic of the Congo,COD
+Meteorological,Wildfire,2010-07-01,,,,Russian Federation,"['European parts', 'Ural Mountains', 'West Siberia']",,,,50.0,,,,,Russian Federation,RUS
+Meteorological,Extreme temperature,2010-07-23,Low temperatures severely affected the health of the population,,,Peru,"['Loreto', 'Madre de Dios', 'Ucayali', 'districts located 3,000 meters above sea level', 'suburbs of Lima']",,,,409.0,,,71.0,,Peru,PER
+Hydrological,Flood,2010-12,Torrential rains and mudslides caused by Hurricane Frank,,,Mexico,,,,,54.0,,,7000.0,,Mexico,MEX
+Biological,Epidemic,2010-10-22,Cholera outbreak,40000,Vaccinated people,Nigeria,Northeast,,,,1500.0,,,40000.0,,Nigeria,NGA
+Hydrological,Flood,2010-07,Three days of unstoppable rain caused the Indus River to swell,,,Pakistan,,,,,,,,,,Pakistan,PAK
+Meteorological,Storm,2010-07-17,Heavy rains and strong winds from Active Low Pressure Area,,,Philippines,Aurora,,,,2.0,,,235.0,,Philippines,PHL
+Hydrological,Flood,2010-07,Heavy rainfall,,,Sudan,Jonglei,"['Lakes', 'Warrap', 'Northern']",,,,,,10271.0,,Sudan,SDN
+Meteorological,Storm,2010-07-13,,,,Philippines,Luzon,,,,100.0,,,575000.0,,Philippines,PHL
+Hydrological,Flood,2010-06,"Incessant rain throughout June, July and August",,,Nepal,Nepal,,,,183.0,,,8000.0,,Nepal,NPL
+Hydrological,Flood,2010-07,Heavy rains,,,Dominican Republic,,Santo Domingo,,,6.0,,,9500.0,,Dominican Republic,DOM
+Hydrological,Flood,2010-06-23,Days of heavy rain causing rivers to break their banks and burst dams,,,Brazil,Alagoas and Pernambuco,,,,44.0,600.0,,40000.0,,Brazil,BRA
+Hydrological,Flood,2011-06,Heavy rains,,,Panama,Panamá,"['Tararé River basin', 'Barriada Altos Tataré', 'El Cacao', 'El Balo']",,,,,,,,Panama,PAN
+Hydrological,Flood,2010-06-16,Continuous rains,,,Myanmar,Northern Rakhine State,"['Maungdaw', 'Buthidaung']",,,68.0,,,29000.0,814.0,Myanmar,MMR
+Biological,Epidemic,2010-05-06,,,,Cameroon,"['Far North', 'North']","['28 health districts', '15 health districts']",,,599.0,,,9399.0,,Cameroon,CMR
+Meteorological,Tropical cyclone,2010-06-04,Strong wind and rain,,,Pakistan,,"['Thatta', 'Bhanbor', 'Badin']",,,10.0,,,7000.0,,Pakistan,PAK
+Geophysical,Volcanic activity,2010-05-28,Hot explosive volcanic material blasted down the slopes of the Tungurahua Volcano,,,Ecuador,Tungurahua,,,,,,,2500.0,,Ecuador,ECU
+Geophysical,Volcanic activity,2010-05-27,,,,Guatemala,"Guatemala, Escuintla, Sacatepequez",,,,1.0,3.0,,1600.0,,Guatemala,GTM
+Geophysical,Mass movement (dry),2010-05-16,,,,Democratic Republic of the Congo,,,,Kibiriga village,21.0,46.0,,,230.0,Democratic Republic of the Congo,COD
+Geophysical,Earthquake,2010-05-01,,,,Peru,,,,,0.0,,,,,Peru,PER
+Meteorological,Storm,2010-05-18,Heavy rains and gales brought by Cyclone Laila,,,India,"['Andhra Pradesh', 'Tamil Nadu']","['Praksam', 'Guntur', 'Nellore', 'Krishna']",,,27.0,,,1000000.0,,India,IND
+Hydrological,Flood,2010-05,Heavy rains,,,Poland,['Poland'],['14 out of 16 regions'],,,37.0,,,23000.0,,Poland,POL
+Hydrological,Flood,2010-05,Exceptionally high pre-monsoon rainfall over a short period of time,,,Sri Lanka,Colombo,"['Colombo', 'Gampaha']",,,,,,693000.0,,Sri Lanka,LKA
+Meteorological,Storm,2010-05,Whirlwinds and torrential rains,,,Viet Nam,Northern Provinces,"['Cao Bang', 'Bac Kan', 'Lao Cai', 'Tuyen Quang']",,,20.0,,,,,Viet Nam,VNM
+Meteorological,Storm,2010-04,,,,Gabon,Mouila,,,,,,,1150.0,230.0,Gabon,GAB
+Geophysical,Earthquake,2010-04-19,,5.3,ML(Local/Richter Magnitude),Afghanistan,Samangan,Dara-i-Sufi Bala,Dara-i-Sufi Payin,,8.0,,50.0,50.0,,Afghanistan,AFG
+Geophysical,Earthquake,2010-04-14,Major earthquake,7.1,Richter,China,Qinghai,Yushu Tibetan Autonomous Prefecture,,,2698.0,270.0,12000.0,100000.0,15000.0,China,CHN
+Hydrological,Flood,2010-04,,,,Afghanistan,Northern North-eastern,"['Central Highlights', 'Western']",,,,,,40000.0,,Afghanistan,AFG
+Hydrological,Flood,2010-10-04,Unusually heavy rains triggered flash flood and mudslides,,,Indonesia,West Papua Province,Teluk Wondama District,,,,,,,,Indonesia,IDN
+Geophysical,Earthquake,2010-04-07,,7.2,ML(Local/Richter Magnitude),Indonesia,Naggroe Aceh Darussalam Province,Simeulue Island,,,,,,,,Indonesia,IDN
+Geophysical,Earthquake,2010-04-01,,7.2,,Mexico,Baja,,,,2.0,,233.0,25000.0,,Mexico,MEX
+Meteorological,Extreme temperature,2010-03-22,,,,Russian Federation,['Volgograd'],,,,,,,3250.0,,Russian Federation,RUS
+Meteorological,Tropical cyclone,2010-03-10,,,,Madagascar,East Coast,"['Nosy Varika', 'Mananjary', 'Manakara', 'Vohipeno', 'Farafangana', 'Vangaindrano', 'Ambatondrazaka']",,,85.0,35.0,132.0,192000.0,,Madagascar,MDG
+Hydrological,Flood,2010-03,Heavy rainfall and intensive snow melting,,,Kazakhstan,Almaty region,"['Karatal', 'Aksu', 'Kerbulak', 'Koksu', 'Uighur', 'Taldykurgan']",,,,,,,,Kazakhstan,KAZ
+Geophysical,Mass movement (dry),2010-03-10,,,,China,Shaanxi Province,N/A,,Shuanghuyu Village,27.0,0.0,0.0,44.0,25.0,China,CHN
+Hydrological,Flood,2010-03-01,,,,Serbia,,,,,,,,3150.0,1306.0,Serbia,SRB
+Hydrological,Flood,2015-02-27,Heavy rainfall and blocked drainage canals,,,Haiti,Nippes,"['Cavaillon', 'Les Cayes']",,,8.0,2.0,,3428.0,,Haiti,HTI
+Hydrological,Flood,2010-02-27,Heavy rainfall,,,Cyprus,,"['Girne (Kyrenia)', 'Lefkosa (Nicosia)']",,,,,,3000.0,,Cyprus,CYP
+Hydrological,Flood,2010-02-01,heavy rains,,,Portugal,,,,,42.0,,70.0,,,Portugal,PRT
+Climatological,Drought,2010-01,Lack of rain affecting the agricultural sector,,,Barbados,Caribbean,,,,,,,,,Barbados,BRB
+Hydrological,Flood,2010-02-16,"Overflow of the San Marcos, the Violón and la cañada Los Domínguez rivers due to torrential rains",,,Dominican Republic,N/A,"['Los Domínguez', 'Los Haitises', 'Los Graneros', 'Los Sufridos', 'Los Callejones', 'La Javilla', 'Playa Oeste', 'Agua Negra', 'Barrio INVI', 'Padre las Casas', 'Bello Costero', 'Los Limones', 'Villa Progreso']",N/A,,,,,3700.0,3700.0,Dominican Republic,DOM
+Meteorological,Tropical cyclone,2010-02-15,,,,Tonga,,Vava'u,"[""Ha'apai"", 'Tongutapu']",,,,,,127.0,Tonga,TON
+Meteorological,Tropical cyclone,2010-02-10,,,,Cook Islands,Aitutaki Island,,,,,,,,,Cook Islands,COK
+Hydrological,Flood,2010-04-06,Torrential rains,,,Ecuador,Napo,,,,2.0,,,1288.0,107.0,Ecuador,ECU
+Hydrological,Flood,2010-02,Torrential rains and floods,,,Afghanistan,"['Kandahar', 'Helmand', 'Uruzgan', 'Badakhshan']","['Arghinjkha', 'Baghlan-e-Jadid', 'Nahrin', 'Moqur', 'Pur Chaman']",,,160.0,,,,,Afghanistan,AFG
+Hydrological,Flood,2010-02,"Heavy rains, flooding, landslides, and mudslides",,,Mexico,,,,,11.0,,,,,Mexico,MEX
+Meteorological,Cyclone,2010-02-04,,,,French Polynesia,,,,,1.0,,11.0,3400.0,,French Polynesia,PYF
+Hydrological,Flood,2010-01-21,,,,Solomon Islands,"Guadalcanal, Isabel, Makira, Malaita",,,,,,,16016.0,,Solomon Islands,SLB
+Geophysical,Earthquake,2010-01-12,,,,Haiti,Port-au-Prince,,,,222570.0,,300572.0,3500000.0,293383.0,Haiti,HTI
+Hydrological,Flood,2010-01-10,,,,Montenegro,,"['Ulcinj', 'Golubovci', 'Zeta', 'Cetinje', 'Rijeka Crnojevica', 'Šabljak Crnojevica', 'Bojolopavlici plain', 'Niksici']",,,,,,1100.0,,Montenegro,MNE
+Climatological,Drought,2009-01,,,,Mongolia,15 provinces,,,,,,,769106.0,,Mongolia,MNG
+Meteorological,Extreme temperature,2010-01-11,,,,Mexico,,,,,12.0,,,,,Mexico,MEX
+Geophysical,Mass movement (dry),2010-01-04,Heavy land sliding,,,Pakistan,Gilgit Baltistan,Hunza Valley,,,19.0,,,1660.0,,Pakistan,PAK
+Geophysical,Earthquake,2010-01-02,,5.0,ML(Local/Richter Magnitude),Tajikistan,"['Yazgulyam', 'Vanj']",,,,,,,1134.0,,Tajikistan,TJK
+Meteorological,Extreme temperature,2009-12-20,Severe cold temperatures and heavy snowfall,,,Poland,,,,,57.0,,,,,Poland,POL
+Geophysical,Volcanic activity,2009-12-14,,,,Philippines,Southeast Quadrant,,,,,,,47285.0,,Philippines,PHL
+Meteorological,Tropical cyclone,2009-12-30,,,,Fiji,,,,,,,,,,Fiji,FJI
+Hydrological,Flood,,Continuous torrential rains with more than 100 millimeters of rains recorded,,,Sri Lanka,Eastern Province,"['Batticaloa', 'Ampara']",,,,,,143200.0,,Sri Lanka,LKA
+Hydrological,Flood,2009-11,Heavy rains sparked flash floods,,,Thailand,,"['Songkhla', 'Narathiwat', 'Pattani', 'Yala']",,,15.0,,,124335.0,,Thailand,THA
+Meteorological,Storm,2009-10-31,,,,Philippines,Quezon Province,Region IV-A,,,,,,115507.0,,Philippines,PHL
+Biological,Epidemic,2009-09-01,Cholera outbreak,,,Cameroon,['North Region'],['Mayo-oulo'],,,,,,,,Cameroon,CMR
+Geophysical,Earthquake,2009-09-29,,8.3,,Tonga,Niua Tongatapu,American Samoa,,,,,,,,Tonga,TON
+Hydrological,Flood,2009-09-26,,,,Philippines,Manila,,,,,,,12000000.0,,Philippines,PHL
+Climatological,Tropical Depression,2009-09-12,,,,Philippines,"Region I, II and CAR","Cagayan, Cavite, Laguna and Kalinga",,,3.0,,,48330.0,,Philippines,PHL
+Meteorological,Storm,2009-09-09,Prevailing southwest monsoon and effects of Tropical Depression Maring,,,Philippines,Region III,"Zambales, Pampanga, Bulacan, Bataan","Region IV-A, Laguna and Region IV-B, Occ Mindoro",,,,,388373.0,,Philippines,PHL
+Biological,Epidemic,2009-01-01,Dengue,35007,,Sri Lanka,,['Colombo'],[],,346.0,,4812.0,43000.0,,Sri Lanka,LKA
+Hydrological,Flood,2009-08-14,Heavy rains,1925,Number of shelters,Sri Lanka,Vavuniya,Menik Farm,Zone 4,Menik Farm,,,,,1925.0,Sri Lanka,LKA
+Hydrological,Flood,2009-07-11,Heavy rains,,,Philippines,Ilocos Norte,,,,,,,19845.0,,Philippines,PHL
+Meteorological,Storm,2009-06-24,,,,Philippines,Eastern Samar,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,2009-05-29,,5.7,,Vanuatu,,,,,,,10.0,,,Vanuatu,VUT
+Hydrological,Flood,2009-05-14,Continual heavy rains,,,Thailand,"Lampang, Uttaradit, Phetchabun, Loei",,,,,,,25000.0,,Thailand,THA
+Biological,Epidemic,2009-05-20,Dengue outbreak,,,Cook Islands,,,,,,,,1214.0,,Cook Islands,COK
+Hydrological,Flood,2009-04,Heavy floods and mudflows,,,Tajikistan,['Khuroson'],['40 districts'],,,26.0,,,3000.0,2000.0,Tajikistan,TJK
+Hydrological,Flood,2009-04-15,,,,Vanuatu,,North Ambrym,,,,,,950.0,,Vanuatu,VUT
+Geophysical,Volcanic activity,2008-12,,,,Vanuatu,,,,,,,,9000.0,,Vanuatu,VUT
+Meteorological,Storm,2009-04-06,,,,Madagascar,,,,,15.0,,,60818.0,4090.0,Madagascar,MDG
+Hydrological,Flood,2009-01-29,,,,Solomon Islands,Guadalcanal,,,,10.0,,,7000.0,,Solomon Islands,SLB
+Climatological,Drought,2009-01-27,,,,Thailand,Provinces,,,,,,,659169.0,,Thailand,THA
+Meteorological,Storm,2009-01-19,Heavy rain and winds,95,,Madagascar,"Sofia, Sava, Atsinanana, Analanjirofo",Fenerive-Est,,,1.0,,24.0,1700.0,,Madagascar,MDG
+Biological,Infestation,2009-06-29,,,,Liberia,Bong County,Zota District,,,,,,8223.0,,Liberia,LBR
+Geophysical,Landslide,2008-12-27,Heavy downpour of rains caused the loosening of soil,,,Philippines,Compostela Valley Province,Monkayo,,,,,,960.0,12.0,Philippines,PHL
+Meteorological,Extreme temperature,2009-02-06,,,,Thailand,Nationwide,,,,,,,53162.0,,Thailand,THA
+Hydrological,Flood,2008-11,Heavy rains,,,Sri Lanka,Northern Province,"['Jaffna', 'Mannar', 'Trincomalee', 'Kilinochchi', 'Mullaitivu']",,,,,,136298.0,,Sri Lanka,LKA
+Hydrological,Flood,2008-11-28,,,,Viet Nam,,,,,20.0,0.0,,,13500.0,Viet Nam,VNM
+Geophysical,Earthquake,2008-11-17,,7.7,ML(Local/Richter Magnitude),Indonesia,Gorontalo Province,,,,6.0,,77.0,,,Indonesia,IDN
+Meteorological,Tropical cyclone,2008-11-06,,,,Philippines,,,,,19.0,,14.0,4812.0,,Philippines,PHL
+Hydrological,Flood,2008-10-23,,,,Sri Lanka,,['N/A'],,,4.0,,,49000.0,,Sri Lanka,LKA
+Hydrological,Flood,2008-10,Torrential rains,,,Democratic Republic of the Congo,,"['Kwamouth', 'Kindu', 'Maniem Province', 'Bumba', 'Equateur Province', 'Bapoto', 'Lokole', 'Lokele', 'Moluwa']",,,,,,700.0,,Democratic Republic of the Congo,COD
+Meteorological,Storm,2008-09-30,,,,Philippines,Eastern Samar,,,,,,,2700.0,,Philippines,PHL
+Climatological,Drought,2008-01,,,,Tajikistan,,,,,,,,1300000.0,,Tajikistan,TJK
+Meteorological,Storm,2008-09-19,,,,Philippines,,,,,16.0,,,128507.0,,Philippines,PHL
+Geophysical,Landslide,2008-09-06,Heavy rains,,,Philippines,Compostela Valley Province,Maco,,,25.0,,31.0,2643.0,,Philippines,PHL
+Hydrological,Flood,2008-08-11,Heavy rain and flooding triggered by typhoon Kammuri,,,China,,,,,20.0,10.0,,818300.0,,China,CHN
+Hydrological,Flood,2008-07-28,,,,Philippines,Region I and CAR,,,,4.0,5.0,,10370.0,,Philippines,PHL
+Hydrological,Flood,2008-07-18,,,,Philippines,Regions I and II,,,,2.0,,,31129.0,,Philippines,PHL
+Transport,Water,2008-06-21,Ferry capsized during Typhoon Fengshen,,,Philippines,,,,,700.0,,,,,Philippines,PHL
+Hydrological,Flood,2008-06-02,Heavy monsoon rains triggered flash floods,,,Sri Lanka,,"['Kalutara', 'Ratnapura', 'Colombo', 'Galle', 'Gampaha']",,,16.0,,,173778.0,,Sri Lanka,LKA
+Hydrological,Flood,2008-04,Heavy rains,,,Sri Lanka,,"['Colombo', 'Kalutara', 'Ratnapura', 'Puttalam', 'Nuwara-Eliya', 'Galle', 'Gampaha', 'Kegalle']",,,,,,33408.0,,Sri Lanka,LKA
+Meteorological,Cyclone,2008-01-28,,,,Fiji,Viti Levu,Vanua Levu,,,7.0,,,,,Fiji,FJI
+Hydrological,Flood,2007-12-16,Heavy rains,,,Sri Lanka,Batticaloa District,"['Koralai pattu', 'Eravur pattu', 'Kiran', 'Manmunai', 'Chenkalady', 'Kattankudy', 'Vavunatheevu', 'Vaazhaichcheanai', 'Vaakarai']",,,,252.0,,250000.0,,Sri Lanka,LKA
+Miscellaneous accident,Explosion (Miscellaneous),2007-12-11,,,,Algeria,Algiers,,,Hydra district,60.0,,,,,Algeria,DZA
+Meteorological,Flood,2007-11-03,Heavy rain and flash flood affected by the strong low pressure system in the South China Sea,,,Thailand,"['Chumphon', 'Surat Thani', 'Nakhon Si Thammarat', 'Phatthalung', 'Songkhla', 'Ranong', 'Phangnga', 'Krabi', 'Trang']",,,,,,,,,Thailand,THA
+Hydrological,Mass movement (wet),2007-10-16,,,,Philippines,Sorsogon,,,,,,,1754.0,,Philippines,PHL
+Hydrological,Flood,2007-10-01,,,,Philippines,Ifugao,Hingyon,,,10.0,1.0,1.0,12515.0,,Philippines,PHL
+Hydrological,Flood,2007-07,Unusually heavy rainfall,,,Uganda,,"['Soroti', 'Amuria', 'Katakwi', 'Bukedea', 'Kumi', 'Lira', 'Sironko']",,,,,,,,Uganda,UGA
+Miscellaneous accident,Collapse (Miscellaneous),2007-08-19,,,,Philippines,NCR,,,,3.0,1.0,1.0,631252.0,,Philippines,PHL
+Hydrological,Flood,2007-08-17,Heavy incessant rains,10000,,Viet Nam,Central Viet Nam,"['Dak Lak', 'Lam Dong', 'Gia Lai', 'Dak Nong', 'Ha Tinh', 'Quang Binh']",,,74.0,,130.0,,170656.0,Viet Nam,VNM
+Hydrological,Flood,2007-07,,,,Timor-Leste,Districts,"['Suai', 'Same', 'Manatutu', 'Viqueque', 'Ermera']",,,1.0,,,947.0,,Timor-Leste,TLS
+Meteorological,Storm,2007-07-22,,,,Ukraine,['Volyn Oblast'],['14 regions affected'],,,,,17.0,6268.0,,Ukraine,UKR
+Geophysical,Earthquake,2007-07-22,,5.5,ML(Local/Richter Magnitude),Tajikistan,Rasht District,Directly Ruled Districts,Rasht,,3.0,,,12000.0,1216.0,Tajikistan,TJK
+Meteorological,Extreme temperature,2007-06-14,Intense heat and electricity crisis,,,Pakistan,Punjab,,,,57.0,,,,,Pakistan,PAK
+Hydrological,Flood,2007-04-16,Heavy rainfall,,,Tajikistan,['Five districts'],,,,,,,,,Tajikistan,TJK
+Geophysical,Earthquake,2007-04-02,,8.1,ML(Local/Richter Magnitude),Solomon Islands,Gizo,,,,52.0,,,475.0,,Solomon Islands,SLB
+Meteorological,Tropical cyclone,2007-03-15,,,,Madagascar,Maroantsetra,,,,,,,,,Madagascar,MDG
+Meteorological,Tropical cyclone,2007-02-22,,4.0,,Mozambique,Inhambane Province,,,,9.0,,,160000.0,,Mozambique,MOZ
+Hydrological,Flood,2007-01,Heavy rains caused by the northeast monsoon,,,Sri Lanka,,"['Hambantota', 'Nuwara Eliya']",,,18.0,,,90000.0,,Sri Lanka,LKA
+Meteorological,Tropical cyclone,2006-12-31,,,,Madagascar,Analamanga,Mananjary,,,1.0,,,2587.0,400.0,Madagascar,MDG
+Meteorological,Tropical cyclone,2006-12-25,,,,Madagascar,Mahajanga,Mariarano,,,,1.0,,304.0,,Madagascar,MDG
+Meteorological,Storm,2006-12-09,,,,Philippines,,,,,2.0,3.0,3.0,91121.0,,Philippines,PHL
+Meteorological,Storm,2006-11-12,,,,Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Flood,2006-11-01,Inter-monsoon rains combined with storms,,,Sri Lanka,,,,,25.0,,2.0,333000.0,,Sri Lanka,LKA
+Meteorological,Storm,2006-10-28,,,,Philippines,Isabela,,,,27.0,,158.0,,,Philippines,PHL
+Meteorological,Storm,2006-09-28,,,,Philippines,,,,,153.0,75.0,406.0,3842000.0,430182.0,Philippines,PHL
+Industrial accident,Oil spill,2006-08-11,Motor Tanker Solar I capsized due to weather and sea conditions,,,Philippines,,,,16 nautical miles southwest of Guimaras Island,,2.0,,200000.0,,Philippines,PHL
+Hydrological,Flood,2006-08,,,,Uganda,Kapchorwa District,"['Kapchorwa District', 'Sironko District']","['Kapkwot parish', 'Ngenge sub-county', 'Bumufuni parish', 'Bunambutye sub-county']",,3.0,,,1680.0,,Uganda,UGA
+Geophysical,Volcanic activity,2006-08-04,,,,Philippines,Albay,,,,,,,39000.0,,Philippines,PHL
+Hydrological,Flood,2006-07-14,Torrential rains,,,Republic of Korea,Gangwon,"['Kyonngi', 'Seoul']",,,25.0,,,4630.0,2796.0,Republic of Korea,KOR
+Meteorological,Storm,2006-06-31,"Hurricanes, heavy rains and large hail",,,Ukraine,"['Ivano-Frankovskaya', 'Chernovitskaya', 'Autonomous Republic of Crimea']",['Rural districts'],,,2.0,,17.0,5000.0,,Ukraine,UKR
+Hydrological,Flood,2006-05-21,Heavy rains causing severe flash floods and landslides,,,Thailand,Northern Thailand,"['Nan', 'Phrae', 'Lamphang', 'Uttaradit', 'Sukhothai']",,,83.0,,,342895.0,697.0,Thailand,THA
+Meteorological,Storm,2006-05-13,Typhoon Chanchu,,,Philippines,Luzon and Visayas,,,,37.0,,,53000.0,,Philippines,PHL
+Hydrological,Flood,2006-04,"Heavy rain, hail and wind caused several mudslides and floods",,,Tajikistan,Khatlon Oblast,"['Muminobod', 'Shurobod', 'Danghara', 'Temurmalik', 'Jomi', 'Yovon']",,,1.0,,,56.0,,Tajikistan,TJK
+Geophysical,Earthquake,2006-03-20,,5.8,ML(Local/Richter Magnitude),Algeria,Bejaia,Tameridjt,Kherrata,Laalam,4.0,,,,,Algeria,DZA
+Geophysical,Mass movement (dry),2006-02-17,Sustained rains triggered a landslide,4,m,Philippines,Southern Leyte,St. Bernard,Guinsaugon,Guinsaugon village,,,,1400.0,,Philippines,PHL
+Meteorological,Tropical cyclone,2006-02-04,,,,Madagascar,South-Western Madagascar,,,,,,,,,Madagascar,MDG
+Hydrological,Flood,2005-11,Heavy rains and flash floods,,,Thailand,,"['Yala', 'Narathiwat', 'Pattani', 'Songkhla', 'Trang', 'Satun', 'Nakhon Si Thammarat', 'Phatthalung']",,,25.0,,,1842500.0,2000.0,Thailand,THA
+Hydrological,Flood,2005-12-05,Extensive monsoon rains caused river swelling and landslides,,,Philippines,Region IV,"['Quezon', 'Oriental Mindoro', 'Camarines Norte', 'Catanduanes', 'Albay']",,,,,,192946.0,,Philippines,PHL
+Hydrological,Flood,2005-11-21,,,,Sri Lanka,,,,,6.0,,,145000.0,2000.0,Sri Lanka,LKA
+Geophysical,Earthquake,2005-10-08,,7.6,Mw(Moment Magnitude),Pakistan,Northern Pakistan,,,,,,,,,Pakistan,PAK
+Hydrological,Flood,2005-07-15,Extraordinary snowfalls in February 2005 combined with unusually hot weather in June and July,,,Tajikistan,,"['Penjikent', 'Hamadoni']",,,,,,12000.0,,Tajikistan,TJK
+Hydrological,Flood,2005-05-10,,,,Tajikistan,,"['Rudaky', 'Murgab', 'Ganchy', 'Istaravshan', 'Bobojon Gafurov']",[],,,,,,660.0,Tajikistan,TJK
+Biological,Epidemic,2005-02,"Cholera epidemic declared in Touba, central Senegal",23325,,Senegal,Touba,,,,321.0,,0.0,23325.0,,Senegal,SEN
+Meteorological,Storm,2005-02-11,,,,Tajikistan,Nurobod District,,,,16.0,,,2800.0,31.0,Tajikistan,TJK
+Biological,Epidemic,,Cholera outbreaks during the rainy season,,,Zambia,,,,,,,,,,Zambia,ZMB
+Hydrological,Flood,2004-04-14,,,,Algeria,Adrar,Timimoun,,,,,,3000.0,,Algeria,DZA
+Meteorological,Tropical cyclone,2004-03-07,,,,Madagascar,,,,,172.0,,879.0,773000.0,214260.0,Madagascar,MDG
+Climatological,Wildfire,2004-03,,,,Vanuatu,"Erromango, Malekula, Ambae, Ambrym, Epi, Pamma, Shepards Group, Tanna",,,,2.0,,8.0,54000.0,,Vanuatu,VUT
+Meteorological,Tropical cyclone,2004-01-26,,,,Madagascar,,,,,29.0,,100.0,44190.0,,Madagascar,MDG
+Hydrological,Flood,2004-12-17,,,,Timor-Leste,Maliana District,"Meligo, Atudara",,,,,,400.0,16.0,Timor-Leste,TLS
+Hydrological,Flood,2003-12-19,Continuous heavy rains induced by an Inter-Tropical Convergence Zone (ITCZ) and a low pressure area.,,,Philippines,Southern Leyte,,,,143.0,,,217934.0,471.0,Philippines,PHL
+Hydrological,Flood,2003-10-14,Torrential rain that triggered flash floods and landslides,,,Viet Nam,Quang Ngai Province,"['Quang Ngai Province', 'Binh Dinh Province']",,,,,,57300.0,,Viet Nam,VNM
+Meteorological,Typhoon,2003-07-24,,,,Philippines,Mindanao,,,,21.0,,,14280.0,,Philippines,PHL
+Meteorological,Storm,2003-06-05,,,,Solomon Islands,Tikopia,,,,,,,,,Solomon Islands,SLB
+Hydrological,Flood,2003-06-16,,,,Timor-Leste,Cova Lima District,Manufahi District,,,,,,600.0,,Timor-Leste,TLS
+Meteorological,Storm,2003-06,,,,Tajikistan,Sughd region,Penjikent,,,3.0,3.0,,10000.0,55.0,Tajikistan,TJK
+Hydrological,Flood,2003-05-27,,,,Philippines,Luzon,,,,41.0,,,,,Philippines,PHL
+Geophysical,Earthquake,2003-05-21,Powerful earthquake,,,Algeria,,,,,2200.0,,10000.0,180000.0,,Algeria,DZA
+Hydrological,Flood,2003-05-17,Heavy monsoon rains,,,Sri Lanka,N/A,"['Kalutara', 'Hambantota', 'Galle', 'Matara', 'Ratnapura']",,,,,,,,Sri Lanka,LKA
+Meteorological,Tropical cyclone,2003-05-09,,,,Madagascar,Province of Tomasina,"['District of Andevoranto', 'District of Vatomandry']",,,,,,,,Madagascar,MDG
+Geophysical,Mass movement (dry),2003-02-26,,,,Tajikistan,Khatlon,,,,,,,181.0,33.0,Tajikistan,TJK
+Meteorological,Tropical Cyclone,2003-01-26,,,,Solomon Islands,Rennell and Bellona Province,"Rennell, Bellona",,,,,,2010.0,85.0,Solomon Islands,SLB
+Meteorological,Extreme temperature,2002-12,Severe cold spell with temperatures dropping to 4 degrees Celsius,,,Bangladesh,Rajshahi and Barisal,,,,700.0,,,,,Bangladesh,BGD
+Hydrological,Flood,2002-12,Heavy rainfall,,,Sri Lanka,Eastern Province,"['Batticaloa', 'Trincomalee', 'Amparai', 'Puttalam']",,,,,,80000.0,,Sri Lanka,LKA
+Geophysical,Earthquake,2002-11-28,,5.9,ML(Local/Richter Magnitude),Vanuatu,Torba,,,,,,,,100.0,Vanuatu,VUT
+Hydrological,Flood,2002-10,Torrential monsoon rains,,,Thailand,Northern Thailand,"['Bangkok', '42 provinces']",,,128.0,,,3200000.0,,Thailand,THA
+Hydrological,Flood,2002-08-21,Heavy rains and resulting flash floods,,,Algeria,,"['Mila', 'Eastern Algeria']",,,43.0,,16.0,457.0,,Algeria,DZA
+Hydrological,Flood,2002-08-07,,,,Tajikistan,Gorno-Badakhshan Autonomous Province,,,,24.0,,,501.0,,Tajikistan,TJK
+Meteorological,Tropical cyclone,2001-03-09,,,,Madagascar,Antalaha,Sainte-Marie Island,,,1.0,,,,2.0,Madagascar,MDG
+Geophysical,Earthquake,2002-01-03,,7.2,ML(Local/Richter Magnitude),Vanuatu,Port Vila,,,,,,,500.0,,Vanuatu,VUT
+Climatological,Flood,2001-11-10,Torrential rain and strong winds,,,Nigeria,,"['Algiers', 'northern regions']",,,751.0,,,10000.0,,Nigeria,NGA
+Climatological,Flood,2001-08-10,Typhoon Usagi causing flash floods,,,Thailand,Petchaboon,"['Petchaboon', 'Udornthani', 'Chiang Mai', 'Lam Poon', 'Phrae']",,,104.0,,,450000.0,,Thailand,THA
+Hydrological,Flood,2001-07,"Typhoons Durian and Utor, together with heavy rains, caused fast rising of river waters and flooding",,,China,Guangdong,Guangxi,,,33.0,,,14000000.0,,China,CHN
+Geophysical,Volcanic activity,2001-06-24,Violent eruption after steadily erupting for two weeks,,,Philippines,Legazpi City,,,,,,,,,Philippines,PHL
+Climatological,Drought,2001-07-10,Poor water management and lack of maintenance of existing irrigation systems,,,Uzbekistan,North-western provinces,,,,,,,600000.0,,Uzbekistan,UZB
+Geophysical,Volcanic activity,2001-06-08,,,,Vanuatu,Paama and Southeast Ambrym,,,,,,,4500.0,,Vanuatu,VUT
+Hydrological,Flood,2001-04-15,Heavy flash floods,,,Samoa,Upolu,"['Lepea', 'Moataa', 'Apia']",,,,,,,,Samoa,WSM
+Meteorological,Storm,2001-04-11,Tropical Storm SOSE,,,Vanuatu,Santo,Malekula,,,,,,60.0,,Vanuatu,VUT
+Geophysical,Volcanic activity,2001-02-06,,,,Democratic Republic of the Congo,Kivu,,,Nyamulagira,,,,0.0,,Democratic Republic of the Congo,COD
+Meteorological,Storm,2022-12-26,Heavy rains and winds gusting at 120 km per hour from Cyclone 04B,,,Sri Lanka,Central Sri Lanka,"['Tirukkovil', 'Trincomalee', 'Mannar', 'Puttalam']",,,,,,,,Sri Lanka,LKA
+Meteorological,Extreme temperature,2000-11-27,,,,Ukraine,"['Vinnitcka', 'Odeska', 'Khmelnitcka', 'Mykolaivska', 'Kirovogradska', 'Cherkaska', 'Chernivetska', 'Ternopil’ska', 'Kyivska', 'Rivenska', 'Ghitomirska', 'Khersonska']",,,,,,,,,Ukraine,UKR
+Hydrological,Flood,2000-11-18,Heavy rainfall,105,mm,Sri Lanka,Ampara and Batticaloa,"['Batticaloa', 'Ampara']",,,,,,400000.0,,Sri Lanka,LKA
+Climatological,Drought,2000-08-09,Protracted drought,,,Uzbekistan,Aral Sea Basin,,,,,,,15000000.0,,Uzbekistan,UZB
+Hydrological,Flood,,,,,Philippines,"Ilocos, Central Luzon, Southern Tagalog, Western Visaya, National Capital Region",,,,,,,,,Philippines,PHL
+Climatological,Drought,2000-06-07,,,,Madagascar,Lake Aloatra Region,"['Ambatondrazaka', 'Amparafaravola', 'Andilamena', 'Vatomandry', 'Mahanoro', 'Marolambo', 'Antanambao', 'Manamposty', 'Vakinankaratra Region', 'Antsirabe', 'Faratsiho', 'Antanifosty', 'Betafo']",,,,,,,,Madagascar,MDG
+Geophysical,Volcanic activity,2000-02-24,Eruption of Mt. Mayon,,,Philippines,Albay,Danger zone,,,,,,29000.0,,Philippines,PHL
+Meteorological,Storm,2000-02,,,,Madagascar,,,,,,,,737000.0,,Madagascar,MDG
+Hydrological,Flood,2000-01,Torrential rain causing flash floods,,,Philippines,Region XI,"Davao Oriental, Davao del Norte, Compostela Valley, Agusan del Sur, Agusan del Norte, Surigao del Sur",,,68.0,,,307770.0,,Philippines,PHL
+Geophysical,Earthquake,1999-12-22,,5.5,ML(Local/Richter Magnitude),Algeria,,,,Tessala,22.0,,,25000.0,3000.0,Algeria,DZA
+Geophysical,Earthquake,1999-11-26,,7.1,ML(Local/Richter Magnitude),Vanuatu,,,,,8.0,2.0,40.0,12000.0,,Vanuatu,VUT
+Hydrological,Flood,1999-10,,,,Cambodia,,"['Takeo', 'Kandal', 'Kampong Speu', 'Phnom Penh Municipality', 'Pursat']",,,,,,106670.0,3561.0,Cambodia,KHM
+Meteorological,Storm,2000-10-29,Cyclone with winds of up to 260 km/h and a 7 metre tidal surge,260,,India,Orissa,"['Ganjam', 'Puri', 'Jagatsinghpur', 'Kendrapada', 'Bhadrak', 'Balasore', 'Cuttack', 'Jajpur']",,,10000.0,,,,,India,IND
+Meteorological,Storm,1999-10-18,Severe cyclone with wind speeds of 200 kilometres per hour,200,km/h(kilometers per hour),India,Orissa,"['Ganjam', 'Puri', 'Jagatsinghpur', 'Khurda', 'Gajapatri', 'Balasore']",[],,85.0,,1000.0,700000.0,35000.0,India,IND
+Hydrological,Flood,1999-08-05,Heavy monsoon rains,,,Philippines,Rizal Province,Antipolo,,,59.0,,32.0,1516308.0,,Philippines,PHL
+Hydrological,Flood,1999-07,Rapid rise of the water level of several rivers,,,Viet Nam,Binh Thuan,,,,35.0,0.0,,,8464.0,Viet Nam,VNM
+Hydrological,Flood,1999-07,,,,India,"['Assam', 'Bihar', 'Kerala', 'Tripura', 'West Bengal']","['North Bihar', 'Dibrugarh', 'Golokganj', 'Neematighat', 'Tezpur', 'Dhubri']",,,69.0,,,10000000.0,15058.0,India,IND
+Hydrological,Flood,1999-06,Flooding and river erosion due to early monsoon,,,Bangladesh,Bangladesh,['Chittagong'],,,,,,400000.0,,Bangladesh,BGD
+Miscellaneous accident,Fire (Miscellaneous),1999-06-12,,,,Afghanistan,Kunar Province,Assadabad,,,,,,,,Afghanistan,AFG
+Hydrological,Flood,1999-04-19,,,,Sri Lanka,"['Colombo', 'Gampaha', 'Kalutara', 'Galle', 'Matara']",,,,6.0,,,200000.0,,Sri Lanka,LKA
+Climatological,Drought,1999-03,Persistent drought has impacted water sources and tree crops,,,Kiribati,"Gilbert Islands, Line Islands, Phoenix Islands",South Tarawa and Ocean Island,,,,,,78000.0,,Kiribati,KIR
+Hydrological,Flood,1999-02-04,Torrential rain and indiscriminate logging,,,Philippines,,"['Agusan del Norte', 'Agusan del Sur', 'Surigao del Norte', 'Surigao del Sur']",,,23.0,,,500000.0,,Philippines,PHL
+Geophysical,Earthquake,1999-02-11,,5.5,ML(Local/Richter Magnitude),Afghanistan,Wardak,"['Maidan Shar', 'Nirkh', 'Sayedabad']",,,,,,400000.0,,Afghanistan,AFG
+Climatological,Drought,1999-01-29,,,,Thailand,North,"['North', 'North-East', 'Central Plains', 'East', 'South']",,,,,,6000000.0,,Thailand,THA
+Meteorological,Tropical cyclone,1999-01-19,,,,Vanuatu,Vanuatu Archipelago,Torres Islands and Banks Group,,,,,,100000.0,,Vanuatu,VUT
+Hydrological,Flood,1999-01,Northeast monsoon brought heavy rains,,,Sri Lanka,,"['Trincomalee', 'Vavuniya', 'Batticaloa', 'Polonnaruwa', 'Ampara', 'Badulla', 'Mannar', 'Mulaitivu', 'Matale', 'Ratnapura']",,,2.0,,,146440.0,0.0,Sri Lanka,LKA
+Meteorological,Storm,1998-12-15,Typhoon,,,Philippines,Bulacan,,,,8.0,17.0,5.0,51785.0,,Philippines,PHL
+Geophysical,Earthquake,1998-11-29,,6.5,ML(Local/Richter Magnitude),Indonesia,,,,,25.0,8.0,88.0,0.0,,Indonesia,IDN
+Meteorological,Storm,1998-11-22,Cyclone made landfall across the southwestern coastline,,,Bangladesh,,"['Satkhira', 'Khulna', 'Bagerhat', 'Pirojpur', 'Barguna']",,,,,,,,Bangladesh,BGD
+Hydrological,Flood,1998-11,Heavy rains,,,Ukraine,,,,,17.0,,,400000.0,,Ukraine,UKR
+Climatological,Landslide,1998-08-18,Triggered by incessant rains,,,India,,Uttar Pradesh,,,180.0,,,300.0,,India,IND
+Hydrological,Flood,1998-04-14,,,,Nepal,Nepal,"['Jhapa', 'Morang', 'Parsa', 'Rautahat', 'Dhading', 'Rupandehi', 'Nawalparasi', 'Tanahu', 'Chitwan', 'Baitadi', 'Panchthar', 'Parbat', 'Bara', 'Gulmi', 'Banke', 'Taplejung', 'Rasuwa', 'Ilam', 'Mahottari', 'Palpa', 'Makwanpur', 'Udayapur', 'Sarlahi', 'Pyuthan', 'Darchula', 'Humla', 'Rukum', 'Bajura', 'Kailai', 'Gorkha', 'Lamjung', 'Acham']",,,115.0,,,7812.0,2866.0,Nepal,NPL
+Geophysical,Earthquake,1998-07-17,,7.0,ML(Local/Richter Magnitude),Papua New Guinea,Aitape,Northern Coast,,,71.0,300.0,,,7.0,Papua New Guinea,PNG
+Geophysical,Volcanic activity,1998-07-11,,,,Indonesia,Dukun,,,,,,,41000.0,,Indonesia,IDN
+Hydrological,Flood,1998-07-08,Melting glacier,,,Kyrgyzstan,Border area with Uzbekistan,"['Pulgon', 'Kadamjai', 'Kyzyl Bulak']",,,42.0,,,,,Kyrgyzstan,KGZ
+Meteorological,Cyclone,1998-06-09,Cyclone hitting coastal regions,,,India,Gujarat,,,,206.0,,210.0,7050.0,,India,IND
+Meteorological,Storm,1998-05-20,Cyclone Storm 01B,150,km/h,Bangladesh,,"['Chittagong', ""Cox's Bazar""]",['Moheshkhali'],,4.0,15.0,504.0,108440.0,12923.0,Bangladesh,BGD
+Hydrological,Flood,1998-04-23,Torrential rains,,,Tajikistan,,"['Gharm', 'Kulyab', 'Aini', 'Sakhrinav', 'Varzob', 'Konsomlobad']",,,50.0,12.0,,2000.0,60.0,Tajikistan,TJK
+Climatological,Wildfire,1998-03-30,,,,Philippines,Palawan,,,,,,,270.0,,Philippines,PHL
+Hydrological,Flood,1998-03-03,Torrential rains and a tornado,,,Pakistan,Balochistan,Turbat,,,150.0,500.0,,,3000.0,Pakistan,PAK
+Meteorological,Tropical Cyclone,1998-01-07,,,,Tonga,Niuas,,,,,,,99.0,99.0,Tonga,TON
+Climatological,Drought,1997-06,Serious drought due to below average rainfall,,,Solomon Islands,Western Province,"Choiseul Province, Central Province, Isabel Province",,,,,,,,Solomon Islands,SLB
+Hydrological,Flood,1997-11,Heavy rains and flooding,,,Uganda,,Mbale,,,35.0,,,500.0,,Uganda,UGA
+Climatological,Drought,1997-02,Severe weather conditions resulting from EL Nino,,,Papua New Guinea,Papua New Guinea,,,,60.0,,,700000.0,,Papua New Guinea,PNG
+Meteorological,Storm,1997-09-27,Cyclonic storm with wind gusts of up to 125 km/h,,,Bangladesh,Noakhali,"['Laksmipur', 'Bhola', 'Chittagong', ""Cox's Bazaar""]",,,,,,,,Bangladesh,BGD
+Climatological,Drought,2022-09,Strongest El Nino phenomenon in fifty years,,,Indonesia,,,,,,,,,,Indonesia,IDN
+Hydrological,Flood,1997-08,Incessant heavy rains due to the on-set of the monsoon,,,Myanmar,,,,,31.0,100.0,,767439.0,109029.0,Myanmar,MMR
+Hydrological,Flood,1997-07-02,Heavy rains,,,India,Gujarat,"['Mehsana', 'Gandhi Nagar', 'Ahmedabad', 'Kheda', 'Sabarkanda', 'Vadodra', 'Banaskanda', 'Surender Nagar']",,,111.0,,,,,India,IND
+Hydrological,Flood,1997-05-08,Heavy rains,,,China,Guangdong Province,"['Guangzhou', 'Qingyuan', 'Heyuan', 'Yunfu']",,,110.0,21.0,1354.0,1360000.0,19000.0,China,CHN
+Geophysical,Earthquake,1997-05-22,,6.0,ML(Local/Richter Magnitude),India,Madhya Pradesh,Jabalpore,,,27.0,,200.0,,500.0,India,IND
+Geophysical,Earthquake,1997-04-11,,6.6,ML(Local/Richter Magnitude),China,Xingjiang Autonomous Region,Jiashi County,,,9.0,,89.0,100000.0,,China,CHN
+Meteorological,Tropical cyclone,1997-03-07,,,,Fiji,Yasawa Island Group,,,,,,,,,Fiji,FJI
+Geophysical,Volcanic activity,1997-01-17,,,,Indonesia,Central Java,,,,,,,3000.0,,Indonesia,IDN
+Hydrological,Flood,1996-12-27,Tropical storm Greg caused heavy rainfall and widespread flooding,,,Malaysia,Sabah State,Keningau district,,,170.0,100.0,,3000.0,300.0,Malaysia,MYS
+Hydrological,Flood,1996-11-06,"High velocity hurricane, violent rains, and high tidal waves",,,India,Andhra Pradesh,East Godavari,,,700.0,,,7000000.0,,India,IND
+Hydrological,Flood,1996-09,Heavy rainfall produced by two storms,,,Cambodia,Cambodia,"['Ratanakiri', 'Stung Treng', 'Kampong Cham', 'Kandal', 'Prey Veng', 'Phnom Penh']",,,,,,,,Cambodia,KHM
+Hydrological,Flood,1996-09-09,,,,China,Guangdong,Wuchuan,,,147.0,50.0,5000.0,15000000.0,,China,CHN
+Hydrological,Flood,1996-07,Heavy monsoon rains,,,Bangladesh,,,,,,,,500000.0,,Bangladesh,BGD
+Meteorological,Storm,1996-07-26,Typhoon Gloria caused flashfloods and landslides,,,Philippines,Northern Luzon,,,,20.0,6.0,,36815.0,,Philippines,PHL
+Meteorological,Storm,1996-06-18,"Cyclonic low pressure caused heavy rains, strong winds, and high waves",,,India,,,,,,,,,,India,IND
+Hydrological,Flood,1996-04,Prolonged heavy rainfall and melting snow,,,Afghanistan,,"['Khwaja Sabj Posh', 'Shirin Tagab', 'Almar city', 'Karayeen (Almar)', 'Sayyad (Qaisar)']",,,45.0,25.0,,1971.0,211.0,Afghanistan,AFG
+Meteorological,Tornado,1996-05-13,,,,Bangladesh,['Central Bangladesh'],,,,,,,,,Bangladesh,BGD
+Industrial accident,Chemical spill,1996-03-01,Massive flow of mine waste escaping from drainage tunnel,,,Philippines,Marinduque,,,,,,,2000.0,,Philippines,PHL
+Climatological,Wildfire,1996-04-17,,,,Mongolia,Dornod,,,,2.0,,,0.0,,Mongolia,MNG
+Geophysical,Earthquake,1996-02-03,,7.0,ML(Local/Richter Magnitude),China,Yunnan,Lijiang,,,,,,,,China,CHN
+Geophysical,Earthquake,1996-02-17,,7.0,ML(Local/Richter Magnitude),Indonesia,Irian Jaya,Biak Numfor District,,,41.0,19.0,50.0,9800.0,2594.0,Indonesia,IDN
+Meteorological,Extreme temperature,1995-12,,,,China,"['Yushu Prefecture', 'Ginghai Province', 'Ganzi Prefecture', 'Sichuan Province']",,,,,,,202000.0,,China,CHN
+Geophysical,Earthquake,1996-01-01,Earthquake with tidal wave,7.0,ML(Local/Richter Magnitude),Indonesia,Sulawesi Island,,,,8.0,,,,400.0,Indonesia,IDN
+Meteorological,Storm,1995-11-03,Typhoon Angela making landfall,,,Philippines,Luzon,,,,,,,,0.0,Philippines,PHL
+Geophysical,Earthquake,1995-10-24,,6.4,ML(Local/Richter Magnitude),China,Yunnan Province,,,,20.0,,,,70.0,China,CHN
+Geophysical,Earthquake,1995-10-07,,7.0,ML(Local/Richter Magnitude),Indonesia,Sumatra,,,,50.0,,,,,Indonesia,IDN
+Hydrological,Flood,1995-07,Incessant heavy rains caused by low pressure systems and tropical storms,,,Thailand,"Northern, Northeastern, Eastern, Southern regions",,,,231.0,,,4224000.0,,Thailand,THA
+Meteorological,Storm,1995-10-28,Tropical Storm Zack brought torrential rains triggering widespread flooding,,,Philippines,Visayas,"Iloilo, Cebu, Negros Occidental, Negros Oriental",,,88.0,,24.0,37196.0,,Philippines,PHL
+Meteorological,Storm,1995-09-30,Tropical Storm 'Sibyl' brought widespread floods and landslides,,,Philippines,Pampanga,,,,35.0,,,,,Philippines,PHL
+Hydrological,Flood,1995-09-22,Incessant heavy rains causing swelling of Ayewardy and Daung rivers,,,Myanmar,Sagaing Division,Wun Tho Kawlin Township,,,50.0,15.0,,8591.0,2136.0,Myanmar,MMR
+Hydrological,Flood,1995-09-04,Torrential rains brought by Typhoon Gening,,,Philippines,Luzon,Metro Manila,,,4.0,,,178803.0,,Philippines,PHL
+Hydrological,Flood,1995-09,Two months of heavy monsoon rains associated with a series of tropical storms,,,Lao People's Democratic Republic,Province,"['Vientiane', 'Borikhamsay', 'Khammouane', 'Savannakhet', 'Champassak']",,,,,,,,Lao People's Democratic Republic,LAO
+Meteorological,Storm,1995-07,Heavy rains,,,Pakistan,,"['Swat', 'Dera Ismail Khan', 'Rawalpindi', 'Dadu', 'Khuzdar', 'Jhal Magsi']",,,,,,,,Pakistan,PAK
+Geophysical,Earthquake,2023-07-10,,,,Myanmar,,,,,,,,,,Myanmar,MMR
+Hydrological,Flood,1995-06-15,Heavy rains sweeping in from India causing flash floods,,,Bangladesh,,"['Sylhet', 'Moulvibazar', 'Sunamganj', 'Netrokona', 'Sirajganj', 'Gaibandha', 'Jamalpur', 'Pabna', 'Kurigram', 'Rangpur']",,,,,,,,Bangladesh,BGD
+Hydrological,Flood,1995-06-20,,,,Nepal,Western Region,"['Baglung', 'Lamjung', 'Solukhumbu']",,,69.0,,,,,Nepal,NPL
+Hydrological,Flood,1995-05-01,Heavy continuous rainfall,,,Indonesia,Northern Sumatra,"['South Tapanuli', 'Labuhan Batu']",,,40.0,,,,390.0,Indonesia,IDN
+Geophysical,Earthquake,1995-05-20,,,,Indonesia,,,,,0.0,,,,,Indonesia,IDN
+Hydrological,Flood,1995-05-15,Continuous heavy rainfall and high tidal surge,,,Bangladesh,,"[""Cox's Bazar"", 'Teknaf', 'Barguna', 'Bagerhat', 'Manpura', 'Char Nizam', 'Hatiya', 'Sandwip']",,,,,,,,Bangladesh,BGD
+Meteorological,Storm,1995-04-12,,,,Bangladesh,Dhaka,"['Chittagong', 'Madaripur', 'Munshiganj', ""Cox's Bazar""]",,,69.0,,1500.0,,3500.0,Bangladesh,BGD
+Geophysical,Earthquake,1995-03-20,,6.0,Richter,Indonesia,Irian Jaya,,,,,,,,,Indonesia,IDN
+Miscellaneous accident,Collapse (Miscellaneous),1995-03-27,,,,Afghanistan,Badakhshan,Daraim district,,Qaluqi ziri kotal,350.0,,,442.0,106.0,Afghanistan,AFG
+Biological,Epidemic,1995-02-01,Cholera outbreak control difficulties,,,Lao People's Democratic Republic,Sekong province,,,,34.0,,,244.0,,Lao People's Democratic Republic,LAO
+Geophysical,Volcanic activity,1994-11-22,,,,Indonesia,Yogyakarta,Pakem,,,24.0,25.0,95.0,6026.0,,Indonesia,IDN
+Geophysical,Volcanic activity,1994-11-03,,,,Indonesia,West Nusa Tenggara,East Lombok,Aikmel,,30.0,1.0,,,,Indonesia,IDN
+Meteorological,Storm,1994-10-31,Severe cyclonic storm with wind speed exceeding 125 km per hour,,,India,Andhra Pradesh,Tamil Nadu,,,123.0,,,,,India,IND
+Hydrological,Flood,1994-10,Heavy rains and additional torrential rains aggravated the flood situation,,,Algeria,,,,,8.0,,,,,Algeria,DZA
+Geophysical,Earthquake,1994-11-15,,7.1,ML(Local/Richter Magnitude),Philippines,Mindoro,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,1994-10-09,,6.3,ML(Local/Richter Magnitude),Indonesia,North Maluku,Obi Island,,,1.0,,12.0,,113.0,Indonesia,IDN
+Geophysical,Earthquake,1994-10-04,,8.2,ML(Local/Richter Magnitude),Russian Federation,,,,,140.0,,1.0,,,Russian Federation,RUS
+Hydrological,Flood,1994-10-06,Major flash flood,,,Bhutan,,Punakha,,,22.0,,,600.0,85.0,Bhutan,BTN
+Meteorological,Storm,1994-10-21,"Typhoon Teresa hit, causing damage and destruction.",,,Philippines,Luzon,Polillo Island,,,7.0,,,,,Philippines,PHL
+Geophysical,Volcanic activity,1994-09-19,,,,Papua New Guinea,Eastern New Britain,,,,,,,70000.0,,Papua New Guinea,PNG
+Meteorological,Tropical cyclone,2000-09-10,,,,Philippines,,,,,,,,,,Philippines,PHL
+Geophysical,Mudflow,1994-09-22,Heavy rains triggering mudflows of lahar consisting of ash and debris from Mount Pinatubo volcano,,,Philippines,Pampanga,,,,5.0,7.0,,29.0,500.0,Philippines,PHL
+Geophysical,Earthquake,1994-08-18,,,,Algeria,Mascara,,,,171.0,,289.0,10000.0,,Algeria,DZA
+Climatological,Flood,1994-07-03,Widespread monsoon rains,190,,Pakistan,,"['Rawalpindi', 'Islamabad', 'Murree', 'Risalpur', 'Karachi', 'Peshawar', 'Lahore', 'Sialkot', 'Multan', 'Bahawalpur', 'Shorkot', 'Quetta']",[],,11.0,,,,100.0,Pakistan,PAK
+Meteorological,Storm,1994-07-19,Tropical Storm Yunya caused heavy rains and flooding,,,Philippines,Pampanga,,,,9.0,1.0,5.0,35711.0,,Philippines,PHL
+Hydrological,Flood,1994-06,,,,India,"['Assam', 'Goa', 'Kerala', 'Gujarat']","['Dhemaji', 'Sivsagar']",,,55.0,,,71000.0,,India,IND
+Geophysical,Earthquake,1994-06-02,,7.2,ML(Local/Richter Magnitude),Indonesia,,Banyuwangi,Jember,,166.0,38.0,406.0,3000.0,500.0,Indonesia,IDN
+Hydrological,Flood,1994-06-08,Torrential rainfall and typhoon 9403 causing extensive flooding,8.1,ha(hectare),China,South China,"['Guangdong', 'Guangxi', 'Hunan', 'Jiangxi', 'Zhejiang', 'Fujian']",,,488.0,,6470.0,48000000.0,481600.0,China,CHN
+Hydrological,Flood,1994-06-23,Continuous downpour of rain,,,Philippines,Metro Manila,,,,2.0,,,23952.0,,Philippines,PHL
+Hydrological,Flood,1994-05-01,Heavy rainstorms causing serious flooding,,,China,,['Fujian'],,,86.0,15.0,579.0,1980000.0,,China,CHN
+Climatological,Cyclone,1994-05-02,Cyclone,210 km/h,,Bangladesh,Cox's Bazar District,"[""Cox's Bazar"", 'Bandarban']",,,133.0,,3559.0,450000.0,,Bangladesh,BGD
+Geophysical,Earthquake,1994-05-01,,6.3,,Afghanistan,Balkh,Mazar-i-sharif,,,160.0,,330.0,,20000.0,Afghanistan,AFG
+Hydrological,Flood,1994-03,"Prolonged, severe monsoon rains",,,Indonesia,East Java,"['Ngawi', 'Tuban', 'Bojonegoro', 'Gresik', 'Lamongan']",,,33.0,,,187131.0,1568.0,Indonesia,IDN
+Meteorological,Storm,1994-04-04,Tropical Storm Owen followed by heavy rains,,,Philippines,"Negros Occidental, Cebu, Surigao Del Sur, Palawan and Calaian Group",,,,10.0,5.0,33.0,46500.0,360.0,Philippines,PHL
+Geophysical,Earthquake,1994-02-16,Earthquake occurred in Lampung province,7.2,Richter,Indonesia,Lampung Province,Telukbetung,,,7.0,,250.0,,,Indonesia,IDN
+Geophysical,Earthquake,1994-01-19,,6.9,ML(Local/Richter Magnitude),Indonesia,Irian Jaya,,,,,,,,,Indonesia,IDN
+Hydrological,Flood,1993-12,Heavy rains caused widespread floods,,,Ukraine,['Trans Carpathians'],,,,,,,108000.0,,Ukraine,UKR
+Hydrological,Flood,1994-01-06,Heavy rains from Tropical Depression 'Akang',,,Philippines,"Albay, Sorsogon, Palawan, Marinduque",,,,,,,,,Philippines,PHL
+Meteorological,Cyclone,1993-12-04,Torrential rains,,,India,"['Tamil Nadu', 'Pondicherry']",[],,,54.0,,,60000.0,30000.0,India,IND
+Meteorological,Storm,1993-12-26,Heavy rains from Typhoon Puring,,,Philippines,Central and Western Visayas,"Various regions (Capiz, Iloilo, Negros Occidental, Bohol, Cebu, Agusan Del Norte, Cagayan De Oro, Caniguin, Southern Leyte, Surigao Del Norte, Davao Del Norte, Misamis Oriental)",,,,,,,,Philippines,PHL
+Hydrological,Flood,1993-12-25,Torrential rains,,,Malaysia,,"['Kelantan', 'Pahang', 'Terengganu']",,,7.0,3.0,,13000.0,16.0,Malaysia,MYS
+Meteorological,Storm,2023-11-20,Serious flooding brought by Tropical Storm Kyle,,,Philippines,,,,,8.0,1.0,,0.0,,Philippines,PHL
+Geophysical,Earthquake,1993-10-13,,7.2,ML(Local/Richter Magnitude),Papua New Guinea,Eastern Highlands,,,,,,,,,Papua New Guinea,PNG
+Meteorological,Storm,1993-10-04,Typhoon 'Kadiang' caused heavy rainfall and flashfloods,,,Philippines,Central Luzon,Nueva Ecija,,,6.0,20.0,,40000.0,0.0,Philippines,PHL
+Geophysical,Earthquake,1993-09-29,,6.4,ML(Local/Richter Magnitude),India,Maharashtra,"['Latur', 'Osmanabad']",,,10500.0,,10500.0,0.0,,India,IND
+Climatological,Flood,1993-08-26,Tropical Storm 'Rubing' causing floods and mudflows,,,Philippines,Metro Manila,Region I and Region III,,,5.0,,,55006.0,,Philippines,PHL
+Hydrological,Flood,1993-07,Heavy rains,,,Ukraine,Rivno,,,,4.0,,,,,Ukraine,UKR
+Hydrological,Flood,1993-07-07,Unusually heavy monsoon rains,,,India,"Punjab, Haryana, Himachal Pradesh",[],,,178.0,,,10000000.0,,India,IND
+Hydrological,Flood,1993-07-08,Monsoon rains,,,India,,"['Rajasthan', 'Punjab', 'Kashmir', 'North-West Frontier Province']","['Narowal', 'Sialkot', 'Kasur', 'Lahore']",,3.0,,,116000.0,,India,IND
+Hydrological,Flood,1993-07-27,,,,Bangladesh,,"['Sylhet', 'Brahmanbaria', 'Hobiganj', 'Moulvi Bazar', 'Sunamganj', ""Cox's Bazar"", 'Feni', 'Comilla', 'Pabna', 'Sirajganj']",,,,,,30.0,,Bangladesh,BGD
+Hydrological,Flood,1993-07-23,Severe monsoon rains causing flash floods and landslides,,,Nepal,,"['Taplejung', 'Dhading', 'Makwanpur', 'Sindhuli', 'Ramechhap', 'Okhaldhunga', 'Palpa', 'Kathmandu', 'Lalitpur', 'Bhaktapur', 'Rautahat', 'Siraha', 'Chitwan', 'Dhanusa', 'Sarlahi']",,,347.0,445.0,70.0,1500000.0,,Nepal,NPL
+Climatological,Drought,1993-06-15,Heavy rain,,,Afghanistan,,Chindawal district,,,,,,,,Afghanistan,AFG
+Hydrological,Flood,1993-06,"Heavy rainfall, seasonal storms and overflowing rivers",,,Bangladesh,,"['Sylhet', 'Sunamganj', 'Hobiganj', ""Cox's Bazar"", 'Dhaka', 'Chittagong']",,,,,,50000.0,,Bangladesh,BGD
+Meteorological,Typhoon,1993-06-26,Typhoon Koryn hit northern Philippines causing mudflows and floods,,,Philippines,Pampanga,,,,7.0,,,18000.0,,Philippines,PHL
+Hydrological,Flood,1993-05-27,Melting snow caused by sharp rise in temperature and simultaneous heavy rains,,,Kazakhstan,,,,,,,,,,Kazakhstan,KAZ
+Hydrological,Flood,1993-05-12,Torrential rains causing the swollen river Varzob to destroy infrastructure,,,Tajikistan,Dushanbe,,,,,,,,8200.0,Tajikistan,TJK
+Meteorological,Tornado,1993-05-13,,160,,Bangladesh,,"['Begumgang', 'Thana']",,,14.0,,,7500.0,,Bangladesh,BGD
+Meteorological,Storm,1993-05-14,Tropical cyclone 'Adel' with high winds and heavy rains,,,Papua New Guinea,Milne Bay Province,"['Trobriand Islands', 'Woodlark Island', 'Kitava Island', 'Fergusson Island', 'Goodenough Island', 'Gawa Island', 'Vakuta Island']",,,1.0,9.0,,,258.0,Papua New Guinea,PNG
+Meteorological,Extreme temperature,1993-03-14,,,,Mongolia,"['Zavkhan', 'Gobi-Altai', 'Bayankhongor', 'Umnogovi']",,,,5.0,,,100000.0,,Mongolia,MNG
+Meteorological,Tropical cyclone,1993-03-30,,,,Vanuatu,Epi,,,,2.0,,4.0,,,Vanuatu,VUT
+Hydrological,Flood,1993-02,,,,Indonesia,Central and West Java,,,,18.0,,,120000.0,10000.0,Indonesia,IDN
+Geophysical,Volcanic activity,1993-02-02,Eruption with hot ash and mud flows,,,Philippines,Albay,Legaspi,,,34.0,,25.0,16000.0,,Philippines,PHL
+Climatological,Flood,1992-09-15,Torrential rains,,,Pakistan,Azad Kashmir,,,,2000.0,,,,,Pakistan,PAK
+Hydrological,Flood,1992-09-03,Flash floods,,,Afghanistan,Hindukush mountains,,,,,,,,,Afghanistan,AFG
+Geophysical,Earthquake,1992-08-18,,7.0,ML(Local/Richter Magnitude),Kyrgyzstan,,,,,,,,0.0,,Kyrgyzstan,KGZ
+Hydrological,Flood,1992-08-09,Heavy monsoon rains,,,Pakistan,,Sindh,,,94.0,,,270000.0,,Pakistan,PAK
+Meteorological,Tropical cyclone,1992-06-22,,,,Philippines,,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,1992-05-20,Earthquake,5.5,ML(Local/Richter Magnitude),Pakistan,Peshawar,,,,36.0,,100.0,,,Pakistan,PAK
+Geophysical,Earthquake,1992-05,"Torrential rain and hail, earthquake",7,Richter,Kyrgyzstan,Osh,Djalalabad,,,4.0,,,20000.0,,Kyrgyzstan,KGZ
+Meteorological,Storm,1992-04-18,Rain and hailstorms,,,China,"['Hunan', 'Sichuan']",[],,,109.0,,,7700000.0,,China,CHN
+Meteorological,Tropical cyclone,1992-03-09,Tropical Cyclone 'Fran' hit Vanuatu with strong winds and water damage,,,Vanuatu,,,,,,,,,,Vanuatu,VUT
+Hydrological,Flood,1992-01-29,Torrential rains following a long period of drought,,,Algeria,Alger,,,,,,,,,Algeria,DZA
+Meteorological,Storm,1992-01-09,,,,Vanuatu,Efate,Central Islands,,,,,,,,Vanuatu,VUT
+Meteorological,Storm,1991-11-28,,,,Marshall Islands,Kwajalein,Majuro,,,,,,5000.0,60.0,Marshall Islands,MHL
+Geophysical,Volcanic activity,1991-10-24,,,,Indonesia,North Sulawesi,,,,,,,7679.0,,Indonesia,IDN
+Hydrological,Flood,1991-11-05,Heavy rains caused by Tropical Storm Uring,,,Philippines,,,,,2155.0,312.0,37.0,177786.0,12.0,Philippines,PHL
+Geophysical,Earthquake,1991-10-20,,7.1,ML(Local/Richter Magnitude),India,,,,,,,,,,India,IND
+Meteorological,Storm,1991-10-27,Typhoon Ruth caused landslides and power line issues,,,Philippines,Luzon,,,,4.0,,,,,Philippines,PHL
+Climatological,Mass movement (wet),1991-09-23,Mudslides triggered by heavy rains,,,China,,,,,200.0,,,,,China,CHN
+Hydrological,Flood,1991-07-10,,,,Myanmar,Sagaing Administrative Division,,,,,,,15000.0,,Myanmar,MMR
+Hydrological,Flood,1991-07-23,,,,Bangladesh,,,,,,,,1590000.0,,Bangladesh,BGD
+Geophysical,Earthquake,1991-07-04,,6.7,ML(Local/Richter Magnitude),Indonesia,Alor,Alors District,,,23.0,,181.0,1115.0,,Indonesia,IDN
+Hydrological,Flood,1991-05,Flooding affected the northern province,,,Afghanistan,Jawzjan Province,"['Arabjar', 'Chakush', 'Jabash Khurt', 'Lab-e-jar', 'Qurda Ariq', 'Sultuq Khort', 'Aqcha', 'Qara Boyen']",,,,,,1000.0,6000.0,Afghanistan,AFG
+Hydrological,Flood,1991-06,,,,China,Anhui,,,,,,,,,China,CHN
+Geophysical,Volcanic activity,1991-06-15,Eruption following increased seismic activity,,,Philippines,Luzon,,,,,,,,,Philippines,PHL
+Meteorological,Storm,1991-04-30,Severe storm with winds of up to over 200 KPH followed by a tidal surge,,,Bangladesh,,"['Chittagong', ""Cox's Bazar"", 'Noakhali', 'Barisal', 'Patuakhali', 'Jhalkati', 'Bhola', 'Khulna', 'Bagerhat', 'Pirojpur', 'Sandwip', 'Kutubdia', 'Monpura', 'Moheshkhali', 'Dublar Char', 'St Martins Island']",,,,,,,,Bangladesh,BGD
+Meteorological,Storm,1991-03-03,,,,China,Hunan,,,,69.0,,,1000.0,,China,CHN
+Geophysical,Earthquake,1991-02-01,,6.6,ML(Local/Richter Magnitude),Afghanistan,Hindu Kush mountains,,,,,,,,,Afghanistan,AFG
+Geophysical,Earthquake,1991-02-01,,6.6,ML(Local/Richter Magnitude),Afghanistan,,,,,,,,,,Afghanistan,AFG
+Biological,Epidemic,1990-12-01,Cholera outbreak,,,Zambia,"['Northern', 'Luapula', 'Copperbelt']",,,,85.0,,,667.0,,Zambia,ZMB
+Meteorological,Storm,,Major typhoon with winds estimated at 240 kph,240,km/h(kilometers per hour),Philippines,"Samar, Masbate, Leyte, Cebu, Northern Negros, Southern Iloilo, Antique",,,,,,,,,Philippines,PHL
+Meteorological,Tropical Cyclone,1990-11-28,Tropical cyclone 'Sina' hit Viti Levu and Lau group,10,million USD,Fiji,Viti Levu,,,,0.0,,,,,Fiji,FJI
+Geophysical,Earthquake,1990-10-20,,6.2,ML(Local/Richter Magnitude),China,Gansu,,,,,,,,,China,CHN
+Meteorological,Storm,1990-08-20,Severe typhoons generating floods,409000,rooms,China,"Fujian, Zhejiang, Jiangsu",Shanghai,,,785.0,,,,,China,CHN
+Meteorological,Tropical cyclone,2023-08-25,,,,Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1990-06-12,Heavy rains,,,Philippines,Zamboanga del Norte,,,,12.0,86.0,,,,Philippines,PHL
+Geophysical,Earthquake,1990-06-14,,6.0,ML(Local/Richter Magnitude),Philippines,Aklan,Antique,,,4.0,,15.0,,,Philippines,PHL
+Hydrological,Flood,1990-06,Torrential rains with a maximum precipitation of 489 mm,,,China,Hunan,,,,229.0,,3297.0,20000000.0,,China,CHN
+Meteorological,Cyclone,1990-05-09,Worst cyclone in more than a decade,,,India,Andhra Pradesh,,,,200.0,,,2600000.0,,India,IND
+Geophysical,Earthquake,1990-04-18,,6.5,ML(Local/Richter Magnitude),Indonesia,Minahassa,,,,,,,,40.0,Indonesia,IDN
+Geophysical,Volcanic activity,1990-02-10,,,,Indonesia,East Java,,,,20.0,5.0,81.0,42770.0,181.0,Indonesia,IDN
+Geophysical,Earthquake,1990-02-08,,6.6,ML(Local/Richter Magnitude),Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1990-01,,,,Indonesia,Irian Jaya,North Jayapura District,,,169.0,,,21000.0,7600.0,Indonesia,IDN
+Hydrological,Flood,1990-02-01,,,,Samoa,,,,,,3.0,,170000.0,3000.0,Samoa,WSM
+Geophysical,Earthquake,1989-12-28,,5.6,ML(Local/Richter Magnitude),Australia,New South Wales,,,,13.0,,,300000.0,,Australia,AUS
+Meteorological,Storm,1989-11-22,,,,Philippines,Bataan,,,,,,,,,Philippines,PHL
+Transport,Road,2023-11-03,,,,Thailand,Southern Provinces,"['Chumphon', 'Nakhon Si Thammarat', 'Phetchaburi', 'Prachuap Khri Khan', 'Ranong', 'Rayong', 'Songkhla', 'Surat Thani']",,,,,,,,Thailand,THA
+Meteorological,Tropical cyclone,2023-10-19,,,,Philippines,,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,1989-10-18,,6.1,ML(Local/Richter Magnitude),China,"Hebei, Shanxi, Inner Mongolia",,,,15.0,,140.0,50000.0,,China,CHN
+Geophysical,Earthquake,1989-10-29,,6.0,ML(Local/Richter Magnitude),Algeria,Blida,Tipasa,,,22.0,,184.0,,,Algeria,DZA
+Hydrological,Flood,1989-09-17,,,,China,Zhejiang,,,,,,,37000.0,,China,CHN
+Miscellaneous accident,Fire (Miscellaneous),1989-07-27,,,,Myanmar,Mandalay,,,,1.0,,,9500.0,1554.0,Myanmar,MMR
+Geophysical,Earthquake,1989-08-01,earthquake measuring 5.6 on the richter scale,5.6,ML(Local/Richter Magnitude),Indonesia,Irian Jaya,,,,59.0,,15.0,200.0,,Indonesia,IDN
+Meteorological,Storm,1989-07-23,Torrential monsoon rainstorms with winds of up to 75 km/h,,,India,,,,,800.0,550.0,,,,India,IND
+Hydrological,Flood,1989-08-14,,,,Bangladesh,Sylhet District,Sylhet,"['Zakiganj', 'Kanaighat', 'Bianibazar', 'Golapgang']",,,,,200000.0,,Bangladesh,BGD
+Hydrological,Flood,1989-07-15,,,,Philippines,Luzon,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1989-07-07,Heavy rains,,,China,Sichuan,"['Chongqing', 'Huaying']",,,,,,,,China,CHN
+Hydrological,Flood,,Heavy rains during the past several days,,,Sri Lanka,,"['Bulathkohupitiya', 'Kegalle', 'Eliya', 'Gampaha', 'Galle', 'Kalutara', 'Matara', 'Nuwara', 'Ratnapura']",,,,,,,,Sri Lanka,LKA
+Meteorological,Hail,1989-04-20,,,,China,"['Sichuan', 'Chongqing', 'Leshan', 'Luzhou', 'Neijiang', 'Nigong', 'Fushun', 'Longchang', 'Yongchuan', 'Jinyan', 'Gulin']",,,,,,,,,China,CHN
+Meteorological,Tornado,1989-04-26,,,,Bangladesh,,Manikganj,"['Saturia', 'Daulatpur', 'Manikgank Sadar']",,522.0,,,10000.0,,Bangladesh,BGD
+Geophysical,Earthquake,1989-04-16,,6.7,ML(Local/Richter Magnitude),China,Sichuan,Batang,,,8.0,,107.0,,9000.0,China,CHN
+Miscellaneous accident,Fire (Miscellaneous),1989-02-16,,,,Myanmar,,,,Mergui,,,,,,Myanmar,MMR
+Hydrological,Flood,1989-02-06,,,,Philippines,Sorsogon,"['Camarines Sur', 'Samar']",,,,,,,,Philippines,PHL
+Hydrological,Flood,2023-01-16,,,,Indonesia,Riau Province,,,,,,,,,Indonesia,IDN
+Geophysical,Earthquake,1989-01-23,,7.0,ML(Local/Richter Magnitude),Tajikistan,[],[],,Sharor,,,,,,Tajikistan,TJK
+Meteorological,Storm,1988-11-07,,,,Philippines,National Capital,,,,,,,,,Philippines,PHL
+Geophysical,Earthquake,1988-11-06,,7.6,ML(Local/Richter Magnitude),China,Yunnan,Lancang and Menglian counties,,,,,3364.0,1000000.0,200000.0,China,CHN
+Miscellaneous accident,Collapse (Miscellaneous),1988-11-27,,,,Thailand,Nakhon Si Thammarat,,,,334.0,330.0,1878.0,978232.0,,Thailand,THA
+Meteorological,Storm,1988-11-29,,,,Bangladesh,,Madaripur,Patuakhali/Khulua Coast,,,,,,,Bangladesh,BGD
+Meteorological,Tropical cyclone,1989-10-25,Typhoon Ruby made landfall and caused damage,,,Philippines,Luzon,Baguio,,,132.0,,,,,Philippines,PHL
+Hydrological,Flood,1988-09-21,Continuous torrential rains,,,India,"Punjab, Haryana, Himachal Pradesh, Jammu and Kashmir, Delhi","['Haryana', 'Delhi']",,,174.0,,,16000.0,,India,IND
+Hydrological,Flood,1988-08-29,,,,India,"['Uttar Pradesh', 'Assam', 'Bihar', 'West Bengal', 'Arunachal Pradesh']",[],,,850.0,,,5600000.0,,India,IND
+Geophysical,Earthquake,1988-08-21,,6.7,ML(Local/Richter Magnitude),India,Bihar,['Dharbhanga'],,,,,,,,India,IND
+Geophysical,Earthquake,1988-08-20,,6.7,ML(Local/Richter Magnitude),Nepal,Kathmandu Valley,,,,,,,,,Nepal,NPL
+Meteorological,Storm,,,,,China,"['Xiangshan', 'Ninbo', 'Shaoxin', 'Hangzhou', 'Huzhou', 'Anhui', 'Hainin', 'Fenghua', 'Chengxian']",,,,,,,41.0,,China,CHN
+Hydrological,Flood,1988-07-13,,,,China,,"['Lanxi', '15 cities and counties affected']",,,,,21.0,170000.0,,China,CHN
+Meteorological,Storm,1988-06-15,,,,China,"['Lanxi', 'More than 30 counties']",,,,,,921.0,170000.0,,China,CHN
+Hydrological,Flood,1988-07-29,Heavy rains caused violent floods,,,China,Zhejiang,,,,256.0,347.0,200.0,120000.0,30000.0,China,CHN
+Hydrological,Flood,1988-07-12,Heavy rains,,,Bangladesh,,"['Sunamganj', 'Netrokona', 'Satkhira', 'Bogra', 'Moulavibazar', 'Habiganj', 'Rangpur']",,,61.0,,,0.0,,Bangladesh,BGD
+Hydrological,Flood,1988-06,,,,Afghanistan,Badakhshan,"['Herat', 'Jouzjan', 'Kabul', 'Takhar', 'Samangan', 'Baghlan']",,,,,,40000.0,3457.0,Afghanistan,AFG
+Hydrological,Flood,1988-05-20,Heavy rains caused floods,,,China,,"['Jianyang', 'Chongan', 'Zhenge']",,,,,,,,China,CHN
+Miscellaneous accident,Fire (Miscellaneous),1988-03-20,,,,Myanmar,,,,,113.0,,,20000.0,2096.0,Myanmar,MMR
+Meteorological,Tropical cyclone,,,,,New Caledonia,,,,,,,,,,New Caledonia,NCL
+Geophysical,Earthquake,1987-11-26,Earthquake caused landslide cutting access/escape routes,5.8,ML(Local/Richter Magnitude),Indonesia,,,,,43.0,75.0,101.0,16000.0,,Indonesia,IDN
+Meteorological,Storm,1987-11-25,,250,,Philippines,Central Philippines,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1987-11-04,Heavy monsoon rains,,,Indonesia,Aceh,,,,4.0,,,3000.0,,Indonesia,IDN
+Meteorological,Storm,1987-08-13,Typhoon Betty,,,Philippines,Luzon,,,,9.0,6.0,2.0,3000.0,750.0,Philippines,PHL
+Hydrological,Flood,1987-08-14,Torrential rain,,,Nepal,Terai,"['Central Terai districts', 'Eastern Terai districts', 'Central Hills']",,,,,,,,Nepal,NPL
+Meteorological,Storm,1987-08-15,"Heavy storms causing mountain torrents, river flooding and mud-rock flows",60000,ha(hectare),China,Liaoning,Dandong,Dalian,"Daguanzhi town, Xiuyan county",63.0,38.0,860.0,50000.0,13000.0,China,CHN
+Hydrological,Flood,1987-07-22,Typhoon Thelma and heavy storms causing floods and landslides,,,Republic of Korea,Provinces,"['Chungchong-nam', 'Kwangwon', 'Kyonggi']",,,400.0,38.0,,20000.0,54000.0,Republic of Korea,KOR
+Meteorological,Storm,1987-06-05,"Deep depression crossed the Hatiya, Swandwip, Patuakhali, and Bhola regions with heavy rains and tidal waves",,,Bangladesh,,"['Hatiya', 'Swandwip', 'Patuakhali', 'Bhola']",,,,,,,,Bangladesh,BGD
+Hydrological,Flood,1987-05-10,Heavy rains,,,Indonesia,Bengkulu Province,,,,8.0,29.0,,,126.0,Indonesia,IDN
+Hydrological,Flood,1987-05-26,,,,China,Guangdong,Zhangpu County,,,70.0,,,350000.0,,China,CHN
+Climatological,Fire (Natural),1987-05-06,,,,China,Heilongjiang province,Mohe county,,,168.0,,300.0,40000.0,,China,CHN
+Meteorological,Storm,1987-02-08,,,,Vanuatu,Port Vila,,,,,,,,,Vanuatu,VUT
+Geophysical,Earthquake,1987-02-09,,7.4,ML(Local/Richter Magnitude),Papua New Guinea,Morobe Province,West New Britain Province,,,,,,12000.0,,Papua New Guinea,PNG
+Miscellaneous accident,Fire (Miscellaneous),1987-01-27,,,,Myanmar,,,,"Tamwe township, Rangoon",,,,7200.0,700.0,Myanmar,MMR
+Geophysical,Earthquake,1987-01-26,,4.8,ML(Local/Richter Magnitude),Algeria,,,,,1.0,,7.0,900.0,,Algeria,DZA
+Meteorological,Cyclone,1987-01-01,"Heavy rains, rough seas, and wind gusts",,,Cook Islands,Rarotonga,,,,,,,,,Cook Islands,COK
+Climatological,Wildfire,1986-12-29,,,,Fiji,Vanua Levu,,,,,,,,,Fiji,FJI
+Meteorological,Storm,1986-10-06,,,,Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1986-09-30,Incessant rain,,,Bangladesh,,"['Khulna', 'Bagerhat', 'Sathkhira', 'Pathuakhali', 'Barguna']",,,,,,,,Bangladesh,BGD
+Meteorological,Storm,1987-08-27,,,,China,Shanghai,,,,8.0,,25.0,,500.0,China,CHN
+Hydrological,Flood,1986-07,Monsoon rains in the Ganges basin,,,Bangladesh,Rajshahi,[],,,4.0,,,100000.0,48500.0,Bangladesh,BGD
+Meteorological,Storm,1986-07-09,,,,Philippines,Metro Manila,,,,,,,,,Philippines,PHL
+Meteorological,Tornado,1986-07-15,Typhoon Peggy struck the south China coast and a strong tornado hit the east coast,,,China,,,,,,,,,,China,CHN
+Transport,Water,1986-05-25,Ferry capsized on river Meghna,,,Bangladesh,,Barisal,,,600.0,,,,,Bangladesh,BGD
+Hydrological,Flood,1986-05-18,Cyclone Namu,,,Solomon Islands,Guadalcanal,,,,,,,,,Solomon Islands,SLB
+Hydrological,Flood,1986-04-20,,,,Sri Lanka,,,,Kantalai reservoir,,,,,,Sri Lanka,LKA
+Meteorological,Storm,1986-04-14,,,,Bangladesh,,"['Gopalganj', 'Pirojpur']",,,100.0,,0.0,,0.0,Bangladesh,BGD
+Meteorological,Storm,1986-04-13,Tropical Cyclone Martin hit with heavy rains leading to floods and landslides,90,kt,Tonga,Northern Division,Suva Area,,,,,,5600.0,,Tonga,TON
+Miscellaneous accident,Fire (Miscellaneous),1986-03-04,,,,Myanmar,,,,"Kamayut and Thingangyun townships, Rangoon",,,,20500.0,,Myanmar,MMR
+Meteorological,Storm,1985-10-18,,,,Philippines,Aurora,,,,,,,,,Philippines,PHL
+Hydrological,Flood,1985-08-30,,,,China,Liaoning,,,,200.0,100.0,,1000000.0,,China,CHN
+Geophysical,Earthquake,1985-08-23,,7.5,ML(Local/Richter Magnitude),China,Xinjiang,Wuqia,,,67.0,,100.0,,85.0,China,CHN
+Climatological,Drought,1985-07-09,,,,Algeria,Wilaya,,,,,,,40000.0,,Algeria,DZA
+Meteorological,Storm,1985-06-26,Typhoon 'Kuring' causing deaths and infrastructure damage,,,Philippines,Luzon,,,,11.0,,,3719.0,500.0,Philippines,PHL
+Meteorological,Storm,1985-03-28,Cyclonic storm and hailstorm,150,,Bangladesh,,Pabna district,Bmarata union,,50.0,,,,90.0,Bangladesh,BGD
+Meteorological,Tropical cyclone,1985-01-18,,,,Fiji,Viti Levu,,,,,,,,,Fiji,FJI
+Meteorological,Storm,1985-01-09,Heavy snow and rain storms,,,Algeria,['Northeastern Algeria'],,,,26.0,,,3000.0,,Algeria,DZA
+Industrial accident,Gas leak,1984-12-03,,,,India,,,,,2500.0,,2000.0,150000.0,,India,IND
+Geophysical,Volcanic activity,1984-11-08,,,,Indonesia,North Sulawesi,,,,,,,,,Indonesia,IDN
+Meteorological,Storm,1984-11-14,Strong cyclonic storm with winds of 100 miles per hour,,,India,"['Tamil Nadu', 'Andhra Pradesh']",,,,,,,,,India,IND
+Meteorological,Storm,1985-11-05,Typhoon Agnes,,,Philippines,,,,,727.0,0.0,,600000.0,,Philippines,PHL
+Biological,Epidemic,1984-08-01,Cholera epidemic,,,Mali,['Koulikoro'],,,,547.0,,,2563.0,,Mali,MLI
+Geophysical,Volcanic activity,1984-09-14,,,,Philippines,,,,,,,,16290.0,,Philippines,PHL
+Meteorological,Storm,1984-09-01,,,,Philippines,,,,,,,,,,Philippines,PHL
+Hydrological,Mass movement (wet),1984-08-29,,,,Indonesia,Rancailat Village,,,,,,,,,Indonesia,IDN
+Hydrological,Flood,1984-07-14,Excessive monsoon rains,,,Sri Lanka,,"['Ratnapura', 'Kegalce', 'Gampaka', 'Colombo']",,,3.0,,,70000.0,1500.0,Sri Lanka,LKA
+Geophysical,Volcanic activity,1984-06-15,,,,Indonesia,,,,,,,,,,Indonesia,IDN
+Geophysical,Volcanic activity,1984-05-25,,,,Indonesia,North Sulawesi,,,,,,,32000.0,,Indonesia,IDN
+Hydrological,Flood,1984-05-19,Widespread heavy rains,,,Bangladesh,,,,,91.0,,,,,Bangladesh,BGD
+Miscellaneous accident,Fire (Miscellaneous),1984-04-13,,,,Myanmar,,,,,,,,6900.0,,Myanmar,MMR
+Geophysical,Volcanic activity,1983-10-29,,,,Papua New Guinea,East New Britain Province,,,,500.0,,,30000.0,,Papua New Guinea,PNG
+Miscellaneous accident,Fire (Miscellaneous),1984-03-24,,,,Myanmar,,,,Mandalay,,,,23250.0,2700.0,Myanmar,MMR
+Hydrological,Flood,1984-01,,,,Indonesia,Central Java,"['East Java', 'West Java', 'Yogyakarta Special Region', 'North Sumatra']",,,26.0,,,300000.0,,Indonesia,IDN

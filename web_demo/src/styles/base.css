@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Theme */
+  --color-primary: #545e82;
+  --color-primary-dark: #3d4560;
+  --color-primary-light: rgba(84, 94, 130, 0.12);
+
+  /* Module colors */
+  --color-event: #4a7fb5;
+  --color-geo: #5aaa7a;
+  --color-impact: #e07b39;
+
+  --highlight-event: rgba(74, 127, 181, 0.18);
+  --highlight-geo: rgba(90, 170, 122, 0.18);
+  --highlight-impact: rgba(224, 123, 57, 0.18);
+
+  /* Layout */
+  --bg-page: #f0f2f5;
+  --bg-card: #ffffff;
+  --bg-nav: #363d54;
+
+  /* Text */
+  --text-primary: #2b2f3e;
+  --text-secondary: #6b7a90;
+  --text-muted: #9eabbe;
+
+  /* Border */
+  --border: #e2e8f0;
+  --border-radius: 8px;
+
+  /* Shadow */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg-page);
+  color: var(--text-primary);
+  margin: 0;
+}
+
+main {
+  min-height: calc(100vh - 52px);
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+  box-shadow: none;
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+}
+
+.badge-event  { background-color: var(--color-event)  !important; }
+.badge-geo    { background-color: var(--color-geo)    !important; }
+.badge-impact { background-color: var(--color-impact) !important; }

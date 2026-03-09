@@ -1,0 +1,148 @@
+/* ── Extract page ── */
+.extract-page {
+  min-height: calc(100vh - 52px);
+  background: var(--bg-page);
+}
+
+/* Hero */
+.hero {
+  background: var(--bg-nav);
+  padding: 52px 0 44px;
+  text-align: center;
+}
+.hero-title {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 10px;
+}
+.hero-sub {
+  color: rgba(255,255,255,0.62);
+  font-size: 0.95rem;
+  max-width: 680px;
+  margin: 0 auto;
+  white-space: nowrap;
+}
+
+/* Input section — flat, no card wrapper */
+.input-section {
+  padding: 44px 0 36px;
+}
+.input-card-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+/* Example cards grid */
+.examples-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+/* Textarea */
+.extract-textarea {
+  width: 100%;
+  resize: vertical;
+  min-height: 96px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--border-radius);
+  padding: 12px 14px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  color: var(--text-primary);
+  background: #fafbfc;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  outline: none;
+  line-height: 1.6;
+}
+.extract-textarea:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-light);
+  background: #fff;
+}
+.extract-textarea::placeholder {
+  color: var(--text-muted);
+}
+
+/* Action row */
+.action-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 14px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.action-tip {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+.action-tip kbd {
+  background: #e8ecf2;
+  border: 1px solid #d0d7e3;
+  border-radius: 3px;
+  padding: 1px 5px;
+  font-size: 0.72rem;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Workflow section */
+.workflow-section {
+  padding: 52px 0 60px;
+}
+.workflow-title {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-align: center;
+  margin-bottom: 32px;
+}
+.workflow-step {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--border-radius);
+  padding: 28px 28px 24px;
+  height: 100%;
+  position: relative;
+}
+.step-number {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.step-icon {
+  font-size: 1.5rem;
+  color: var(--color-primary);
+  margin-bottom: 10px;
+  display: block;
+}
+.step-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+.step-desc {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.step-connector {
+  position: absolute;
+  right: -18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  font-size: 1rem;
+  z-index: 1;
+}

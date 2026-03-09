@@ -1,0 +1,34 @@
+{
+  "Earthquake": {
+    "property": "Size of the earthquake derived from its physical properties",
+    "unit": ["Mw(Moment Magnitude)", "ML(Local/Richter Magnitude)", "Ms(Surface Wave Magnitude)", "Mb(Body Wave Magnitude)"]
+  },
+  "Flood": {
+    "property": "Flood extent (area)",
+    "unit": ["m²(square meter)", "ha(hectare)", "km²(square kilometer)"]
+  },
+  "Drought": {
+    "property": "Drought extent (area)",
+    "unit": ["m²(square meter)", "ha(hectare)", "km²(square kilometer)"]
+  },
+  "Extreme temperature": {
+    "property": "The recorded extreme temperature (maximum or minimum depending on whether it is a heat or a cold wave)",
+    "unit": ["°C(Degrees Celsius)", "°F(Degrees Fahrenheit)", "K(Kelvin)"]
+  },
+  "Epidemic": {
+    "property": "Number of vaccinated people",
+    "unit": "Vaccinated people"
+  },
+  "Wildfire": {
+    "property": "Wildfire extent (area)",
+    "unit": ["m²(square meter)", "ha(hectare)", "km²(square kilometer)"]
+  },
+  "Storm": {
+    "property": "Recorded wind speed",
+    "unit": ["m/s(meters per second)", "km/h(kilometers per hour)", "kt(knots)"]
+  },
+  "Industrial accident (Chemical spills)": {
+    "property": "Chemical discharged volume",
+    "unit": ["m³(cubic meter)", "L(liter)", "gal(gallon)"]
+  }
+}
