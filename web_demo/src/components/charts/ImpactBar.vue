@@ -3,8 +3,11 @@ import { ref, watch, onMounted, onUnmounted } from 'vue'
 import * as d3 from 'd3'
 
 const props = defineProps({
-  events: { type: Array, default: () => [] },
+  events:         { type: Array,  default: () => [] },
+  selectedMetric: { type: String, default: '' },
 })
+
+const emit = defineEmits(['select-metric'])
 
 const containerEl = ref(null)
 const svgEl       = ref(null)
@@ -82,8 +85,11 @@ function draw() {
     .attr('y', d => d.value > 0 ? y(d.value) : yFloor)
     .attr('width', x.bandwidth())
     .attr('height', d => d.value > 0 ? Math.max(2, yFloor - y(d.value)) : 0)
-    .attr('fill', d => d.color)
+    .attr('fill', d => props.selectedMetric === d.key ? '#f5a623' : d.color)
+    .attr('opacity', d => props.selectedMetric && props.selectedMetric !== d.key ? 0.4 : 1)
     .attr('rx', 3)
+    .style('cursor', 'pointer')
+    .on('click', (_, d) => { emit('select-metric', d.key) })
     .on('mousemove', (event, d) => {
       const [mx, my] = d3.pointer(event, containerEl.value)
       tip.value = { show: true, x: mx, y: my - 12, label: d.label, value: d.value }
@@ -124,7 +130,7 @@ onMounted(() => {
   ro.observe(containerEl.value)
 })
 onUnmounted(() => ro?.disconnect())
-watch(() => props.events, draw)
+watch([() => props.events, () => props.selectedMetric], draw)
 </script>
 
 <template>

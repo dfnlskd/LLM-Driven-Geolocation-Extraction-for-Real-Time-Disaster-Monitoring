@@ -6,9 +6,12 @@ import worldData from 'world-atlas/countries-110m.json'
 import { iso3ToNum } from '../../data/iso3ToNum.js'
 
 const props = defineProps({
-  events: { type: Array, default: () => [] },
-  metric: { type: String, default: 'count' },
+  events:            { type: Array,  default: () => [] },
+  metric:            { type: String, default: 'count' },
+  selectedCountries: { type: Array,  default: () => [] },
 })
+
+const emit = defineEmits(['select-country'])
 
 const containerEl = ref(null)
 const svgEl       = ref(null)
@@ -51,6 +54,12 @@ function draw() {
     if (!nameByNum.has(num) && ev.country) nameByNum.set(num, ev.country)
   }
 
+  // Build set of selected numeric IDs for highlight
+  const selectedNums = new Set()
+  for (const [num, name] of nameByNum) {
+    if (props.selectedCountries.includes(name)) selectedNums.add(num)
+  }
+
   const maxVal = d3.max([...valueByNum.values()]) || 1
   // Log scale for vivid contrast; original blue-grey hue kept
   const colorScale = d3.scaleSequentialLog(
@@ -73,8 +82,13 @@ function draw() {
     .attr('class', 'country')
     .attr('d', pathGen)
     .attr('fill', d => valueByNum.has(d.id) ? colorScale(valueByNum.get(d.id)) : '#e8ecf2')
-    .attr('stroke', '#fff')
-    .attr('stroke-width', 0.4)
+    .attr('stroke', d => selectedNums.has(d.id) ? '#f5a623' : '#fff')
+    .attr('stroke-width', d => selectedNums.has(d.id) ? 2 : 0.4)
+    .style('cursor', d => nameByNum.has(d.id) ? 'pointer' : 'default')
+    .on('click', (_, d) => {
+      const name = nameByNum.get(d.id)
+      if (name) emit('select-country', name)
+    })
     .on('mousemove', (event, d) => {
       const value = valueByNum.get(d.id)
       if (!value) { tip.value.show = false; return }
@@ -121,7 +135,7 @@ onMounted(() => {
   ro.observe(containerEl.value)
 })
 onUnmounted(() => ro?.disconnect())
-watch([() => props.events, () => props.metric], draw)
+watch([() => props.events, () => props.metric, () => props.selectedCountries], draw)
 </script>
 
 <template>

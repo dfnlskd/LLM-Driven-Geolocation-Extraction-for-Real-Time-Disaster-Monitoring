@@ -125,6 +125,19 @@ function clearFilters() {
   filterMetric.value      = 'count'
 }
 
+// ── Chart interaction handlers ────────────────────────────────────
+function onSelectCountry(country) {
+  toggleCountry(country)
+}
+
+function onSelectGroup(group) {
+  filterGroup.value = filterGroup.value === group ? '' : group
+}
+
+function onSelectMetric(metric) {
+  filterMetric.value = filterMetric.value === metric ? 'count' : metric
+}
+
 // ── KPIs & list ──────────────────────────────────────────────────
 const totalEvents    = computed(() => filtered.value.length)
 const totalCountries = computed(() => new Set(filtered.value.map(e => e.country).filter(Boolean)).size)
@@ -309,7 +322,12 @@ function fmt(n) {
       <div class="dash-mid">
         <div class="panel-card map-card">
           <div class="panel-card-title">Geographic Distribution — {{ metricLabel }}</div>
-          <WorldMap :events="filtered" :metric="filterMetric" />
+          <WorldMap
+            :events="filtered"
+            :metric="filterMetric"
+            :selectedCountries="selectedCountries"
+            @select-country="onSelectCountry"
+          />
         </div>
         <div class="panel-card">
           <div class="panel-card-title">{{ metricLabel }} by Year</div>
@@ -321,11 +339,19 @@ function fmt(n) {
       <div class="dash-right">
         <div class="panel-card">
           <div class="panel-card-title">By Disaster Group</div>
-          <DonutChart :events="filtered" />
+          <DonutChart
+            :events="filtered"
+            :selectedGroup="filterGroup"
+            @select-group="onSelectGroup"
+          />
         </div>
         <div class="panel-card">
           <div class="panel-card-title">Impact Summary</div>
-          <ImpactBar :events="filtered" />
+          <ImpactBar
+            :events="filtered"
+            :selectedMetric="filterMetric"
+            @select-metric="onSelectMetric"
+          />
         </div>
       </div>
 
