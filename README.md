@@ -22,7 +22,7 @@ Tested on **1,587 multi-hazard ReliefWeb reports** · Best config: RAG + 2-shot 
 | Geographic F1 | 0.98 |
 | Usability Rate | 89.6% (1,368 / 1,526 records) |
 
-### Dual-Layer Validation
+### Dual-Layer Validation *(exploratory — not evaluated in the paper)*
 
 **Rule-based Validator**
 - Field presence & date format
